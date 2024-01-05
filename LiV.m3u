@@ -157,7 +157,7 @@ jjkt
 
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="地方",上海都市
 
-#EXTINF:-1 tvg-id="咪咕视频1" tvg-name="咪咕视频1" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="地方",咪咕视频1
+#EXTINF:-1 tvg-id="咪咕视频1" tvg-name="咪咕视频1" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕体育直播",咪咕视频1
 
 http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8
 
