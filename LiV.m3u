@@ -97,6 +97,8 @@ http://39.134.66.66/PLTV/88888888/224/3221225496/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225584/index.m3u8
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视",新疆卫视
 http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8
+#EXTINF:-1 tvg-id="四川科教" tvg-name="四川科教" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="四川",四川科教
+http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 #EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="数字频道",求索科学
 http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="数字频道",求索纪录
