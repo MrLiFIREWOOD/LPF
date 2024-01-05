@@ -209,3 +209,5 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="咪咕视频1" tvg-name="咪咕视频1" "咪咕直播",咪咕视频1
 http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频2" tvg-name="咪咕视频2" "咪咕直播",咪咕视频2
+http://39.134.66.66/PLTV/88888888/224/3221225648/index.m3u8
