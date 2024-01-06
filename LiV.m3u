@@ -199,6 +199,8 @@ https://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="金砖电视" tvg-name="金砖电视" tvg-logo="https://live.fanmingming.com/tv/金砖电视.png" group-title="国际",金砖电视
 https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="TravelXP" tvg-name="TravelXP" tvg-logo="https://live.fanmingming.com/tv/TravelXP.png" group-title="国际",TravelXP
+https://706a9cda37294f64a7b7167ed8d4d986.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_TravelXP/playlist.m3u8?ads.wurl_channel=556&ads.wurl_name=TravelXP&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="咪咕直播4K" tvg-name="咪咕直播4K" tvg-logo="https://live.fanmingming.com/tv/咪咕直播.png" group-title="咪咕体育直播",咪咕直播4K
 http://39.134.66.66/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="咪咕直播1" tvg-name="咪咕直播1" tvg-logo="https://live.fanmingming.com/tv/咪咕直播.png" group-title="咪咕体育直播",咪咕直播1
