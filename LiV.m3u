@@ -171,6 +171,8 @@ https://livedoc.cgtn.com/500d/prog_index.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",CNN新闻
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
+#EXTINF:-1 tvg-id="CBSNews" tvg-name="CBSNews" tvg-logo="https://epg.112114.xyz/logo/CBS.png" group-title="国际",CBS新闻
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 #EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="国际",NHKWORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="国际",亚洲新闻
