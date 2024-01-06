@@ -100,7 +100,7 @@ http://171.221.240.108:808/hls/32/index.m3u8
 #EXTINF:-1 tvg-id="四川文化旅游" tvg-name="四川文化旅游" tvg-logo="https://live.fanmingming.com/tv/四川文化旅游.png" group-title="四川",四川文化旅游
 http://159.75.166.157/php/sichuan.php?id=scwhly
 #EXTINF:-1 tvg-id="四川新闻" tvg-name="四川新闻" tvg-logo="https://live.fanmingming.com/tv/四川新闻.png" group-title="四川",四川新闻
-http://171.221.240.108:808/hls/34/index.m3u8
+http://183.223.157.33:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="四川影视文艺" tvg-name="四川影视文艺" tvg-logo="https://live.fanmingming.com/tv/四川影视文艺.png" group-title="四川",四川影视文艺
 http://171.221.240.108:808/hls/35/index.m3u8
 #EXTINF:-1 tvg-id="成都综合" tvg-name="成都综合" tvg-logo="https://live.fanmingming.com/tv/成都综合.png" group-title="四川",成都综合
