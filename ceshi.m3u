@@ -221,20 +221,6 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="GBAJ49000184K" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/60/GBAJ49000184K_20220323T071208.png" group-title="国际",Travelxp
 https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
-#EXTINF:-1 tvg-id="TRUE SPORTS 1" tvg-name="TRUE SPORTS 1" group-title="国际",TRUE SPORTS 1
-https://edge1.laotv.la/live/TrueSport6/index.m3u8
-#EXTINF:-1 tvg-id="True Sports 2" tvg-name="True Sports 2" group-title="国际",True Sports 2
-https://edge2.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 tvg-id="True Sports 3" tvg-name="True Sports 3" group-title="国际",True Sports 3
-https://edge2.laotv.la/live/TrueSport3/index.m3u8
-#EXTINF:-1 tvg-id="True Sports 7" tvg-name="True Sports 7" group-title="国际",True Sports 7
-https://edge1.laotv.la/live/THD7/index.m3u8
-#EXTINF:-1 tvg-id="TRUE SPORTS 7 VN" tvg-name="TRUE SPORTS 7 VN" group-title="国际",TRUE SPORTS 7 VN
-https://edge2.laotv.la/live/TSports7/index.m3u8
-#EXTINF:-1 tvg-id="TRUE SPORTS PREMIER 1" tvg-name="TRUE SPORTS PREMIER 1" group-title="国际",TRUE SPORTS PREMIER 1
-https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 tvg-id="True Sports Premier 2" tvg-name="True Sports Premier 2" group-title="国际,True Sports Premier 2
-https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
 http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
 #EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
