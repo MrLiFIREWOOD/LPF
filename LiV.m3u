@@ -101,19 +101,19 @@ http://192.168.8.8:8888/udp/239.93.0.100:5140
 http://192.168.8.8:8888/udp/239.93.42.43:5140
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视",厦门卫视
 http://192.168.8.8:8888/udp/239.93.42.57:5140
-#EXTINF:-1 tvg-id="CDTV-1" tvg-name="CDTV-1" tvg-logo="https://live.fanmingming.com/tv/CDTV-1.png" group-title="四川",CDTV-1
+#EXTINF:-1 tvg-id="CDTV-1" tvg-name="CDTV-1" tvg-logo="https://live.fanmingming.com/tv/cdtv1.png" group-title="四川",CDTV-1
 http://192.168.8.8:8888/udp/239.93.0.16:5140
-#EXTINF:-1 tvg-id="CDTV-2" tvg-name="CDTV-2" tvg-logo="https://live.fanmingming.com/tv/CDTV-2.png" group-title="四川",CDTV-2
+#EXTINF:-1 tvg-id="CDTV-2" tvg-name="CDTV-2" tvg-logo="https://live.fanmingming.com/tv/cdtv2.png" group-title="四川",CDTV-2
 http://192.168.8.8:8888/udp/239.93.0.17:1239
-#EXTINF:-1 tvg-id="CDTV-3" tvg-name="CDTV-3" tvg-logo="https://live.fanmingming.com/tv/CDTV-3.png" group-title="四川",CDTV-3
+#EXTINF:-1 tvg-id="CDTV-3" tvg-name="CDTV-3" tvg-logo="https://live.fanmingming.com/tv/cdtv3.png" group-title="四川",CDTV-3
 http://192.168.8.8:8888/udp/239.93.0.18:1238
-#EXTINF:-1 tvg-id="CDTV-4" tvg-name="CDTV-4" tvg-logo="https://live.fanmingming.com/tv/CDTV-4.png" group-title="四川",CDTV-4
+#EXTINF:-1 tvg-id="CDTV-4" tvg-name="CDTV-4" tvg-logo="https://live.fanmingming.com/tv/cdtv4.png" group-title="四川",CDTV-4
 http://192.168.8.8:8888/udp/239.93.0.19:1250
-#EXTINF:-1 tvg-id="CDTV-5" tvg-name="CDTV-5" tvg-logo="https://live.fanmingming.com/tv/CDTV-5.png" group-title="四川",CDTV-5
+#EXTINF:-1 tvg-id="CDTV-5" tvg-name="CDTV-5" tvg-logo="https://live.fanmingming.com/tv/cdtv5.png" group-title="四川",CDTV-5
 http://192.168.8.8:8888/udp/239.93.1.231:5140
-#EXTINF:-1 tvg-id="CDTV-6" tvg-name="CDTV-6" tvg-logo="https://live.fanmingming.com/tv/CDTV-6.png" group-title="四川",CDTV-6
+#EXTINF:-1 tvg-id="CDTV-6" tvg-name="CDTV-6" tvg-logo="https://live.fanmingming.com/tv/cdtv6.png" group-title="四川",CDTV-6
 http://192.168.8.8:8888/udp/239.93.0.21:1251
-#EXTINF:-1 tvg-id="CDTV-8" tvg-name="CDTV-8" tvg-logo="https://live.fanmingming.com/tv/CDTV-8.png" group-title="四川",CDTV-8
+#EXTINF:-1 tvg-id="CDTV-8" tvg-name="CDTV-8" tvg-logo="https://live.fanmingming.com/tv/cdtv8.png" group-title="四川",CDTV-8
 http://192.168.8.8:8888/udp/239.93.0.22:1252
 #EXTINF:-1 tvg-id="四川科教" tvg-name="四川科教" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="四川",四川科教
 http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
