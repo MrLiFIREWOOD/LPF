@@ -115,20 +115,22 @@ http://192.168.8.8:8888/udp/239.93.1.231:5140
 http://192.168.8.8:8888/udp/239.93.0.21:1251
 #EXTINF:-1 tvg-id="CDTV-8" tvg-name="CDTV-8" tvg-logo="https://live.fanmingming.com/tv/cdtv8.png" group-title="四川",CDTV-8
 http://192.168.8.8:8888/udp/239.93.0.22:1252
-#EXTINF:-1 tvg-id="四川科教" tvg-name="四川科教" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="四川",四川科教
-http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
-#EXTINF:-1 tvg-id="四川经济" tvg-name="四川经济" tvg-logo="https://live.fanmingming.com/tv/四川经济.png" group-title="四川",四川经济
-http://159.75.166.157/php/sichuan.php?id=scjj
-#EXTINF:-1 tvg-id="四川文化旅游" tvg-name="四川文化旅游" tvg-logo="https://live.fanmingming.com/tv/四川文化旅游.png" group-title="四川",四川文化旅游
-http://159.75.166.157/php/sichuan.php?id=scwhly
-#EXTINF:-1 tvg-id="四川新闻" tvg-name="四川新闻" tvg-logo="https://live.fanmingming.com/tv/四川新闻.png" group-title="四川",四川新闻
-http://159.75.166.157/php/sichuan.php?id=scxw
-#EXTINF:-1 tvg-id="四川影视文艺" tvg-name="四川影视文艺" tvg-logo="https://live.fanmingming.com/tv/四川影视文艺.png" group-title="四川",四川影视文艺
-http://159.75.166.157/php/sichuan.php?id=scyswy
-#EXTINF:-1 tvg-id="四川妇女儿童" tvg-name="四川妇女儿童" tvg-logo="https://live.fanmingming.com/tv/四川妇女儿童.png" group-title="四川",四川妇女儿童
-http://159.75.166.157/php/sichuan.php?id=scfnet
-#EXTINF:-1 tvg-id="四川乡村" tvg-name="四川乡村" tvg-logo="https://live.fanmingming.com/tv/四川乡村.png" group-title="四川",四川乡村
-http://159.75.166.157/php/sichuan.php?id=scxc
+#EXTINF:-1 tvg-id="SCTV-2" tvg-name="SCTV-2" tvg-logo="https://live.fanmingming.com/tv/sctv2.png" group-title="四川",SCTV-2
+http://192.168.8.8:8888/udp/239.93.1.101:5140
+#EXTINF:-1 tvg-id="SCTV-3" tvg-name="SCTV-3" tvg-logo="https://live.fanmingming.com/tv/sctv3.png" group-title="四川",SCTV-3
+http://192.168.8.8:8888/udp/239.93.1.102:5140
+#EXTINF:-1 tvg-id="SCTV-4" tvg-name="SCTV-4" tvg-logo="https://live.fanmingming.com/tv/sctv4.png" group-title="四川",SCTV-4
+http://192.168.8.8:8888/udp/239.93.0.47:5140
+#EXTINF:-1 tvg-id="SCTV-5" tvg-name="SCTV-5" tvg-logo="https://live.fanmingming.com/tv/sctv5.png" group-title="四川",SCTV-5
+http://192.168.8.8:8888/udp/239.93.0.166:5140
+#EXTINF:-1 tvg-id="SCTV-6" tvg-name="SCTV-6" tvg-logo="https://live.fanmingming.com/tv/sctv6.png" group-title="四川",SCTV-6
+http://192.168.8.8:8888/udp/239.93.1.144:5140
+#EXTINF:-1 tvg-id="SCTV-7" tvg-name="SCTV-7" tvg-logo="https://live.fanmingming.com/tv/sctv7.png" group-title="四川",SCTV-7
+http://192.168.8.8:8888/udp/239.93.0.219:5140
+#EXTINF:-1 tvg-id="SCTV-科教" tvg-name="SCTV-科教" tvg-logo="https://live.fanmingming.com/tv/sctv8.png" group-title="四川",SCTV-科教
+http://192.168.8.8:8888/udp/239.93.42.44:5140
+#EXTINF:-1 tvg-id="四川乡村" tvg-name="四川乡村" tvg-logo="https://live.fanmingming.com/tv/sctv9.png" group-title="四川",四川乡村
+http://192.168.8.8:8888/udp/239.93.0.52:5140
 #EXTINF:-1 tvg-id="四川星空购物" tvg-name="四川星空购物" tvg-logo="https://live.fanmingming.com/tv/四川星空购物.png" group-title="四川",四川星空购物
 http://159.75.166.157/php/sichuan.php?id=scxkgw
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="国际",凤凰中文
