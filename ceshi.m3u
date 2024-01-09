@@ -113,6 +113,18 @@ http://159.75.166.157/php/sichuan.php?id=scfnet
 http://159.75.166.157/php/sichuan.php?id=scxc
 #EXTINF:-1 tvg-id="四川星空购物" tvg-name="四川星空购物" tvg-logo="https://live.fanmingming.com/tv/星空购物.png" group-title="四川",四川星空购物
 http://159.75.166.157/php/sichuan.php?id=scxkgw
+#EXTINF:-1 tvg-id="成都新闻综合" tvg-name="成都新闻综合" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="地方",成都新闻综合
+http://live.cooltv.top/tv/cdtv.php?id=cdxwzh
+#EXTINF:-1 tvg-id="成都经济" tvg-name="成都经济" tvg-logo="" group-title="四川",成都经济
+http://live.cooltv.top/tv/cdtv.php?id=cdjjzx
+#EXTINF:-1 tvg-id="成都都市" tvg-name="成都都市" tvg-logo="" group-title="四川",成都都市
+http://live.cooltv.top/tv/cdtv.php?id=cddssh
+#EXTINF:-1 tvg-id="成都影视" tvg-name="成都影视" tvg-logo="" group-title="四川",成都影视
+http://live.cooltv.top/tv/cdtv.php?id=cdyswy
+#EXTINF:-1 tvg-id="成都公共" tvg-name="成都公共" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="四川",成都公共
+http://live.cooltv.top/tv/cdtv.php?id=cdgg
+#EXTINF:-1 tvg-id="成都少儿" tvg-name="成都少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="四川",成都少儿
+http://live.cooltv.top/tv/cdtv.php?id=cdse
 #EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="数字频道",求索科学
 http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="数字频道",求索纪录
