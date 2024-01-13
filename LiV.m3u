@@ -101,20 +101,18 @@ http://192.168.8.8:8888/udp/239.93.0.100:5140
 http://192.168.8.8:8888/udp/239.93.42.43:5140
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视",厦门卫视
 http://192.168.8.8:8888/udp/239.93.42.57:5140
-#EXTINF:-1 tvg-id="CDTV-1" tvg-name="CDTV-1" tvg-logo="https://live.fanmingming.com/tv/cdtv1.png" group-title="四川",CDTV-1
-http://192.168.8.8:8888/udp/239.93.0.16:5140
-#EXTINF:-1 tvg-id="CDTV-2" tvg-name="CDTV-2" tvg-logo="https://live.fanmingming.com/tv/cdtv2.png" group-title="四川",CDTV-2
-http://192.168.8.8:8888/udp/239.93.0.17:1239
-#EXTINF:-1 tvg-id="CDTV-3" tvg-name="CDTV-3" tvg-logo="https://live.fanmingming.com/tv/cdtv3.png" group-title="四川",CDTV-3
-http://192.168.8.8:8888/udp/239.93.0.18:1238
-#EXTINF:-1 tvg-id="CDTV-4" tvg-name="CDTV-4" tvg-logo="https://live.fanmingming.com/tv/cdtv4.png" group-title="四川",CDTV-4
-http://192.168.8.8:8888/udp/239.93.0.19:1250
-#EXTINF:-1 tvg-id="CDTV-5" tvg-name="CDTV-5" tvg-logo="https://live.fanmingming.com/tv/cdtv5.png" group-title="四川",CDTV-5
-http://192.168.8.8:8888/udp/239.93.1.231:5140
-#EXTINF:-1 tvg-id="CDTV-6" tvg-name="CDTV-6" tvg-logo="https://live.fanmingming.com/tv/cdtv6.png" group-title="四川",CDTV-6
-http://192.168.8.8:8888/udp/239.93.0.21:1251
-#EXTINF:-1 tvg-id="CDTV-8" tvg-name="CDTV-8" tvg-logo="https://live.fanmingming.com/tv/cdtv8.png" group-title="四川",CDTV-8
-http://192.168.8.8:8888/udp/239.93.0.22:1252
+#EXTINF:-1 tvg-id="成都新闻综合" tvg-name="成都新闻综合" tvg-logo="https://live.fanmingming.com/tv/cdtv1.png" group-title="地方",成都新闻综合
+http://live.cooltv.top/tv/cdtv.php?id=cdxwzh
+#EXTINF:-1 tvg-id="成都经济" tvg-name="成都经济" tvg-logo="https://live.fanmingming.com/tv/cdtv2.png" group-title="四川",成都经济
+http://live.cooltv.top/tv/cdtv.php?id=cdjjzx
+#EXTINF:-1 tvg-id="成都都市" tvg-name="成都都市" tvg-logo="https://live.fanmingming.com/tv/cdtv3.png" group-title="四川",成都都市
+http://live.cooltv.top/tv/cdtv.php?id=cddssh
+#EXTINF:-1 tvg-id="成都影视" tvg-name="成都影视" tvg-logo="https://live.fanmingming.com/tv/cdtv4.png" group-title="四川",成都影视
+http://live.cooltv.top/tv/cdtv.php?id=cdyswy
+#EXTINF:-1 tvg-id="成都公共" tvg-name="成都公共" tvg-logo="https://live.fanmingming.com/tv/cdtv5.png" group-title="四川",成都公共
+http://live.cooltv.top/tv/cdtv.php?id=cdgg
+#EXTINF:-1 tvg-id="成都少儿" tvg-name="成都少儿" tvg-logo="https://live.fanmingming.com/tv/cdtv6.png" group-title="四川",成都少儿
+http://live.cooltv.top/tv/cdtv.php?id=cdse
 #EXTINF:-1 tvg-id="SCTV-2" tvg-name="SCTV-2" tvg-logo="https://live.fanmingming.com/tv/sctv2.png" group-title="四川",SCTV-2
 http://192.168.8.8:8888/udp/239.93.1.101:5140
 #EXTINF:-1 tvg-id="SCTV-3" tvg-name="SCTV-3" tvg-logo="https://live.fanmingming.com/tv/sctv3.png" group-title="四川",SCTV-3
@@ -134,21 +132,22 @@ http://192.168.8.8:8888/udp/239.93.0.52:5140
 #EXTINF:-1 tvg-id="四川星空购物" tvg-name="四川星空购物" tvg-logo="https://live.fanmingming.com/tv/四川星空购物.png" group-title="四川",四川星空购物
 http://159.75.166.157/php/sichuan.php?id=scxkgw
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="国际",凤凰中文
-http://192.168.8.8:8888/udp/239.93.0.162:2192
+http:#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="国际",凤凰中文
+https://edge2.laotv.la/live/PhxChinese/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="国际",凤凰资讯
-http://192.168.8.8:8888/udp/239.93.0.118:2191
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="国际",CGTN
-http://192.168.8.8:8888/udp/239.93.0.104:5140
-#EXTINF:-1 tvg-id="CGTNDOCUMENTARY" tvg-name="CGTNDOCUMENTARY" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="国际",CGTN记录
-https://livedoc.cgtn.com/500d/prog_index.m3u8
+https://edge1.laotv.la/live/PhoenixNews/sc-gaFECQ/v0_index.m3u8
 #EXTINF:-1 tvg-id="FoxNews" tvg-name="FoxNews" tvg-logo="https://live.fanmingming.com/tv/FoxLive.png" group-title="国际",FOX新闻
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",CNN新闻
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
 #EXTINF:-1 tvg-id="CBSNews" tvg-name="CBSNews" tvg-logo="https://epg.112114.xyz/logo/CBS.png" group-title="国际",CBS新闻
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+#EXTINF:-1 tvg-id="GBAJ4900020VP" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/62/GBAJ4900020VP_20220323T070621.png" group-title="国际",Euronews Live
+https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8?
 #EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="国际",NHKWORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-id="USBB2200014DK" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/44/USBB2200014DK_20220712T041422.png" group-title="国际",NBC News NOW
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8?
 #EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="国际",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="半岛英语" tvg-name="半岛英语" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际",半岛英语
@@ -163,6 +162,9 @@ https://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="金砖电视" tvg-name="金砖电视" tvg-logo="https://live.fanmingming.com/tv/金砖电视.png" group-title="国际",金砖电视
 https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="TravelXP" tvg-name="TravelXP" tvg-logo="https://live.fanmingming.com/tv/TravelXP.png" group-title="国际",TravelXP
-https://706a9cda37294f64a7b7167ed8d4d986.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_TravelXP/playlist.m3u8?ads.wurl_channel=556&ads.wurl_name=TravelXP&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-
+#EXTINF:-1 tvg-id="GBAJ49000184K" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/60/GBAJ49000184K_20220323T071208.png" group-title="国际",Travelxp
+https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
+#EXTINF:-1 tvg-id="Willow HD" tvg-name="Willow HD" tvg-logo="https://live.fanmingming.com/tv/Willow HD.png" group-title="国际",Willow HD
+https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
+#EXTINF:-1 group-title="国际",EDGE SPORTS
+http://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
