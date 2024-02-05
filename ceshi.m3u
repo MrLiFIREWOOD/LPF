@@ -229,10 +229,6 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="GBAJ49000184K" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/60/GBAJ49000184K_20220323T071208.png" group-title="国际",Travelxp
 https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
-#EXTINF:-1 tvg-id="Willow HD" tvg-name="Willow HD" tvg-logo="https://live.fanmingming.com/tv/Willow HD.png" group-title="国际",Willow HD
-https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
-#EXTINF:-1 group-title="国际",EDGE SPORTS
-http://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
 http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
 #EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
