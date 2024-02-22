@@ -133,6 +133,8 @@ http://192.168.8.8:8888/udp/239.93.0.52:5140
 http://159.75.166.157/php/sichuan.php?id=scxkgw
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="数字频道",新视觉
 http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xsjhd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字频道",纪实人文
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="数字频道",都市剧场
 http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dsjc8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字频道",欢笑剧场
