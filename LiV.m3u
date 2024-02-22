@@ -26,11 +26,15 @@ http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cc
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法
 http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv12hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
-http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv13hd8m/8000000/mnf.m3u8
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
-http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv148m/8000000/mnf.m3u8
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv14sehd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
-http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv178m/8000000/mnf.m3u8
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
 http://192.168.8.8:8888/udp/239.93.0.20:1235
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
