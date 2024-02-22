@@ -43,7 +43,7 @@ http://113.195.13.183:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=0&authid=
 http://112.19.171.156:9999/rtp/239.93.1.198:5140
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视",兵器科技
 http://112.19.171.156:9999/rtp/239.93.1.235:5140
-#EXTINF:-1 tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://live.fanmingming.com/tv/央视精品.png" group-title="央视",央视精品
+#EXTINF:-1 tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://live.fanmingming.com/tv/央视文化精品.png" group-title="央视",央视精品
 http://112.19.171.156:9999/rtp/239.93.42.47:5140
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视",世界地理
 http://112.19.171.156:9999/rtp/239.93.1.157:5140
@@ -65,8 +65,6 @@ http://113.9.171.201:88/hls/163/index.m3u8
 http://dd.ikhs.cn:8880/udp/239.254.96.207:9322
 #EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="央视",老故事
 http://dd.ikhs.cn:8880/udp/239.69.1.85:10150
-#EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视",CCTV高尔夫网球
-http://112.19.171.156:9999/rtp/239.93.1.54:5140
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jswshd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
