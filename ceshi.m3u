@@ -98,21 +98,21 @@ http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 tvg-id="四川科教" tvg-name="四川科教" tvg-logo="https://live.fanmingming.com/tv/四川科教.png" group-title="四川",四川科教
-http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.194:5140
 #EXTINF:-1 tvg-id="四川经济" tvg-name="四川经济" tvg-logo="https://live.fanmingming.com/tv/四川经济.png" group-title="四川",四川经济
-http://159.75.166.157/php/sichuan.php?id=scjj
+http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.2:5140
 #EXTINF:-1 tvg-id="四川文化旅游" tvg-name="四川文化旅游" tvg-logo="https://live.fanmingming.com/tv/四川文化旅游.png" group-title="四川",四川文化旅游
-http://159.75.166.157/php/sichuan.php?id=scwhly
+http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.3:5140
 #EXTINF:-1 tvg-id="四川新闻" tvg-name="四川新闻" tvg-logo="https://live.fanmingming.com/tv/四川新闻.png" group-title="四川",四川新闻
-http://159.75.85.63:5681/sxg.php?id=SCTV-4H265_4000
+http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.5:5140
 #EXTINF:-1 tvg-id="四川影视文艺" tvg-name="四川影视文艺" tvg-logo="https://live.fanmingming.com/tv/四川影视文艺.png" group-title="四川",四川影视文艺
-http://159.75.166.157/php/sichuan.php?id=scyswy
+http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.77:5140
 #EXTINF:-1 tvg-id="四川妇女儿童" tvg-name="四川妇女儿童" tvg-logo="https://live.fanmingming.com/tv/四川妇女儿童.png" group-title="四川",四川妇女儿童
-http://159.75.166.157/php/sichuan.php?id=scfnet
+http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.8:5140
 #EXTINF:-1 tvg-id="四川乡村" tvg-name="四川乡村" tvg-logo="https://live.fanmingming.com/tv/四川乡村.png" group-title="四川",四川乡村
-http://159.75.166.157/php/sichuan.php?id=scxc
-#EXTINF:-1 tvg-id="四川星空购物" tvg-name="四川星空购物" tvg-logo="https://live.fanmingming.com/tv/星空购物.png" group-title="四川",四川星空购物
-http://159.75.166.157/php/sichuan.php?id=scxkgw
+http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.4:5140
+#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="四川",康巴卫视
+http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.10:5140
 #EXTINF:-1 tvg-id="成都新闻综合" tvg-name="成都新闻综合" tvg-logo="https://live.fanmingming.com/tv/cdtv1.png" group-title="地方",成都新闻综合
 http://live.cooltv.top/tv/cdtv.php?id=cdxwzh
 #EXTINF:-1 tvg-id="成都经济" tvg-name="成都经济" tvg-logo="https://live.fanmingming.com/tv/cdtv2.png" group-title="四川",成都经济
