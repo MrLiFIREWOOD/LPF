@@ -87,6 +87,8 @@ http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/yn
 http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gzwshd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
 http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="数字频道",CHC高清电影
+http://dd.ikhs.cn:8880/udp/239.69.1.241:11088
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="数字频道",新视觉
 http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xsjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字频道",纪实人文
