@@ -87,6 +87,36 @@ http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/yn
 http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gzwshd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
 http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="四川科教" tvg-name="四川科教" tvg-logo="https://live.fanmingming.com/tv/四川科教.png" group-title="四川",四川科教
+http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.194:5140
+#EXTINF:-1 tvg-id="四川经济" tvg-name="四川经济" tvg-logo="https://live.fanmingming.com/tv/四川经济.png" group-title="四川",四川经济
+http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.2:5140
+#EXTINF:-1 tvg-id="四川文化旅游" tvg-name="四川文化旅游" tvg-logo="https://live.fanmingming.com/tv/四川文化旅游.png" group-title="四川",四川文化旅游
+http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.3:5140
+#EXTINF:-1 tvg-id="四川新闻" tvg-name="四川新闻" tvg-logo="https://live.fanmingming.com/tv/四川新闻.png" group-title="四川",四川新闻
+http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.5:5140
+#EXTINF:-1 tvg-id="四川影视文艺" tvg-name="四川影视文艺" tvg-logo="https://live.fanmingming.com/tv/四川影视文艺.png" group-title="四川",四川影视文艺
+http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.77:5140
+#EXTINF:-1 tvg-id="四川妇女儿童" tvg-name="四川妇女儿童" tvg-logo="https://live.fanmingming.com/tv/四川妇女儿童.png" group-title="四川",四川妇女儿童
+http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.8:5140
+#EXTINF:-1 tvg-id="四川乡村" tvg-name="四川乡村" tvg-logo="https://live.fanmingming.com/tv/四川乡村.png" group-title="四川",四川乡村
+http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.4:5140
+#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="四川",康巴卫视
+http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.10:5140
+#EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://live.fanmingming.com/tv/峨眉电影.png" group-title="四川",峨眉电影
+http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.11:5140
+#EXTINF:-1 tvg-id="成都新闻综合" tvg-name="成都新闻综合" tvg-logo="https://live.fanmingming.com/tv/cdtv1.png" group-title="地方",成都新闻综合
+http://ipv6.kjrzxhb.top:8888/udp/239.10.0.11:5140
+#EXTINF:-1 tvg-id="成都经济" tvg-name="成都经济" tvg-logo="https://live.fanmingming.com/tv/cdtv2.png" group-title="四川",成都经济
+http://ipv6.kjrzxhb.top:8888/udp/239.10.0.12:5140
+#EXTINF:-1 tvg-id="成都都市" tvg-name="成都都市" tvg-logo="https://live.fanmingming.com/tv/cdtv3.png" group-title="四川",成都都市
+http://ipv6.kjrzxhb.top:8888/udp/239.10.0.13:5140
+#EXTINF:-1 tvg-id="成都影视" tvg-name="成都影视" tvg-logo="https://live.fanmingming.com/tv/cdtv4.png" group-title="四川",成都影视
+http://ipv6.kjrzxhb.top:8888/udp/239.10.0.14:5140
+#EXTINF:-1 tvg-id="成都公共" tvg-name="成都公共" tvg-logo="https://live.fanmingming.com/tv/cdtv5.png" group-title="四川",成都公共
+http://ipv6.kjrzxhb.top:8888/udp/239.10.0.15:5140
+#EXTINF:-1 tvg-id="成都少儿" tvg-name="成都少儿" tvg-logo="https://live.fanmingming.com/tv/cdtv6.png" group-title="四川",成都少儿
+http://ipv6.kjrzxhb.top:8888/udp/239.10.0.16:5140
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="数字频道",CHC高清电影
 http://dd.ikhs.cn:8880/udp/239.69.1.241:11088
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
