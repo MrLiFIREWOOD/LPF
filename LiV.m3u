@@ -37,8 +37,6 @@ http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cc
 http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 
 http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4k/15000000/mnf.m3u8
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视",第一剧场
-http://113.195.13.183:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视",怀旧剧场
 http://112.19.171.156:9999/rtp/239.93.1.198:5140
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视",兵器科技
@@ -49,12 +47,6 @@ http://112.19.171.156:9999/rtp/239.93.42.47:5140
 http://112.19.171.156:9999/rtp/239.93.1.157:5140
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视",女性时尚
 http://112.19.171.156:9999/rtp/239.93.42.62:5140
-#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视",风云剧场
-http://113.195.13.183:9901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视",风云音乐
-http://113.195.13.183:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视",风云足球
-http://113.195.13.183:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视",高尔夫网球
 http://112.19.171.156:9999/rtp/239.93.1.54:5140
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视",央视台球
