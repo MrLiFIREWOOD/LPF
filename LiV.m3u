@@ -143,7 +143,7 @@ http://mail.lacool.tk:8086/rtp/239.93.0.52:5140
 http://mail.lacool.tk:8086/rtp/239.93.0.41:5140
 #EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://live.fanmingming.com/tv/峨眉电影.png" group-title="四川",峨眉电影
 http://mail.lacool.tk:8086/rtp/239.93.0.252:5140
-#EXTINF:-1 tvg-id="cdtv1" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川", CDTV-1高清
+#EXTINF:-1 tvg-id="cdtv1" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川", CDTV-1
 http://mail.lacool.tk:8086/rtp/239.93.0.16:5140
 #EXTINF:-1 tvg-id="cdtv2" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川", CDTV-2
 http://mail.lacool.tk:8086/rtp/239.93.0.17:1239
@@ -151,7 +151,7 @@ http://mail.lacool.tk:8086/rtp/239.93.0.17:1239
 http://mail.lacool.tk:8086/rtp/239.93.0.18:1238
 #EXTINF:-1 tvg-id="cdtv4" tvg-name="CDTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png" group-title="四川", CDTV-4
 http://mail.lacool.tk:8086/rtp/239.93.0.19:1250
-#EXTINF:-1 tvg-id="cdtv5" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="四川", CDTV-5高清
+#EXTINF:-1 tvg-id="cdtv5" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="四川", CDTV-5
 http://mail.lacool.tk:8086/rtp/239.93.1.231:5140
 #EXTINF:-1 tvg-id="CDTV6" tvg-name="CDTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="四川", CDTV-6
 http://mail.lacool.tk:8086/rtp/239.93.0.21:1251
