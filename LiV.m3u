@@ -107,23 +107,23 @@ http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/yn
 http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gzwshd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
 http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hainanwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视", 吉林卫视
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
 http://mail.lacool.tk:8086/rtp/239.93.0.248:5140
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视", 陕西卫视
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
 http://mail.lacool.tk:8086/rtp/239.93.0.176:5140
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视", 山西卫视
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
 http://mail.lacool.tk:8086/rtp/239.93.0.6:5140
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视", 内蒙古卫视
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
 http://mail.lacool.tk:8086/rtp/239.93.0.8:5140
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视", 青海卫视
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
 http://mail.lacool.tk:8086/rtp/239.93.0.192:5140
-#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视", 宁夏卫视
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
 http://mail.lacool.tk:8086/rtp/239.93.0.247:5140
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视", 西藏卫视
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 http://mail.lacool.tk:8086/rtp/239.93.0.175:5140
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视", 新疆卫视
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 http://mail.lacool.tk:8086/rtp/239.93.0.194:5140
-#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视", 兵团卫视
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://mail.lacool.tk:8086/rtp/239.93.42.43:5140
 #EXTINF:-1 tvg-id="四川科教" tvg-name="四川科教" tvg-logo="https://live.fanmingming.com/tv/四川科教.png" group-title="四川",四川科教
 http://mail.lacool.tk:8086/rtp/239.93.42.44:5140
@@ -143,19 +143,19 @@ http://mail.lacool.tk:8086/rtp/239.93.0.52:5140
 http://mail.lacool.tk:8086/rtp/239.93.0.41:5140
 #EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://live.fanmingming.com/tv/峨眉电影.png" group-title="四川",峨眉电影
 http://mail.lacool.tk:8086/rtp/239.93.0.252:5140
-#EXTINF:-1 tvg-id="cdtv1" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川", 成都新闻综合
+#EXTINF:-1 tvg-id="cdtv1" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",成都新闻综合
 http://mail.lacool.tk:8086/rtp/239.93.0.16:5140
-#EXTINF:-1 tvg-id="cdtv2" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川", 成都经济资讯
+#EXTINF:-1 tvg-id="cdtv2" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川",成都经济资讯
 http://mail.lacool.tk:8086/rtp/239.93.0.17:1239
-#EXTINF:-1 tvg-id="cdtv3" tvg-name="CDTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="四川", 成都都市生活
+#EXTINF:-1 tvg-id="cdtv3" tvg-name="CDTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="四川",成都都市生活
 http://mail.lacool.tk:8086/rtp/239.93.0.18:1238
-#EXTINF:-1 tvg-id="cdtv4" tvg-name="CDTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png" group-title="四川", 成都影视文艺
+#EXTINF:-1 tvg-id="cdtv4" tvg-name="CDTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png" group-title="四川",成都影视文艺
 http://mail.lacool.tk:8086/rtp/239.93.0.19:1250
-#EXTINF:-1 tvg-id="cdtv5" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="四川", 成都公共频道
+#EXTINF:-1 tvg-id="cdtv5" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="四川",成都公共频道
 http://mail.lacool.tk:8086/rtp/239.93.1.231:5140
-#EXTINF:-1 tvg-id="CDTV6" tvg-name="CDTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="四川", 成都少儿频道
+#EXTINF:-1 tvg-id="CDTV6" tvg-name="CDTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="四川",成都少儿频道
 http://mail.lacool.tk:8086/rtp/239.93.0.21:1251
-#EXTINF:-1 tvg-id="CDTV8" tvg-name="CDTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv8.png" group-title="四川", 成都每日购物
+#EXTINF:-1 tvg-id="CDTV8" tvg-name="CDTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv8.png" group-title="四川",成都每日购物
 http://mail.lacool.tk:8086/rtp/239.93.0.22:1252
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="数字频道",CHC高清电影
 http://dd.ikhs.cn:8880/udp/239.69.1.241:11088
@@ -205,25 +205,25 @@ http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qc
 http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/klcd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字频道",金鹰纪实
 http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jyjs8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="数字频道", 先锋乒羽
+#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="数字频道",先锋乒羽
 http://mail.lacool.tk:8086/rtp/239.93.42.56:5140
-#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="数字频道", 天元围棋
+#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="数字频道",天元围棋
 http://mail.lacool.tk:8086/rtp/239.93.42.55:5140
-#EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道", 经典电影
+#EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",经典电影
 http://mail.lacool.tk:8086/rtp/239.93.0.57:9024
-#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道", 华语影院
+#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",华语影院
 http://mail.lacool.tk:8086/rtp/239.93.0.138:5140
-#EXTINF:-1 tvg-id="星光院线" tvg-name="星光院线" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道", 星光院线
+#EXTINF:-1 tvg-id="星光院线" tvg-name="星光院线" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",星光院线
 http://mail.lacool.tk:8086/rtp/239.93.0.139:5140
-#EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道", 全球大片
+#EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",全球大片
 http://mail.lacool.tk:8086/rtp/239.93.0.105:5140
-#EXTINF:-1 tvg-id="热播剧场" tvg-name="热播剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道", 热播剧场
+#EXTINF:-1 tvg-id="热播剧场" tvg-name="热播剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",热播剧场
 http://mail.lacool.tk:8086/rtp/239.93.0.56:9020
-#EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道", 热门剧场
+#EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",热门剧场
 http://mail.lacool.tk:8086/rtp/239.93.0.140:5140
-#EXTINF:-1 tvg-id="港剧风云" tvg-name="港剧风云" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道", 港剧风云
+#EXTINF:-1 tvg-id="港剧风云" tvg-name="港剧风云" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",港剧风云
 http://mail.lacool.tk:8086/rtp/239.93.0.143:5140
-#EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道", 谍战剧场
+#EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",谍战剧场
 http://mail.lacool.tk:8086/rtp/239.93.0.95:5140
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="数字频道",爱上4K
 http://mail.lacool.tk:8086/rtp/239.93.0.97:5140
