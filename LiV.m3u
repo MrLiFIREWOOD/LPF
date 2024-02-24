@@ -278,29 +278,6 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 #EXTINF:-1 tvg-id="Yahoo Finance" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/35/USAJ4300005PJ_20220330T045138.png" group-title="国际",Yahoo Finance
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/yahoofina-samsungyahoofinance/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="ESPNNews" tvg-name="ESPNNews" tvg-logo="https://epg.112114.xyz/logo/ESPNNEWS.png" group-title="国际",ESPN News
-http://38.96.178.201:80/live/ESPNews/index.m3u8#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/RedBullTV.png" group-title="国际",Red Bull TV
+http://38.96.178.201:80/live/ESPNews/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/RedBullTV.png" group-title="国际",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://epg.112114.xyz/logo/ANIMAL.png" group-title="国际",Animal Planet
-http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/discovery.png" group-title="国际",Discovery Channel
-http://38.96.178.201:80/live/Discovery/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SM.png" group-title="国际",Star Movies
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Nmmc/IMG-20240126-094355.png" group-title="国际",Movies Now
-http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="国际",Cinemax East
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
-#EXTINF:-1 group-title="国际",Universal Televison
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 group-title="国际",HBO
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
-#EXTINF:-1 group-title="国际",HBO Plus
-http://170.254.18.106/HBO_PLUS/index.m3u8
-#EXTINF:-1 group-title="国际",HBO West
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10849
-#EXTINF:-1 group-title="国际",HBO 2
-http://170.254.18.106/HBO2/index.m3u8
-#EXTINF:-1 group-title="国际",HBO Family
-http://170.254.18.106/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="国际",HBO Signature
-http://170.254.18.106/HBO_SIG/index.m3u8
