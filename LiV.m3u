@@ -231,6 +231,8 @@ http://mail.lacool.tk:8086/rtp/239.93.0.143:5140
 http://mail.lacool.tk:8086/rtp/239.93.0.95:5140
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="数字频道",爱上4K
 http://mail.lacool.tk:8086/rtp/239.93.0.97:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道", 中录动漫4K
+http://mail.lacool.tk:8086/rtp/239.93.1.188:5140
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="国际",凤凰中文
 http://mail.lacool.tk:8086/rtp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="国际",凤凰资讯
