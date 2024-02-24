@@ -237,6 +237,37 @@ http://mail.lacool.tk:8086/rtp/239.93.1.188:5140
 http://mail.lacool.tk:8086/rtp/239.93.1.191:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道", 足球高清
 http://mail.lacool.tk:8086/rtp/239.93.0.197:9040
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他", 爱怀旧高清
+http://mail.lacool.tk:8086/rtp/239.93.42.21:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他", 爱喜剧高清
+http://mail.lacool.tk:8086/rtp/239.93.42.9:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他", 爱奇谈高清
+http://mail.lacool.tk:8086/rtp/239.93.42.22:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他", 爱科幻高清
+http://mail.lacool.tk:8086/rtp/239.93.42.10:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他", 爱院线高清
+http://mail.lacool.tk:8086/rtp/239.93.42.11:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他", 爱谍战高清
+http://mail.lacool.tk:8086/rtp/239.93.42.14:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他", 爱经典高清
+http://mail.lacool.tk:8086/rtp/239.93.42.13:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他", 爱悬疑高清
+http://mail.lacool.tk:8086/rtp/239.93.42.12:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他", 爱青春高清
+http://mail.lacool.tk:8086/rtp/239.93.42.16:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他", 爱都市高清
+http://mail.lacool.tk:8086/rtp/239.93.42.15:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他", 少儿天地
+http://mail.lacool.tk:8086/rtp/239.93.42.34:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他", 爱幼教高清
+http://mail.lacool.tk:8086/rtp/239.93.42.17:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他", 爱玩具高清
+http://mail.lacool.tk:8086/rtp/239.93.42.18:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他", 爱动漫高清
+http://mail.lacool.tk:8086/rtp/239.93.42.23:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他", 爱电竞高清
+http://mail.lacool.tk:8086/rtp/239.93.42.19:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他", 爱赛车高清
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="国际",凤凰中文
 http://mail.lacool.tk:8086/rtp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="国际",凤凰资讯
