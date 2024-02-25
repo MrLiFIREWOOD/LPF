@@ -239,6 +239,8 @@ http://mail.lacool.tk:8086/rtp/239.93.1.191:5140
 http://mail.lacool.tk:8086/rtp/239.93.0.197:9040
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道", 少儿天地
 http://mail.lacool.tk:8086/rtp/239.93.42.34:5140
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="数字频道", 茶频道
+http://mail.lacool.tk:8086/rtp/239.93.0.114:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/IHOT爱怀旧.png" group-title="数字频道", 爱怀旧高清
 http://mail.lacool.tk:8086/rtp/239.93.42.21:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/IHOT爱喜剧.png" group-title="数字频道", 爱喜剧高清
