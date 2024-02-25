@@ -217,6 +217,68 @@ http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qc
 http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/klcd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字频道",金鹰纪实
 http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jyjs8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="数字频道",先锋乒羽
+http://mail.lacool.tk:8086/rtp/239.93.42.56:5140
+#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="数字频道",天元围棋
+http://mail.lacool.tk:8086/rtp/239.93.42.55:5140
+#EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",经典电影
+http://mail.lacool.tk:8086/rtp/239.93.0.57:9024
+#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",华语影院
+http://mail.lacool.tk:8086/rtp/239.93.0.138:5140
+#EXTINF:-1 tvg-id="星光院线" tvg-name="星光院线" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",星光院线
+http://mail.lacool.tk:8086/rtp/239.93.0.139:5140
+#EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",全球大片
+http://mail.lacool.tk:8086/rtp/239.93.0.105:5140
+#EXTINF:-1 tvg-id="热播剧场" tvg-name="热播剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",热播剧场
+http://mail.lacool.tk:8086/rtp/239.93.0.56:9020
+#EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",热门剧场
+http://mail.lacool.tk:8086/rtp/239.93.0.140:5140
+#EXTINF:-1 tvg-id="港剧风云" tvg-name="港剧风云" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",港剧风云
+http://mail.lacool.tk:8086/rtp/239.93.0.143:5140
+#EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",谍战剧场
+http://mail.lacool.tk:8086/rtp/239.93.0.95:5140
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="数字频道",爱上4K
+http://mail.lacool.tk:8086/rtp/239.93.0.97:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道", 中录动漫4K
+http://mail.lacool.tk:8086/rtp/239.93.1.188:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道", 亲子趣学4K
+http://mail.lacool.tk:8086/rtp/239.93.1.191:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道", 足球高清
+http://mail.lacool.tk:8086/rtp/239.93.0.197:9040
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道", 少儿天地
+http://mail.lacool.tk:8086/rtp/239.93.42.34:5140
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="数字频道", 茶频道
+http://mail.lacool.tk:8086/rtp/239.93.0.114:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/IHOT爱怀旧.png" group-title="数字频道", 爱怀旧高清
+http://mail.lacool.tk:8086/rtp/239.93.42.21:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/IHOT爱喜剧.png" group-title="数字频道", 爱喜剧高清
+http://mail.lacool.tk:8086/rtp/239.93.42.9:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/IHOT爱奇谈.png" group-title="数字频道", 爱奇谈高清
+http://mail.lacool.tk:8086/rtp/239.93.42.22:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/IHOT爱科幻.png" group-title="数字频道", 爱科幻高清
+http://mail.lacool.tk:8086/rtp/239.93.42.10:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/IHOT爱怀旧.png" group-title="数字频道", 爱院线高清
+http://mail.lacool.tk:8086/rtp/239.93.42.11:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/IHOT爱谍战.png" group-title="数字频道", 爱谍战高清
+http://mail.lacool.tk:8086/rtp/239.93.42.14:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/IHOT爱经典.png" group-title="数字频道", 爱经典高清
+http://mail.lacool.tk:8086/rtp/239.93.42.13:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/IHOT爱悬疑.png" group-title="数字频道", 爱悬疑高清
+http://mail.lacool.tk:8086/rtp/239.93.42.12:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/IHOT爱青春.png" group-title="数字频道", 爱青春高清
+http://mail.lacool.tk:8086/rtp/239.93.42.16:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/IHOT爱都市.png" group-title="数字频道", 爱都市高清
+http://mail.lacool.tk:8086/rtp/239.93.42.15:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/IHOT爱幼教.png" group-title="数字频道", 爱幼教高清
+http://mail.lacool.tk:8086/rtp/239.93.42.17:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/IHOT爱玩具.png" group-title="数字频道", 爱玩具高清
+http://mail.lacool.tk:8086/rtp/239.93.42.18:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/IHOT爱动漫.png" group-title="数字频道", 爱动漫高清
+http://mail.lacool.tk:8086/rtp/239.93.42.23:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/IHOT爱电竞.png" group-title="数字频道", 爱电竞高清
+http://mail.lacool.tk:8086/rtp/239.93.42.19:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/IHOT爱赛车.png" group-title="数字频道", 爱赛车高清
+http://mail.lacool.tk:8086/rtp/239.93.42.20:5140
 #EXTINF:-1 tvg-id="NewTV爱情喜剧" tvg-name="NewTV爱情喜剧" tvg-logo="https://live.fanmingming.com/tv/NewTV爱情喜剧.png" group-title="数字频道",NewTV爱情喜剧
 http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
 #EXTINF:-1 tvg-id="NewTV超级电视剧" tvg-name="NewTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="数字频道",NewTV超级电视剧
