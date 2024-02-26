@@ -214,19 +214,19 @@ http://mail.lacool.tk:8086/rtp/239.93.42.55:5140
 #EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",经典电影
 http://mail.lacool.tk:8086/rtp/239.93.0.57:9024
 #EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",华语影院
-http://mail.lacool.tk:8086/rtp/239.93.0.138:5140
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hyyy8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="星光院线" tvg-name="星光院线" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",星光院线
-http://mail.lacool.tk:8086/rtp/239.93.0.139:5140
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xgyy8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",全球大片
-http://mail.lacool.tk:8086/rtp/239.93.0.105:5140
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qqdp8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="热播剧场" tvg-name="热播剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",热播剧场
 http://mail.lacool.tk:8086/rtp/239.93.0.56:9020
 #EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",热门剧场
-http://mail.lacool.tk:8086/rtp/239.93.0.140:5140
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/rmjc8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="港剧风云" tvg-name="港剧风云" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",港剧风云
 http://mail.lacool.tk:8086/rtp/239.93.0.143:5140
 #EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",谍战剧场
-http://mail.lacool.tk:8086/rtp/239.93.0.95:5140
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dzjc8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="数字频道",爱上4K
 http://mail.lacool.tk:8086/rtp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",中录动漫4K
