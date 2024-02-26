@@ -155,7 +155,7 @@ http://mail.lacool.tk:8086/rtp/239.93.1.231:5140
 http://mail.lacool.tk:8086/rtp/239.93.0.21:1251
 #EXTINF:-1 tvg-id="CDTV8" tvg-name="CDTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv8.png" group-title="四川",成都每日购物
 http://mail.lacool.tk:8086/rtp/239.93.0.22:1252
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川", i成都
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",i成都
 http://mail.lacool.tk:8086/rtp/239.93.1.104:1234
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="数字频道",CHC高清电影
 http://dd.ikhs.cn:8880/udp/239.69.1.241:11088
@@ -165,8 +165,6 @@ http://dd.ikhs.cn:8880/udp/239.69.1.242:11094
 http://dd.ikhs.cn:8880/udp/239.69.1.243:11100
 #EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="数字频道",求索纪录
 http://mail.lacool.tk:8086/rtp/239.93.42.24:5140
-#EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/全纪实.png" group-title="数字频道",全纪实
-http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qjshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="数字频道",新视觉
 http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xsjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字频道",纪实人文
