@@ -157,11 +157,11 @@ http://mail.lacool.tk:8086/rtp/239.93.0.21:1251
 http://mail.lacool.tk:8086/rtp/239.93.0.22:1252
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川", i成都
 http://mail.lacool.tk:8086/rtp/239.93.1.104:1234
-#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="数字频道",CHC高清电影
+#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="数字频道",CHC高清电影
 http://dd.ikhs.cn:8880/udp/239.69.1.241:11088
-#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
 http://dd.ikhs.cn:8880/udp/239.69.1.243:11100
-#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字频道",CHC动作电影
 http://dd.ikhs.cn:8880/udp/239.69.1.242:11094
 #EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="数字频道",求索纪录
 http://mail.lacool.tk:8086/rtp/239.93.42.24:5140
