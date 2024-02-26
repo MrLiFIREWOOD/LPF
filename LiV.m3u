@@ -241,10 +241,16 @@ http://mail.lacool.tk:8086/rtp/239.93.42.23:5140
 http://mail.lacool.tk:8086/rtp/239.93.42.19:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/IHOT爱赛车.png" group-title="数字频道",爱赛车高清
 http://mail.lacool.tk:8086/rtp/239.93.42.20:5140
-#EXTINF:-1 group-title="轮播台" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/88d304d4031047a482cfc165f42b7938_middle.jpg",狂拽酷炫
+#EXTINF:-1 group-title="轮播台" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/88d304d4031047a482cfc165f42b7938_middle.jpg",60帧 科幻 动作 经典
 https://tv.iill.top/douyu/4332
+#EXTINF:-1 group-title="轮播台" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/62a2bfb18ccb4fb5a444847370f32096_middle.jpg",欧美 科幻 动作 灾难 经典
+https://tv.iill.top/douyu/252802
 #EXTINF:-1 group-title="轮播台" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201711/08/18/acd735bbe5d2f6a7875cce5a910d3101_middle.jpg",特辑电影院
 https://tv.iill.top/douyu/3637778
+#EXTINF:-1 group-title="轮播台" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/adaeff857da84cc59d8d9ad296198b0d_middle.jpg",经典小品
+https://tv.iill.top/douyu/9067836
+#EXTINF:-1 group-title="轮播台" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201806/d331e3226e639bfc3779ebd0704f6c03_middle.jpg",金庸武侠、古装神剧
+https://tv.iill.top/douyu/338759
 #EXTINF:-1 group-title="轮播台" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/dbbe51786ad54e52bc23ca87a1cca840_middle.jpg",新三国
 https://tv.iill.top/douyu/5908256
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="国际",凤凰中文
