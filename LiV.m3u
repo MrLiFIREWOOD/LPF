@@ -227,6 +227,10 @@ http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/rm
 http://mail.lacool.tk:8086/rtp/239.93.0.143:5140
 #EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",谍战剧场
 http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dzjc8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="热门综艺" tvg-name="热门综艺" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",热门综艺
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/rmzy8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",看天下精选
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/ktxjx8m/8000000mnf.m3u8
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="数字频道",爱上4K
 http://mail.lacool.tk:8086/rtp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",中录动漫4K
@@ -238,7 +242,7 @@ http://mail.lacool.tk:8086/rtp/239.93.0.197:9040
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",少儿天地
 http://mail.lacool.tk:8086/rtp/239.93.42.34:5140
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="数字频道",茶频道
-http://mail.lacool.tk:8086/rtp/239.93.0.114:5140
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/IHOT爱怀旧.png" group-title="数字频道",爱怀旧高清
 http://mail.lacool.tk:8086/rtp/239.93.42.21:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/IHOT爱喜剧.png" group-title="数字频道",爱喜剧高清
