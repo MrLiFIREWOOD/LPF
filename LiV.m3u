@@ -207,22 +207,12 @@ http://mail.lacool.tk:8086/rtp/239.93.42.56:5140
 http://mail.lacool.tk:8086/rtp/239.93.42.55:5140
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字频道",欢笑剧场4K
 http://mail.lacool.tk:8086/rtp/239.93.0.145:5140
-#EXTINF:-1 tvg-id="港片HD" tvg-name="港片HD" tvg-logo="https://live.fanmingming.com/tv/港片HD.png" group-title="数字频道",CESHI
-http://mail.lacool.tk:8086/rtp/239.93.42.84:5140
-#EXTINF:-1 tvg-id="港片HD" tvg-name="港片HD" tvg-logo="https://live.fanmingming.com/tv/港片HD.png" group-title="数字频道",CESHI
-http://mail.lacool.tk:8086/rtp/239.93.42.85:5140
-#EXTINF:-1 tvg-id="港片HD" tvg-name="港片HD" tvg-logo="https://live.fanmingming.com/tv/港片HD.png" group-title="数字频道",CESHI
-http://mail.lacool.tk:8086/rtp/239.93.42.87:5140
-#EXTINF:-1 tvg-id="港片HD" tvg-name="港片HD" tvg-logo="https://live.fanmingming.com/tv/港片HD.png" group-title="数字频道",CESHI
-http://mail.lacool.tk:8086/rtp/239.93.42.88:5140
-#EXTINF:-1 tvg-id="港片HD" tvg-name="港片HD" tvg-logo="https://live.fanmingming.com/tv/港片HD.png" group-title="数字频道",CESHI
-http://mail.lacool.tk:8086/rtp/239.93.42.86:5140
-#EXTINF:-1 tvg-id="动画HD" tvg-name="动画HD" tvg-logo="https://live.fanmingming.com/tv/动画HD.png" group-title="数字频道",动画HD
-http://mail.lacool.tk:8086/rtp/239.93.42.89:5140
 #EXTINF:-1 tvg-id="BESTV" tvg-name="BESTV" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",BESTV
 http://mail.lacool.tk:8086/rtp/239.93.42.90:5140
 #EXTINF:-1 tvg-id="BESTV" tvg-name="BESTV" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",BESTV
 http://mail.lacool.tk:8086/rtp/239.93.42.91:5140
+#EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",青春动漫
+http://mail.lacool.tk:8086/rtp/239.93.42.89:5140
 #EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",华语影院
 http://mail.lacool.tk:8086/rtp/239.93.0.138:5140
 #EXTINF:-1 tvg-id="星光院线" tvg-name="星光院线" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",星光院线
