@@ -195,7 +195,7 @@ http://mail.lacool.tk:8086/rtp/239.93.42.93:5140
 http://mail.lacool.tk:8086/rtp/239.93.0.136:5140
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
 http://mail.lacool.tk:8086/rtp/239.93.1.151:5140
-#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="数字频道",东方影视
+#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png" group-title="数字频道",精彩影视
 http://mail.lacool.tk:8086/rtp/239.93.42.92:5140
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字频道",金鹰纪实
 http://mail.lacool.tk:8086/rtp/239.93.0.130:5140
