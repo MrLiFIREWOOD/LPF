@@ -145,19 +145,19 @@ http://mail.lacool.tk:8086/rtp/239.93.0.41:5140
 http://mail.lacool.tk:8086/rtp/239.93.0.252:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川", 星空购物
 http://mail.lacool.tk:8086/rtp/239.93.1.171:5140
-#EXTINF:-1 tvg-id="cdtv1" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",成都新闻综合
+#EXTINF:-1 tvg-id="成都新闻综合" tvg-name="成都新闻综合" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",成都新闻综合
 http://mail.lacool.tk:8086/rtp/239.93.0.16:5140
-#EXTINF:-1 tvg-id="cdtv2" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川",成都经济资讯
+#EXTINF:-1 tvg-id="成都经济资讯" tvg-name="成都经济资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川",成都经济资讯
 http://mail.lacool.tk:8086/rtp/239.93.0.17:1239
-#EXTINF:-1 tvg-id="cdtv3" tvg-name="CDTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="四川",成都都市生活
+#EXTINF:-1 tvg-id="成都都市生活" tvg-name="成都都市生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="四川",成都都市生活
 http://mail.lacool.tk:8086/rtp/239.93.0.18:1238
-#EXTINF:-1 tvg-id="cdtv4" tvg-name="CDTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png" group-title="四川",成都影视文艺
+#EXTINF:-1 tvg-id="成都影视文艺" tvg-name="成都影视文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png" group-title="四川",成都影视文艺
 http://mail.lacool.tk:8086/rtp/239.93.0.19:1250
-#EXTINF:-1 tvg-id="cdtv5" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="四川",成都公共频道
+#EXTINF:-1 tvg-id="成都公共频道" tvg-name="成都公共频道" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="四川",成都公共频道
 http://mail.lacool.tk:8086/rtp/239.93.1.231:5140
-#EXTINF:-1 tvg-id="CDTV6" tvg-name="CDTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="四川",成都少儿频道
+#EXTINF:-1 tvg-id="成都少儿频道" tvg-name="成都少儿频道" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="四川",成都少儿频道
 http://mail.lacool.tk:8086/rtp/239.93.0.21:1251
-#EXTINF:-1 tvg-id="CDTV8" tvg-name="CDTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv8.png" group-title="四川",成都每日购物
+#EXTINF:-1 tvg-id="成都每日购物" tvg-name="成都每日购物" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv8.png" group-title="四川",成都每日购物
 http://mail.lacool.tk:8086/rtp/239.93.0.22:1252
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",i成都
 http://mail.lacool.tk:8086/rtp/239.93.1.104:1234
