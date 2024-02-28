@@ -327,3 +327,63 @@ http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
 #EXTINF:-1 tvg-id="IGN" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/26/USBA30003672_20210525T051545.png" group-title="国际",IGN
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/ignaaaaaa-ign1-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225737/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225754/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225756/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225757/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225762/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225651/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播
+http://39.134.66.66/PLTV/88888888/224/3221225652/index.m3u8
