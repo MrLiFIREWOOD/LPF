@@ -127,9 +127,9 @@ http://mail.lacool.tk:8086/rtp/239.93.42.43:5140
 http://mail.lacool.tk:8086/rtp/239.93.42.57:5140
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
 http://mail.lacool.tk:8086/rtp/239.93.42.58:5140
-#EXTINF:-1 tvg-id="SCTV2" tvg-name="四川经济" tvg-logo="https://live.fanmingming.com/tv/四川经济.png" group-title="四川",四川经济
+#EXTINF:-1 tvg-id="SCTV3" tvg-name="四川经济" tvg-logo="https://live.fanmingming.com/tv/四川经济.png" group-title="四川",四川经济
 http://mail.lacool.tk:8086/rtp/239.93.1.101:5140
-#EXTINF:-1 tvg-id="SCTV3" tvg-name="四川文化旅游" tvg-logo="https://live.fanmingming.com/tv/四川文化旅游.png" group-title="四川",四川文化旅游
+#EXTINF:-1 tvg-id="SCTV2" tvg-name="四川文化旅游" tvg-logo="https://live.fanmingming.com/tv/四川文化旅游.png" group-title="四川",四川文化旅游
 http://mail.lacool.tk:8086/rtp/239.93.1.102:5140
 #EXTINF:-1 tvg-id="SCTV4" tvg-name="四川新闻" tvg-logo="https://live.fanmingming.com/tv/四川新闻.png" group-title="四川",四川新闻
 http://mail.lacool.tk:8086/rtp/239.93.0.47:5140
