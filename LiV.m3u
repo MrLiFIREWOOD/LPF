@@ -213,10 +213,14 @@ http://zourjke.eu.org:84/bestv.php?id=hxjc4k/15000000
 http://zourjke.eu.org:84/bestv.php?id=ktxjx8m/8000000
 #EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",青春动漫
 http://zourjke.eu.org:84/bestv.php?id=qcdm8m/8000000
+#EXTINF:-1 tvg-id="热门综艺" tvg-name="热门综艺" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",热门综艺
+http://zourjke.eu.org:84/bestv.php?id=rmzy8m/8000000
 #EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",华语影院
 http://zourjke.eu.org:84/bestv.php?id=hyyy8m/8000000
 #EXTINF:-1 tvg-id="星光院线" tvg-name="星光院线" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",星光院线
 http://zourjke.eu.org:84/bestv.php?id=xgyy8m/8000000
+#EXTINF:-1 tvg-id="健康养生" tvg-name="健康养生" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",健康养生
+http://zourjke.eu.org:84/bestv.php?id=jkys8m/8000000
 #EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",全球大片
 http://zourjke.eu.org:84/bestv.php?id=qqdp8m/8000000
 #EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",热门剧场
