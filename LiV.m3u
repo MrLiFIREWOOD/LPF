@@ -52,7 +52,7 @@ http://112.19.171.156:9999/rtp/239.93.1.54:5140
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视",央视台球
 http://dd.ikhs.cn:8880/udp/239.69.1.98:10224
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视",电视指南
-http://113.9.171.201:88/hls/163/index.m3u8
+http://112.19.171.156:9999/rtp/239.93.0.195:8012
 #EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://live.fanmingming.com/tv/卫生健康.png" group-title="央视",卫生健康
 http://dd.ikhs.cn:8880/udp/239.254.96.207:9322
 #EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="央视",老故事
