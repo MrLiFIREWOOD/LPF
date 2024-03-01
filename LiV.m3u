@@ -122,7 +122,7 @@ http://dqr028.oicp.net:4022/rtp/239.93.0.175:5140
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 http://dqr028.oicp.net:4022/rtp/239.93.0.194:5140
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
-http://dqr028.oicp.net:4022/rtp/239.93.42.43:5140
+http://giwon.ddns.net:5555/rtp/239.93.42.43:5140
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
 http://dqr028.oicp.net:4022/rtp/239.93.42.57:5140
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
