@@ -181,7 +181,7 @@ http://zourjke.eu.org:84/bestv.php?id=qjshd8m/8000000
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="数字频道",魅力足球
 http://zourjke.eu.org:84/bestv.php?id=mlyyhd8m/8000000
-#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="数字频道",上海第一财经
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="数字频道",第一财经
 http://zourjke.eu.org:84/bestv.php?id=dycjhd8m/8000000
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="数字频道",东方财经
 http://zourjke.eu.org:84/bestv.php?id=dfcjhd8m/8000000
@@ -191,7 +191,7 @@ http://zourjke.eu.org:84/bestv.php?id=fztd8m/8000000
 http://zourjke.eu.org:84/bestv.php?id=jingsepd8m/8000000
 #EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="数字频道",汽摩
 http://dd.ikhs.cn:8880/udp/239.69.1.84:101444
-#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="数字频道",五星体育 8M
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="数字频道",五星体育
 http://zourjke.eu.org:84/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="数字频道",生活时尚
 http://zourjke.eu.org:84/bestv.php?id=shss8m/8000000
@@ -211,7 +211,7 @@ http://dqr028.oicp.net:4022/rtp/239.93.42.56:5140
 http://dqr028.oicp.net:4022/rtp/239.93.42.55:5140
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字频道",欢笑剧场4K
 http://zourjke.eu.org:84/bestv.php?id=hxjc4k/15000000
-#EXTINF:-1,tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="https://epg.112114.xyz/logo/看天下精选.png" group-title="数字频道",看天下精选
+#EXTINF:-1 tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",看天下精选
 http://zourjke.eu.org:84/bestv.php?id=ktxjx8m/8000000
 #EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",青春动漫
 http://zourjke.eu.org:84/bestv.php?id=qcdm8m/8000000
