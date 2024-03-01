@@ -325,9 +325,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/yahoofina-samsungyahoofinance/playlist
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="国际",A&E
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
-#EXTINF:-1 group-title="国际",HBO
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="国际",HBO
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CinemaxHD.png" group-title="国际",Cinemax East
+#EXTINF:-1 tvg-id="Cinemax East" tvg-name="Cinemax East" tvg-logo="https://live.fanmingming.com/tv/CinemaxHD.png" group-title="国际",Cinemax East
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
 #EXTINF:-1 tvg-id="IGN" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/26/USBA30003672_20210525T051545.png" group-title="国际",IGN
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/ignaaaaaa-ign1-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
