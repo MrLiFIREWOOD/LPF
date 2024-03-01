@@ -8,6 +8,8 @@ http://ljiang108.top:8123/rtp/239.93.1.11:2223
 http://112.19.171.156:9999/rtp/239.93.1.105:5140
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视", CCTV-5高清
 http://lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视", CCTV-5+高清
+http://zourjke.eu.org:84/bestv.php?id=cctv5phd8m/8000000
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视", CCTV-6高清
 http://giwon.ddns.net:5555/rtp/239.93.1.13:2226
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视", CCTV-7高清
@@ -34,8 +36,6 @@ http://giwon.ddns.net:5555/rtp/239.93.42.53:5140
 http://giwon.ddns.net:5555/rtp/239.93.0.92:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视", CCTV-1杜比高清
 http://giwon.ddns.net:5555/rtp/239.93.0.69:5140
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视", CCTV-5+高清
-http://giwon.ddns.net:5555/rtp/239.93.1.36:8004
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他", 爱上4K(4K机顶盒用户可观看)
 http://giwon.ddns.net:5555/rtp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视", CGTN英语
