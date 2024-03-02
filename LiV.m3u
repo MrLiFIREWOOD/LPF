@@ -198,6 +198,8 @@ http://zourjke.eu.org:84/bestv.php?id=dmxc8m/8000000
 http://zourjke.eu.org:84/bestv.php?id=yxfy8m/8000000
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
 http://zourjke.eu.org:84/bestv.php?id=klcd8m/8000000
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" https://live.fanmingming.com/tv/四海钓鱼.png" group-title="数字频道",四海钓鱼
+http://mail.lacool.tk:8086/rtp/239.93.0.55:5140
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字频道",金鹰纪实
 http://zourjke.eu.org:84/bestv.php?id=jyjs8m/8000000
 #EXTINF:-1,tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="数字频道",纪实科教
