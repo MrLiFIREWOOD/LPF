@@ -141,7 +141,7 @@ http://mail.lacool.tk:8086/rtp/239.93.0.52:5140
 http://mail.lacool.tk:8086/rtp/239.93.0.252:5140
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="四川",康巴卫视
 http://mail.lacool.tk:8086/rtp/239.93.0.41:5140
-#EXTINF:-1 tvg-id="星空购物" tvg-name="星空购物" tvg-logo="https://live.fanmingming.com/tv/星空购物.png" group-title="四川", 星空购物
+#EXTINF:-1 tvg-id="星空购物" tvg-name="星空购物" tvg-logo="https://live.fanmingming.com/tv/星空购物.png" group-title="四川",星空购物
 http://mail.lacool.tk:8086/rtp/239.93.1.171:5140
 #EXTINF:-1 tvg-id="CDTV1" tvg-name="成都新闻综合" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",成都新闻综合
 http://mail.lacool.tk:8086/rtp/239.93.0.16:5140
