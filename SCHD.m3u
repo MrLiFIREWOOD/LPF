@@ -44,7 +44,7 @@ http://giwon.ddns.net:5555/rtp/239.93.0.104:5140
 http://giwon.ddns.net:5555/rtp/239.93.42.54:5140
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视", CCTV-16 4K 50FPS
 http://giwon.ddns.net:5555/rtp/239.93.42.63:5140
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视", CCTV-8K
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV4k" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视", CCTV-4K
 http://lu1.cc/itv/php/cctv4k.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他", 百视通4K
 http://giwon.ddns.net:5555/rtp/239.93.42.75:5140
