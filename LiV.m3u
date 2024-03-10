@@ -43,8 +43,6 @@ http://125.71.250.138:8899/rtp/239.93.1.198:5140
 http://125.71.250.138:8899/rtp/239.93.1.197:5140
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视",风云剧场
 http://125.71.250.138:8899/rtp/239.93.1.156:5140
-#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png" group-title="央视"精彩影视
-http://125.71.250.138:8899/rtp/239.93.42.92:5140
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视",兵器科技
 http://125.71.250.138:8899/rtp/239.93.1.235:5140
 #EXTINF:-1 tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视",央视精品
