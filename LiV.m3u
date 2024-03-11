@@ -106,7 +106,7 @@ http://125.71.250.138:8899/rtp/239.93.1.107:5140
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
 http://125.71.250.138:8899/rtp/239.93.0.42:5140
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
-http://125.71.250.138:8899/rtp/239.93.0.174:5140
+http://125.71.250.138:8899/rtp/239.93.1.174:5140
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
 http://125.71.250.138:8899/rtp/239.93.0.131:5140
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
