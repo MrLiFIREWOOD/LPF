@@ -255,18 +255,6 @@ http://125.71.250.138:8899/rtp/239.93.42.23:5140
 http://125.71.250.138:8899/rtp/239.93.42.19:5140
 #EXTINF:-1 tvg-id="IHOT爱赛车" tvg-name="IHOT爱赛车" tvg-logo="https://live.fanmingming.com/tv/IHOT爱赛车.png" group-title="数字频道",爱赛车高清
 http://125.71.250.138:8899/rtp/239.93.42.20:5140
-#EXTINF:-1 group-title="轮播台" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/88d304d4031047a482cfc165f42b7938_middle.jpg",狂拽酷炫
-https://tv.iill.top/douyu/4332
-#EXTINF:-1 group-title="轮播台" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/62a2bfb18ccb4fb5a444847370f32096_middle.jpg",狂仔酷炫
-https://tv.iill.top/douyu/252802
-#EXTINF:-1 group-title="轮播台" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201911/b36e20eb35e64a76b217450b9f06004b_middle.jpg",酷炫小剧场
-https://tv.iill.top/douyu/36337
-#EXTINF:-1 group-title="轮播台" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201711/08/18/acd735bbe5d2f6a7875cce5a910d3101_middle.jpg",特辑电影院
-https://tv.iill.top/douyu/3637778
-#EXTINF:-1 group-title="轮播台" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/5e22bcc70ad14f03b05e3593b0416a8f_middle.jpg",华语经典
-https://tv.iill.top/douyu/85894
-#EXTINF:-1 group-title="轮播台" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/dbbe51786ad54e52bc23ca87a1cca840_middle.jpg",新三国
-https://tv.iill.top/douyu/5908256
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="国际",凤凰中文
 http://125.71.250.138:8899/rtp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="国际",凤凰资讯
