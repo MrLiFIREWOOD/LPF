@@ -36,17 +36,17 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视",怀旧剧场
-http://112.19.171.156:9999/rtp/239.93.1.198:5140
+http://ljiang108.top:8123/rtp/239.93.1.198:5140
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视",兵器科技
-http://112.19.171.156:9999/rtp/239.93.1.235:5140
+http://ljiang108.top:8123/rtp/239.93.1.235:5140
 #EXTINF:-1 tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视",央视精品
-http://112.19.171.156:9999/rtp/239.93.42.47:5140
+http://ljiang108.top:8123/rtp/239.93.42.47:5140
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视",世界地理
-http://112.19.171.156:9999/rtp/239.93.1.157:5140
+http://ljiang108.top:8123/rtp/239.93.1.157:5140
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视",女性时尚
-http://112.19.171.156:9999/rtp/239.93.42.62:5140
+http://ljiang108.top:8123/rtp/239.93.42.62:5140
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视",高尔夫网球
-http://112.19.171.156:9999/rtp/239.93.1.54:5140
+http://ljiang108.top:8123/rtp/239.93.1.54:5140
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视",央视台球
 http://dd.ikhs.cn:8880/udp/239.69.1.98:10224
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视",电视指南
@@ -118,39 +118,39 @@ http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 tvg-id="四川科教" tvg-name="四川科教" tvg-logo="https://live.fanmingming.com/tv/四川科教.png" group-title="四川",四川科教
-http://giwon.ddns.net:5555/rtp/239.93.42.44:5140
+http://ljiang108.top:8123/rtp/239.93.42.44:5140
 #EXTINF:-1 tvg-id="四川经济" tvg-name="四川经济" tvg-logo="https://live.fanmingming.com/tv/四川经济.png" group-title="四川",四川经济
-http://giwon.ddns.net:5555/rtp/239.93.1.101:5140
+http://ljiang108.top:8123/rtp/239.93.1.101:5140
 #EXTINF:-1 tvg-id="四川文化旅游" tvg-name="四川文化旅游" tvg-logo="https://live.fanmingming.com/tv/四川文化旅游.png" group-title="四川",四川文化旅游
-http://giwon.ddns.net:5555/rtp/239.93.1.102:5140
+http://ljiang108.top:8123/rtp/239.93.1.102:5140
 #EXTINF:-1 tvg-id="四川新闻" tvg-name="四川新闻" tvg-logo="https://live.fanmingming.com/tv/四川新闻.png" group-title="四川",四川新闻
-http://giwon.ddns.net:5555/rtp/239.93.0.47:5140
+http://ljiang108.top:8123/rtp/239.93.0.47:5140
 #EXTINF:-1 tvg-id="四川影视文艺" tvg-name="四川影视文艺" tvg-logo="https://live.fanmingming.com/tv/四川影视文艺.png" group-title="四川",四川影视文艺
-http://giwon.ddns.net:5555/rtp/239.93.0.166:5140
+http://ljiang108.top:8123/rtp/239.93.0.166:5140
 #EXTINF:-1 tvg-id="四川妇女儿童" tvg-name="四川妇女儿童" tvg-logo="https://live.fanmingming.com/tv/四川妇女儿童.png" group-title="四川",四川妇女儿童
-http://giwon.ddns.net:5555/rtp/239.93.0.219:5140
+http://ljiang108.top:8123/rtp/239.93.0.219:5140
 #EXTINF:-1 tvg-id="四川乡村" tvg-name="四川乡村" tvg-logo="https://live.fanmingming.com/tv/四川乡村.png" group-title="四川",四川乡村
-http://giwon.ddns.net:5555/rtp/239.93.0.52:5140
+http://ljiang108.top:8123/rtp/239.93.0.52:5140
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="四川",康巴卫视
-http://giwon.ddns.net:5555/rtp/239.93.0.41:5140
+http://ljiang108.top:8123/rtp/239.93.0.41:5140
 #EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://live.fanmingming.com/tv/峨眉电影.png" group-title="四川",峨眉电影
-http://giwon.ddns.net:5555/rtp/239.93.0.252:5140
+http://ljiang108.top:8123/rtp/239.93.0.252:5140
 #EXTINF:-1 tvg-id="cdtv1" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",成都新闻综合
-http://giwon.ddns.net:5555/rtp/239.93.0.16:5140
+http://ljiang108.top:8123/rtp/239.93.0.16:5140
 #EXTINF:-1 tvg-id="cdtv2" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川",成都经济资讯
-http://giwon.ddns.net:5555/rtp/239.93.0.17:1239
+http://ljiang108.top:8123/rtp/239.93.0.17:1239
 #EXTINF:-1 tvg-id="cdtv3" tvg-name="CDTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="四川",成都都市生活
-http://giwon.ddns.net:5555/rtp/239.93.0.18:1238
+http://ljiang108.top:8123/rtp/239.93.0.18:1238
 #EXTINF:-1 tvg-id="cdtv4" tvg-name="CDTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png" group-title="四川",成都影视文艺
-http://giwon.ddns.net:5555/rtp/239.93.0.19:1250
+http://ljiang108.top:8123/rtp/239.93.0.19:1250
 #EXTINF:-1 tvg-id="cdtv5" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="四川",成都公共频道
-http://giwon.ddns.net:5555/rtp/239.93.1.231:5140
+http://ljiang108.top:8123/rtp/239.93.1.231:5140
 #EXTINF:-1 tvg-id="CDTV6" tvg-name="CDTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="四川",成都少儿频道
-http://giwon.ddns.net:5555/rtp/239.93.0.21:1251
+http://ljiang108.top:8123/rtp/239.93.0.21:1251
 #EXTINF:-1 tvg-id="CDTV8" tvg-name="CDTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv8.png" group-title="四川",成都每日购物
-http://giwon.ddns.net:5555/rtp/239.93.0.22:1252
+http://ljiang108.top:8123/rtp/239.93.0.22:1252
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川", i成都
-http://giwon.ddns.net:5555/rtp/239.93.1.104:1234
+http://ljiang108.top:8123/rtp/239.93.1.104:1234
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="数字频道",CHC高清电影
 http://dd.ikhs.cn:8880/udp/239.69.1.241:11088
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
@@ -212,21 +212,21 @@ http://zourjke.eu.org:84/bestv.php?id=dajs8m/8000000
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="数字频道",茶频道
 http://zourjke.eu.org:84/bestv.php?id=cpdhdavs8m/8000000
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="数字频道",先锋乒羽
-http://mail.lacool.tk:8086/rtp/239.93.42.56:5140
+http://ljiang108.top:8123/rtp/239.93.42.56:5140
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="数字频道",天元围棋
-http://mail.lacool.tk:8086/rtp/239.93.42.55:5140
+http://ljiang108.top:8123/rtp/239.93.42.55:5140
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字频道",欢笑剧场4K
 http://zourjke.eu.org:84/bestv.php?id=hxjc4k/15000000
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="数字频道",爱上4K
-http://mail.lacool.tk:8086/rtp/239.93.0.97:5140
+http://ljiang108.top:8123/rtp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="中录动漫" tvg-name="中录动漫" tvg-logo="https://live.fanmingming.com/tv/中录动漫.png" group-title="数字频道",中录动漫4K
-http://mail.lacool.tk:8086/rtp/239.93.1.188:5140
+http://ljiang108.top:8123/rtp/239.93.1.188:5140
 #EXTINF:-1 tvg-id="亲子趣学" tvg-name="亲子趣学" tvg-logo="https://live.fanmingming.com/tv/亲子趣学.png" group-title="数字频道",亲子趣学4K
-http://mail.lacool.tk:8086/rtp/239.93.1.191:5140
+http://ljiang108.top:8123/rtp/239.93.1.191:5140
 #EXTINF:-1 tvg-id="足球高清" tvg-name="足球高清" tvg-logo="https://live.fanmingming.com/tv/足球高清.png" group-title="数字频道",足球高清
-http://mail.lacool.tk:8086/rtp/239.93.0.197:9040
+http://ljiang108.top:8123/rtp/239.93.0.197:9040
 #EXTINF:-1 tvg-id="少儿天地" tvg-name="少儿天地" tvg-logo="https://live.fanmingming.com/tv/少儿天地.png" group-title="数字频道",少儿天地
-http://mail.lacool.tk:8086/rtp/239.93.42.34:5140
+http://ljiang108.top:8123/rtp/239.93.42.34:5140
 #EXTINF:-1 tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",看天下精选
 http://zourjke.eu.org:84/bestv.php?id=ktxjx8m/8000000
 #EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",青春动漫
@@ -246,35 +246,35 @@ http://zourjke.eu.org:84/bestv.php?id=rmjc8m/8000000
 #EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",谍战剧场
 http://zourjke.eu.org:84/bestv.php?id=dzjc8m/8000000
 #EXTINF:-1 tvg-id="IHOT爱怀旧" tvg-name="IHOT爱怀旧" tvg-logo="https://live.fanmingming.com/tv/IHOT爱怀旧.png" group-title="数字频道",爱怀旧高清
-http://mail.lacool.tk:8086/rtp/239.93.42.21:5140
+http://ljiang108.top:8123/rtp/239.93.42.21:5140
 #EXTINF:-1 tvg-id="IHOT爱喜剧" tvg-name="IHOT爱喜剧" tvg-logo="https://live.fanmingming.com/tv/IHOT爱喜剧.png" group-title="数字频道",爱喜剧高清
-http://mail.lacool.tk:8086/rtp/239.93.42.9:5140
+http://ljiang108.top:8123/rtp/239.93.42.9:5140
 #EXTINF:-1 tvg-id="IHOT爱奇谈" tvg-name="IHOT爱奇谈" tvg-logo="https://live.fanmingming.com/tv/IHOT爱奇谈.png" group-title="数字频道",爱奇谈高清
-http://mail.lacool.tk:8086/rtp/239.93.42.22:5140
+http://ljiang108.top:8123/rtp/239.93.42.22:5140
 #EXTINF:-1 tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻" tvg-logo="https://live.fanmingming.com/tv/IHOT爱科幻.png" group-title="数字频道",爱科幻高清
-http://mail.lacool.tk:8086/rtp/239.93.42.10:5140
+http://ljiang108.top:8123/rtp/239.93.42.10:5140
 #EXTINF:-1 tvg-id="IHOT爱怀旧" tvg-name="IHOT爱怀旧" tvg-logo="https://live.fanmingming.com/tv/IHOT爱怀旧.png" group-title="数字频道",爱院线高清
-http://mail.lacool.tk:8086/rtp/239.93.42.11:5140
+http://ljiang108.top:8123/rtp/239.93.42.11:5140
 #EXTINF:-1 tvg-id="IHOT爱谍战" tvg-name="IHOT爱谍战" tvg-logo="https://live.fanmingming.com/tv/IHOT爱谍战.png" group-title="数字频道",爱谍战高清
-http://mail.lacool.tk:8086/rtp/239.93.42.14:5140
+http://ljiang108.top:8123/rtp/239.93.42.14:5140
 #EXTINF:-1 tvg-id="IHOT爱经典" tvg-name="IHOT爱经典" tvg-logo="https://live.fanmingming.com/tv/IHOT爱经典.png" group-title="数字频道",爱经典高清
-http://mail.lacool.tk:8086/rtp/239.93.42.13:5140
+http://ljiang108.top:8123/rtp/239.93.42.13:5140
 #EXTINF:-1 tvg-id="IHOT爱悬疑" tvg-name="IHOT爱悬疑" tvg-logo="https://live.fanmingming.com/tv/IHOT爱悬疑.png" group-title="数字频道",爱悬疑高清
-http://mail.lacool.tk:8086/rtp/239.93.42.12:5140
+http://ljiang108.top:8123/rtp/239.93.42.12:5140
 #EXTINF:-1 tvg-id="IHOT爱青春" tvg-name="IHOT爱青春" tvg-logo="https://live.fanmingming.com/tv/IHOT爱青春.png" group-title="数字频道",爱青春高清
-http://mail.lacool.tk:8086/rtp/239.93.42.16:5140
+http://ljiang108.top:8123/rtp/239.93.42.16:5140
 #EXTINF:-1 tvg-id="IHOT爱都市" tvg-name="IHOT爱都市" tvg-logo="https://live.fanmingming.com/tv/IHOT爱都市.png" group-title="数字频道",爱都市高清
-http://mail.lacool.tk:8086/rtp/239.93.42.15:5140
+http://ljiang108.top:8123/rtp/239.93.42.15:5140
 #EXTINF:-1 tvg-id="IHOT爱幼教" tvg-name="IHOT爱幼教" tvg-logo="https://live.fanmingming.com/tv/IHOT爱幼教.png" group-title="数字频道",爱幼教高清
-http://mail.lacool.tk:8086/rtp/239.93.42.17:5140
+http://ljiang108.top:8123/rtp/239.93.42.17:5140
 #EXTINF:-1 tvg-id="IHOT爱玩具" tvg-name="IHOT爱玩具" tvg-logo="https://live.fanmingming.com/tv/IHOT爱玩具.png" group-title="数字频道",爱玩具高清
-http://mail.lacool.tk:8086/rtp/239.93.42.18:5140
+http://ljiang108.top:8123/rtp/239.93.42.18:5140
 #EXTINF:-1 tvg-id="IHOT爱动漫" tvg-name="IHOT爱动漫" tvg-logo="https://live.fanmingming.com/tv/IHOT爱动漫.png" group-title="数字频道",爱动漫高清
-http://mail.lacool.tk:8086/rtp/239.93.42.23:5140
+http://ljiang108.top:8123/rtp/239.93.42.23:5140
 #EXTINF:-1 tvg-id="IHOT爱电竞" tvg-name="IHOT爱电竞" tvg-logo="https://live.fanmingming.com/tv/IHOT爱电竞.png" group-title="数字频道",爱电竞高清
-http://mail.lacool.tk:8086/rtp/239.93.42.19:5140
+http://ljiang108.top:8123/rtp/239.93.42.19:5140
 #EXTINF:-1 tvg-id="IHOT爱赛车" tvg-name="IHOT爱赛车" tvg-logo="https://live.fanmingming.com/tv/IHOT爱赛车.png" group-title="数字频道",爱赛车高清
-http://mail.lacool.tk:8086/rtp/239.93.42.20:5140
+http://ljiang108.top:8123/rtp/239.93.42.20:5140
 #EXTINF:-1 tvg-id="NewTV爱情喜剧" tvg-name="NewTV爱情喜剧" tvg-logo="https://live.fanmingming.com/tv/NewTV爱情喜剧.png" group-title="数字频道",NewTV爱情喜剧
 http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
 #EXTINF:-1 tvg-id="NewTV超级电视剧" tvg-name="NewTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="数字频道",NewTV超级电视剧
@@ -340,9 +340,9 @@ https://tv.iill.top/douyu/85894
 #EXTINF:-1 group-title="轮播台" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/dbbe51786ad54e52bc23ca87a1cca840_middle.jpg",新三国
 https://tv.iill.top/douyu/5908256
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="国际",凤凰中文
-http://112.19.171.156:9999/rtp/239.93.0.162:2192
+http://ljiang108.top:8123/rtp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="国际",凤凰资讯
-http://112.19.171.156:9999/rtp/239.93.0.118:2191
+http://ljiang108.top:8123/rtp/239.93.0.118:2191
 #EXTINF:-1 tvg-id="FoxNews" tvg-name="FoxNews" tvg-logo="https://live.fanmingming.com/tv/FoxLive.png" group-title="国际",FOX新闻
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",CNN新闻
@@ -517,3 +517,4 @@ http://39.134.66.2/PLTV/88888888/224/3221225758/index.m3u8
 http://39.134.66.2/PLTV/88888888/224/3221225760/index.m3u8
 #EXTINF:-1 tvg-id="咪咕多路直播" tvg-name="咪咕多路直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕多路直播 4K
 http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
+
