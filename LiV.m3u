@@ -179,6 +179,8 @@ http://mail.lacool.tk:8086/rtp/239.93.42.24:5140
 http://mail.lacool.tk:8086/rtp/239.93.1.137:5140
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字频道",乐游
 http://mail.lacool.tk:8086/rtp/239.93.42.94:5140
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="数字频道",劲爆体育
+http://mail.lacool.tk:8086/rtp/239.93.42.98:5140
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="数字频道",魅力足球
 http://mail.lacool.tk:8086/rtp/239.93.42.97:5140
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="数字频道",东方财经
