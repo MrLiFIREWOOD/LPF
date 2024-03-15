@@ -36,25 +36,29 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视",怀旧剧场
-http://ljiang108.top:8123/rtp/239.93.1.198:5140
+http://mail.lacool.tk:8086/rtp/239.93.1.198:5140
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视",第一剧场
+http://mail.lacool.tk:8086/rtp/239.93.1.197:5140
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视",风云剧场
+http://mail.lacool.tk:8086/rtp/239.93.1.156:5140
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视",兵器科技
-http://ljiang108.top:8123/rtp/239.93.1.235:5140
+http://mail.lacool.tk:8086/rtp/239.93.1.235:5140
 #EXTINF:-1 tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视",央视精品
-http://ljiang108.top:8123/rtp/239.93.42.47:5140
+http://mail.lacool.tk:8086/rtp/239.93.42.47:5140
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视",风云音乐
+http://mail.lacool.tk:8086/rtp/239.93.0.224:5140
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视",世界地理
-http://ljiang108.top:8123/rtp/239.93.1.157:5140
+http://mail.lacool.tk:8086/rtp/239.93.1.157:5140
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视",女性时尚
-http://ljiang108.top:8123/rtp/239.93.42.62:5140
+http://mail.lacool.tk:8086/rtp/239.93.42.62:5140
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视",高尔夫网球
-http://ljiang108.top:8123/rtp/239.93.1.54:5140
+http://mail.lacool.tk:8086/rtp/239.93.1.54:5140
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视",央视台球
-http://dd.ikhs.cn:8880/udp/239.69.1.98:10224
-#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视",电视指南
-http://113.9.171.201:88/hls/163/index.m3u8
-#EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://live.fanmingming.com/tv/卫生健康.png" group-title="央视",卫生健康
-http://dd.ikhs.cn:8880/udp/239.254.96.207:9322
-#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="央视",老故事
-http://dd.ikhs.cn:8880/udp/239.69.1.85:10150
+http://mail.lacool.tk:8086/udp/239.93.0.218:5140
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视",风云足球
+http://mail.lacool.tk:8086/udp/239.93.0.235:5140
+#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视",CETV-1
+http://mail.lacool.tk:8086/udp/239.93.1.111:5140
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
@@ -177,42 +181,32 @@ http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="数字频道",黑莓动画
 http://39.134.66.66/PLTV/88888888/224/3221225529/index.m3u8
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="数字频道",求索纪录
+http://mail.lacool.tk:8086/rtp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字频道",纪实人文
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/jspdhd/4000000/mnf.m3u8
+http://mail.lacool.tk:8086/rtp/239.93.1.137:5140
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字频道",乐游
+http://mail.lacool.tk:8086/rtp/239.93.42.94:5140
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="数字频道",劲爆体育
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/jbtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="全记录" tvg-name="全记录" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字频道",乐游
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/qjshd8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="数字频道",东方影视
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/dfyshd8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="数字频道",七彩戏剧
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/qcxjhd8m/8000000/mnf.m3u8
+http://mail.lacool.tk:8086/rtp/239.93.42.98:5140
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="数字频道",魅力足球
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/mlyyhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="数字频道",第一财经
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/dycjhd8m/8000000/mnf.m3u8
+http://mail.lacool.tk:8086/rtp/239.93.42.97:5140
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="数字频道",东方财经
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/dfcjhd8m/8000000/mnf.m3u8
+http://mail.lacool.tk:8086/rtp/239.93.1.165:5140
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="数字频道",法治天地
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/fztd8m/8000000/mnf.m3u8
+http://mail.lacool.tk:8086/rtp/239.93.42.96:5140
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="数字频道",金色学堂
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/jingsepd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="数字频道",五星体育
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+http://mail.lacool.tk:8086/rtp/239.93.42.95:5140
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="数字频道",生活时尚
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/shss8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="数字频道",动漫秀场
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/dmxc8m/8000000/mnf.m3u8
+http://mail.lacool.tk:8086/rtp/239.93.0.106:5140
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="数字频道",游戏风云
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/yxfy8m/8000000/mnf.m3u8
+http://mail.lacool.tk:8086/rtp/239.93.0.136:5140
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/klcd8m/8000000/mnf.m3u8
+http://mail.lacool.tk:8086/rtp/239.93.1.151:5140
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字频道",金鹰纪实
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/jyjs8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="北京纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="数字频道",纪实科教
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/dajs8m/8000000/mnf.m3u8
+http://mail.lacool.tk:8086/rtp/239.93.0.130:5140
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="数字频道",茶频道
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
+http://mail.lacool.tk:8086/rtp/239.93.0.114:5140 
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="数字频道",先锋乒羽
 http://mail.lacool.tk:8086/rtp/239.93.42.56:5140
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="数字频道",天元围棋
