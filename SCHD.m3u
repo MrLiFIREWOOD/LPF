@@ -15,7 +15,7 @@ http://125.71.250.138:8899/rtp/239.93.1.13:2226
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视", CCTV-7高清
 http://125.71.57.181:4022/rtp/239.93.1.67:5140
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视", CCTV-8高清
-http://giwon.ddns.net:5555/rtp/239.93.42.39:5140
+http://alltzy.cn/dl/bestv.php?id=cctv8hd8m/8000000
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视", CCTV-9高清
 http://giwon.ddns.net:5555/rtp/239.93.1.24:5140
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视", CCTV-10高清
