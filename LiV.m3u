@@ -1,208 +1,208 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
-http://mail.lacool.tk:8086/rtp/239.93.0.184:5140
+http://125.71.57.181:4022/rtp/239.93.0.184:5140
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
-http://mail.lacool.tk:8086/rtp/239.93.1.23:6000
+http://125.71.57.181:4022/rtp/239.93.1.23:6000
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
-http://mail.lacool.tk:8086/rtp/239.93.1.11:2223
+http://125.71.57.181:4022/rtp/239.93.1.11:2223
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
-http://mail.lacool.tk:8086/rtp/239.93.1.105:5140
+http://125.71.57.181:4022/rtp/239.93.1.105:5140
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
-http://mail.lacool.tk:8086/rtp/239.93.42.37:5140
+http://125.71.57.181:4022/rtp/239.93.42.37:5140
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
-http://mail.lacool.tk:8086/rtp/239.93.1.36:8004
+http://125.71.57.181:4022/rtp/239.93.1.36:8004
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
-http://mail.lacool.tk:8086/rtp/239.93.1.13:2226
+http://125.71.57.181:4022/rtp/239.93.1.13:2226
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
-http://mail.lacool.tk:8086/rtp/239.93.1.67:5140
+http://125.71.57.181:4022/rtp/239.93.1.67:5140
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
-http://mail.lacool.tk:8086/rtp/239.93.42.39:5140
+http://125.71.57.181:4022/rtp/239.93.42.39:5140
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
-http://mail.lacool.tk:8086/rtp/239.93.1.24:5140
+http://125.71.57.181:4022/rtp/239.93.1.24:5140
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV-10 科教
-http://mail.lacool.tk:8086/rtp/239.93.1.28:5140
+http://125.71.57.181:4022/rtp/239.93.1.28:5140
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
-http://mail.lacool.tk:8086/rtp/239.93.0.102:5140
+http://125.71.57.181:4022/rtp/239.93.0.102:5140
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法
-http://mail.lacool.tk:8086/rtp/239.93.1.30:8124
+http://125.71.57.181:4022/rtp/239.93.1.30:8124
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
-http://mail.lacool.tk:8086/rtp/239.93.0.66:5140
+http://125.71.57.181:4022/rtp/239.93.0.66:5140
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
-http://mail.lacool.tk:8086/rtp/239.93.1.29:6000
+http://125.71.57.181:4022/rtp/239.93.1.29:6000
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
-http://mail.lacool.tk:8086/rtp/239.93.0.103:5140
+http://125.71.57.181:4022/rtp/239.93.0.103:5140
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
-http://mail.lacool.tk:8086/rtp/239.93.42.54:5140
+http://125.71.57.181:4022/rtp/239.93.42.54:5140
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
-http://mail.lacool.tk:8086/rtp/239.93.0.92:5140
+http://125.71.57.181:4022/rtp/239.93.0.92:5140
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://ljiang108.top:8123/rtp/239.93.42.42:5140
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视",怀旧剧场
-http://mail.lacool.tk:8086/rtp/239.93.1.198:5140
+http://125.71.57.181:4022/rtp/239.93.1.198:5140
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视",第一剧场
-http://mail.lacool.tk:8086/rtp/239.93.1.197:5140
+http://125.71.57.181:4022/rtp/239.93.1.197:5140
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视",风云剧场
-http://mail.lacool.tk:8086/rtp/239.93.1.156:5140
+http://125.71.57.181:4022/rtp/239.93.1.156:5140
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视",兵器科技
-http://mail.lacool.tk:8086/rtp/239.93.1.235:5140
+http://125.71.57.181:4022/rtp/239.93.1.235:5140
 #EXTINF:-1 tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视",央视精品
-http://mail.lacool.tk:8086/rtp/239.93.42.47:5140
+http://125.71.57.181:4022/rtp/239.93.42.47:5140
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视",风云音乐
-http://mail.lacool.tk:8086/rtp/239.93.0.224:5140
+http://125.71.57.181:4022/rtp/239.93.0.224:5140
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视",世界地理
-http://mail.lacool.tk:8086/rtp/239.93.1.157:5140
+http://125.71.57.181:4022/rtp/239.93.1.157:5140
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视",女性时尚
-http://mail.lacool.tk:8086/rtp/239.93.42.62:5140
+http://125.71.57.181:4022/rtp/239.93.42.62:5140
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视",高尔夫网球
-http://mail.lacool.tk:8086/rtp/239.93.1.54:5140
+http://125.71.57.181:4022/rtp/239.93.1.54:5140
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视",央视台球
-http://mail.lacool.tk:8086/udp/239.93.0.218:5140
+http://125.71.57.181:4022/udp/239.93.0.218:5140
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视",风云足球
-http://mail.lacool.tk:8086/udp/239.93.0.235:5140
+http://125.71.57.181:4022/udp/239.93.0.235:5140
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视",CETV-1
-http://mail.lacool.tk:8086/udp/239.93.1.111:5140
+http://125.71.57.181:4022/udp/239.93.1.111:5140
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.89:5140
+http://125.71.57.181:4022/rtp/239.93.0.89:5140
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
-http://mail.lacool.tk:8086/rtp/239.93.42.46:5140
+http://125.71.57.181:4022/rtp/239.93.42.46:5140
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.20:1235
+http://125.71.57.181:4022/rtp/239.93.0.20:1235
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.88:5140
+http://125.71.57.181:4022/rtp/239.93.0.88:5140
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.124:5140
+http://125.71.57.181:4022/rtp/239.93.0.124:5140
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.123:5140
+http://125.71.57.181:4022/rtp/239.93.0.123:5140
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.180:5140
+http://125.71.57.181:4022/rtp/239.93.0.180:5140
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.167:5140
+http://125.71.57.181:4022/rtp/239.93.0.167:5140
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://mail.lacool.tk:8086/rtp/239.93.1.108:5140
+http://125.71.57.181:4022/rtp/239.93.1.108:5140
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
-http://mail.lacool.tk:8086/rtp/239.93.1.106:5140
+http://125.71.57.181:4022/rtp/239.93.1.106:5140
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.183:5140
+http://125.71.57.181:4022/rtp/239.93.0.183:5140
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.181:5140
+http://125.71.57.181:4022/rtp/239.93.0.181:5140
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.182:5140
+http://125.71.57.181:4022/rtp/239.93.0.182:5140
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.250:5140
+http://125.71.57.181:4022/rtp/239.93.0.250:5140
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.248:5140
+http://125.71.57.181:4022/rtp/239.93.0.248:5140
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.168:5140
+http://125.71.57.181:4022/rtp/239.93.0.168:5140
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.134:5140
+http://125.71.57.181:4022/rtp/239.93.0.134:5140
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
-http://mail.lacool.tk:8086/rtp/239.93.42.45:5140
+http://125.71.57.181:4022/rtp/239.93.42.45:5140
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.132:5140
+http://125.71.57.181:4022/rtp/239.93.0.132:5140
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.81:5140
+http://125.71.57.181:4022/rtp/239.93.0.81:5140
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
-http://mail.lacool.tk:8086/rtp/239.93.1.107:5140
+http://125.71.57.181:4022/rtp/239.93.1.107:5140
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.42:5140
+http://125.71.57.181:4022/rtp/239.93.0.42:5140
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
-http://mail.lacool.tk:8086/rtp/239.93.1.174:5140
+http://125.71.57.181:4022/rtp/239.93.1.174:5140
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.131:5140
+http://125.71.57.181:4022/rtp/239.93.0.131:5140
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.80:5140
+http://125.71.57.181:4022/rtp/239.93.0.80:5140
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.176:5140
+http://125.71.57.181:4022/rtp/239.93.0.176:5140
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.6:5140
+http://125.71.57.181:4022/rtp/239.93.0.6:5140
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.8:5140
+http://125.71.57.181:4022/rtp/239.93.0.8:5140
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.192:5140
+http://125.71.57.181:4022/rtp/239.93.0.192:5140
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.247:5140
+http://125.71.57.181:4022/rtp/239.93.0.247:5140
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.175:5140
+http://125.71.57.181:4022/rtp/239.93.0.175:5140
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.194:5140
+http://125.71.57.181:4022/rtp/239.93.0.194:5140
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
-http://mail.lacool.tk:8086/rtp/239.93.42.43:5140
+http://125.71.57.181:4022/rtp/239.93.42.43:5140
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
-http://mail.lacool.tk:8086/rtp/239.93.42.57:5140
+http://125.71.57.181:4022/rtp/239.93.42.57:5140
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
-http://mail.lacool.tk:8086/rtp/239.93.42.58:5140
+http://125.71.57.181:4022/rtp/239.93.42.58:5140
 #EXTINF:-1 tvg-id="SCTV3" tvg-name="四川经济" tvg-logo="https://live.fanmingming.com/tv/四川经济.png" group-title="四川",四川经济
-http://mail.lacool.tk:8086/rtp/239.93.1.101:5140
+http://125.71.57.181:4022/rtp/239.93.1.101:5140
 #EXTINF:-1 tvg-id="SCTV2" tvg-name="四川文化旅游" tvg-logo="https://live.fanmingming.com/tv/四川文化旅游.png" group-title="四川",四川文化旅游
-http://mail.lacool.tk:8086/rtp/239.93.1.102:5140
+http://125.71.57.181:4022/rtp/239.93.1.102:5140
 #EXTINF:-1 tvg-id="SCTV4" tvg-name="四川新闻" tvg-logo="https://live.fanmingming.com/tv/四川新闻.png" group-title="四川",四川新闻
-http://mail.lacool.tk:8086/rtp/239.93.0.47:5140
+http://125.71.57.181:4022/rtp/239.93.0.47:5140
 #EXTINF:-1 tvg-id="SCTV5" tvg-name="四川影视文艺" tvg-logo="https://live.fanmingming.com/tv/四川影视文艺.png" group-title="四川",四川影视文艺
-http://mail.lacool.tk:8086/rtp/239.93.0.166:5140
+http://125.71.57.181:4022/rtp/239.93.0.166:5140
 #EXTINF:-1 tvg-id="SCTV7" tvg-name="四川妇女儿童" tvg-logo="https://live.fanmingming.com/tv/四川妇女儿童.png" group-title="四川",四川妇女儿童
-http://mail.lacool.tk:8086/rtp/239.93.0.219:5140
+http://125.71.57.181:4022/rtp/239.93.0.219:5140
 #EXTINF:-1 tvg-id="SCTV8" tvg-name="四川科教" tvg-logo="https://live.fanmingming.com/tv/四川科教.png" group-title="四川",四川科教
-http://mail.lacool.tk:8086/rtp/239.93.42.44:5140
+http://125.71.57.181:4022/rtp/239.93.42.44:5140
 #EXTINF:-1 tvg-id="SCTV9" tvg-name="四川乡村" tvg-logo="https://live.fanmingming.com/tv/四川乡村.png" group-title="四川",四川乡村
-http://mail.lacool.tk:8086/rtp/239.93.0.52:5140
+http://125.71.57.181:4022/rtp/239.93.0.52:5140
 #EXTINF:-1 tvg-id="SCTV10" tvg-name="峨眉电影" tvg-logo="https://live.fanmingming.com/tv/峨眉电影.png" group-title="四川",峨眉电影
-http://mail.lacool.tk:8086/rtp/239.93.0.252:5140
+http://125.71.57.181:4022/rtp/239.93.0.252:5140
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="四川",康巴卫视
-http://mail.lacool.tk:8086/rtp/239.93.0.41:5140
+http://125.71.57.181:4022/rtp/239.93.0.41:5140
 #EXTINF:-1 tvg-id="星空购物" tvg-name="星空购物" tvg-logo="https://live.fanmingming.com/tv/星空购物.png" group-title="四川", 星空购物
-http://mail.lacool.tk:8086/rtp/239.93.1.171:5140
+http://125.71.57.181:4022/rtp/239.93.1.171:5140
 #EXTINF:-1 tvg-id="CDTV1" tvg-name="成都新闻综合" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",成都新闻综合
-http://mail.lacool.tk:8086/rtp/239.93.0.16:5140
+http://125.71.57.181:4022/rtp/239.93.0.16:5140
 #EXTINF:-1 tvg-id="CDTV2" tvg-name="成都经济资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川",成都经济资讯
-http://mail.lacool.tk:8086/rtp/239.93.0.17:1239
+http://125.71.57.181:4022/rtp/239.93.0.17:1239
 #EXTINF:-1 tvg-id="CDTV3" tvg-name="成都都市生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="四川",成都都市生活
-http://mail.lacool.tk:8086/rtp/239.93.0.18:1238
+http://125.71.57.181:4022/rtp/239.93.0.18:1238
 #EXTINF:-1 tvg-id="CDTV4" tvg-name="成都影视文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png" group-title="四川",成都影视文艺
-http://mail.lacool.tk:8086/rtp/239.93.0.19:1250
+http://125.71.57.181:4022/rtp/239.93.0.19:1250
 #EXTINF:-1 tvg-id="CDTV5" tvg-name="成都公共频道" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="四川",成都公共频道
-http://mail.lacool.tk:8086/rtp/239.93.1.231:5140
+http://125.71.57.181:4022/rtp/239.93.1.231:5140
 #EXTINF:-1 tvg-id="CDTV6" tvg-name="成都少儿频道" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="四川",成都少儿频道
-http://mail.lacool.tk:8086/rtp/239.93.0.21:1251
+http://125.71.57.181:4022/rtp/239.93.0.21:1251
 #EXTINF:-1 tvg-id="成都每日购物" tvg-name="成都每日购物" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv8.png" group-title="四川",成都每日购物
-http://mail.lacool.tk:8086/rtp/239.93.0.22:1252
+http://125.71.57.181:4022/rtp/239.93.0.22:1252
 #EXTINF:-1 tvg-id="i成都" tvg-name="i成都" tvg-logo="https://live.fanmingming.com/tv/i成都.png" group-title="四川",i成都
-http://mail.lacool.tk:8086/rtp/239.93.1.104:1234
+http://125.71.57.181:4022/rtp/239.93.1.104:1234
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="数字频道",CHC高清电影
-http://mail.lacool.tk:8086/udp/239.93.42.5:5140
+http://125.71.57.181:4022/udp/239.93.42.5:5140
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字频道",CHC动作电影
-http://mail.lacool.tk:8086/udp/239.93.42.7:5140
+http://125.71.57.181:4022/udp/239.93.42.7:5140
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://mail.lacool.tk:8086/udp/239.93.42.6:5140
+http://125.71.57.181:4022/udp/239.93.42.6:5140
 #EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="数字频道",求索纪录
-http://mail.lacool.tk:8086/rtp/239.93.42.24:5140
+http://125.71.57.181:4022/rtp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字频道",纪实人文
-http://mail.lacool.tk:8086/rtp/239.93.1.137:5140
+http://125.71.57.181:4022/rtp/239.93.1.137:5140
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字频道",乐游
-http://mail.lacool.tk:8086/rtp/239.93.42.94:5140
+http://125.71.57.181:4022/rtp/239.93.42.94:5140
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="数字频道",劲爆体育
-http://mail.lacool.tk:8086/rtp/239.93.42.98:5140
+http://125.71.57.181:4022/rtp/239.93.42.98:5140
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="数字频道",魅力足球
-http://mail.lacool.tk:8086/rtp/239.93.42.97:5140
+http://125.71.57.181:4022/rtp/239.93.42.97:5140
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="数字频道",东方财经
-http://mail.lacool.tk:8086/rtp/239.93.1.165:5140
+http://125.71.57.181:4022/rtp/239.93.1.165:5140
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="数字频道",法治天地
-http://mail.lacool.tk:8086/rtp/239.93.42.96:5140
+http://125.71.57.181:4022/rtp/239.93.42.96:5140
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="数字频道",金色学堂
-http://mail.lacool.tk:8086/rtp/239.93.42.95:5140
+http://125.71.57.181:4022/rtp/239.93.42.95:5140
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="数字频道",生活时尚
- http://mail.lacool.tk:8086/rtp/239.93.0.106:5140
+ http://125.71.57.181:4022/rtp/239.93.0.106:5140
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="数字频道",游戏风云
- http://mail.lacool.tk:8086/rtp/239.93.0.136:5140
+ http://125.71.57.181:4022/rtp/239.93.0.136:5140
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
- http://mail.lacool.tk:8086/rtp/239.93.1.151:5140
+ http://125.71.57.181:4022/rtp/239.93.1.151:5140
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字频道",金鹰纪实
- http://mail.lacool.tk:8086/rtp/239.93.0.130:5140
+ http://125.71.57.181:4022/rtp/239.93.0.130:5140
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="数字频道",茶频道
-http://mail.lacool.tk:8086/rtp/239.93.0.114:5140 
+http://125.71.57.181:4022/rtp/239.93.0.114:5140 
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="数字频道",先锋乒羽
- http://mail.lacool.tk:8086/rtp/239.93.42.56:5140
+ http://125.71.57.181:4022/rtp/239.93.42.56:5140
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="数字频道",天元围棋
-http://mail.lacool.tk:8086/rtp/239.93.42.55:5140
+http://125.71.57.181:4022/rtp/239.93.42.55:5140
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="数字频道",爱上4K
 http://ljiang108.top:8123/rtp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="中录动漫" tvg-name="中录动漫" tvg-logo="https://live.fanmingming.com/tv/中录动漫.png" group-title="数字频道",中录动漫4K
@@ -210,57 +210,57 @@ http://ljiang108.top:8123/rtp/239.93.1.188:5140
 #EXTINF:-1 tvg-id="亲子趣学" tvg-name="亲子趣学" tvg-logo="https://live.fanmingming.com/tv/亲子趣学.png" group-title="数字频道",亲子趣学4K
 http://ljiang108.top:8123/rtp/239.93.1.191:5140
 #EXTINF:-1 tvg-id="足球高清" tvg-name="足球高清" tvg-logo="https://live.fanmingming.com/tv/足球高清.png" group-title="数字频道",足球高清
-http://mail.lacool.tk:8086/rtp/239.93.0.197:9040
+http://125.71.57.181:4022/rtp/239.93.0.197:9040
 #EXTINF:-1 tvg-id="少儿天地" tvg-name="少儿天地" tvg-logo="https://live.fanmingming.com/tv/少儿天地.png" group-title="数字频道",少儿天地
-http://mail.lacool.tk:8086/rtp/239.93.42.34:5140
+http://125.71.57.181:4022/rtp/239.93.42.34:5140
 #EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",青春动漫
-http://mail.lacool.tk:8086/rtp/239.93.0.146:5140
+http://125.71.57.181:4022/rtp/239.93.0.146:5140
 #EXTINF:-1 tvg-id="热门综艺" tvg-name="热门综艺" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",热门综艺
-http://mail.lacool.tk:8086/rtp/239.93.0.151:5140
+http://125.71.57.181:4022/rtp/239.93.0.151:5140
 #EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",华语影院
-http://mail.lacool.tk:8086/rtp/239.93.0.138:5140 
+http://125.71.57.181:4022/rtp/239.93.0.138:5140 
 #EXTINF:-1 tvg-id="星光院线" tvg-name="星光院线" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",星光院线
-http://mail.lacool.tk:8086/rtp/239.93.0.139:5140 
+http://125.71.57.181:4022/rtp/239.93.0.139:5140 
 #EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",全球大片
-http://mail.lacool.tk:8086/rtp/239.93.0.105:5140 
+http://125.71.57.181:4022/rtp/239.93.0.105:5140 
 #EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",热门剧场
-http://mail.lacool.tk:8086/rtp/239.93.0.140:5140 
+http://125.71.57.181:4022/rtp/239.93.0.140:5140 
 #EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",谍战剧场
-http://mail.lacool.tk:8086/rtp/239.93.0.95:5140 
+http://125.71.57.181:4022/rtp/239.93.0.95:5140 
 #EXTINF:-1 tvg-id="IHOT爱怀旧" tvg-name="IHOT爱怀旧" tvg-logo="https://live.fanmingming.com/tv/IHOT爱怀旧.png" group-title="数字频道",爱怀旧高清
-http://mail.lacool.tk:8086/rtp/239.93.42.21:5140
+http://125.71.57.181:4022/rtp/239.93.42.21:5140
 #EXTINF:-1 tvg-id="IHOT爱喜剧" tvg-name="IHOT爱喜剧" tvg-logo="https://live.fanmingming.com/tv/IHOT爱喜剧.png" group-title="数字频道",爱喜剧高清
-http://mail.lacool.tk:8086/rtp/239.93.42.9:5140
+http://125.71.57.181:4022/rtp/239.93.42.9:5140
 #EXTINF:-1 tvg-id="IHOT爱奇谈" tvg-name="IHOT爱奇谈" tvg-logo="https://live.fanmingming.com/tv/IHOT爱奇谈.png" group-title="数字频道",爱奇谈高清
-http://mail.lacool.tk:8086/rtp/239.93.42.22:5140
+http://125.71.57.181:4022/rtp/239.93.42.22:5140
 #EXTINF:-1 tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻" tvg-logo="https://live.fanmingming.com/tv/IHOT爱科幻.png" group-title="数字频道",爱科幻高清
-http://mail.lacool.tk:8086/rtp/239.93.42.10:5140
+http://125.71.57.181:4022/rtp/239.93.42.10:5140
 #EXTINF:-1 tvg-id="IHOT爱怀旧" tvg-name="IHOT爱怀旧" tvg-logo="https://live.fanmingming.com/tv/IHOT爱怀旧.png" group-title="数字频道",爱院线高清
-http://mail.lacool.tk:8086/rtp/239.93.42.11:5140
+http://125.71.57.181:4022/rtp/239.93.42.11:5140
 #EXTINF:-1 tvg-id="IHOT爱谍战" tvg-name="IHOT爱谍战" tvg-logo="https://live.fanmingming.com/tv/IHOT爱谍战.png" group-title="数字频道",爱谍战高清
-http://mail.lacool.tk:8086/rtp/239.93.42.14:5140
+http://125.71.57.181:4022/rtp/239.93.42.14:5140
 #EXTINF:-1 tvg-id="IHOT爱经典" tvg-name="IHOT爱经典" tvg-logo="https://live.fanmingming.com/tv/IHOT爱经典.png" group-title="数字频道",爱经典高清
-http://mail.lacool.tk:8086/rtp/239.93.42.13:5140
+http://125.71.57.181:4022/rtp/239.93.42.13:5140
 #EXTINF:-1 tvg-id="IHOT爱悬疑" tvg-name="IHOT爱悬疑" tvg-logo="https://live.fanmingming.com/tv/IHOT爱悬疑.png" group-title="数字频道",爱悬疑高清
-http://mail.lacool.tk:8086/rtp/239.93.42.12:5140
+http://125.71.57.181:4022/rtp/239.93.42.12:5140
 #EXTINF:-1 tvg-id="IHOT爱青春" tvg-name="IHOT爱青春" tvg-logo="https://live.fanmingming.com/tv/IHOT爱青春.png" group-title="数字频道",爱青春高清
-http://mail.lacool.tk:8086/rtp/239.93.42.16:5140
+http://125.71.57.181:4022/rtp/239.93.42.16:5140
 #EXTINF:-1 tvg-id="IHOT爱都市" tvg-name="IHOT爱都市" tvg-logo="https://live.fanmingming.com/tv/IHOT爱都市.png" group-title="数字频道",爱都市高清
-http://mail.lacool.tk:8086/rtp/239.93.42.15:5140
+http://125.71.57.181:4022/rtp/239.93.42.15:5140
 #EXTINF:-1 tvg-id="IHOT爱幼教" tvg-name="IHOT爱幼教" tvg-logo="https://live.fanmingming.com/tv/IHOT爱幼教.png" group-title="数字频道",爱幼教高清
-http://mail.lacool.tk:8086/rtp/239.93.42.17:5140
+http://125.71.57.181:4022/rtp/239.93.42.17:5140
 #EXTINF:-1 tvg-id="IHOT爱玩具" tvg-name="IHOT爱玩具" tvg-logo="https://live.fanmingming.com/tv/IHOT爱玩具.png" group-title="数字频道",爱玩具高清
-http://mail.lacool.tk:8086/rtp/239.93.42.18:5140
+http://125.71.57.181:4022/rtp/239.93.42.18:5140
 #EXTINF:-1 tvg-id="IHOT爱动漫" tvg-name="IHOT爱动漫" tvg-logo="https://live.fanmingming.com/tv/IHOT爱动漫.png" group-title="数字频道",爱动漫高清
-http://mail.lacool.tk:8086/rtp/239.93.42.23:5140
+http://125.71.57.181:4022/rtp/239.93.42.23:5140
 #EXTINF:-1 tvg-id="IHOT爱电竞" tvg-name="IHOT爱电竞" tvg-logo="https://live.fanmingming.com/tv/IHOT爱电竞.png" group-title="数字频道",爱电竞高清
-http://mail.lacool.tk:8086/rtp/239.93.42.19:5140
+http://125.71.57.181:4022/rtp/239.93.42.19:5140
 #EXTINF:-1 tvg-id="IHOT爱赛车" tvg-name="IHOT爱赛车" tvg-logo="https://live.fanmingming.com/tv/IHOT爱赛车.png" group-title="数字频道",爱赛车高清
-http://mail.lacool.tk:8086/rtp/239.93.42.20:5140
+http://125.71.57.181:4022/rtp/239.93.42.20:5140
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="国际",凤凰中文
-http://mail.lacool.tk:8086/rtp/239.93.0.162:2192
+http://125.71.57.181:4022/rtp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="国际",凤凰资讯
-http://mail.lacool.tk:8086/rtp/239.93.0.118:2191
+http://125.71.57.181:4022/rtp/239.93.0.118:2191
 #EXTINF:-1 tvg-id="FoxNews" tvg-name="FoxNews" tvg-logo="https://live.fanmingming.com/tv/FoxLive.png" group-title="国际",FOX新闻
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",CNN新闻
@@ -291,4 +291,3 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
 #EXTINF:-1 tvg-id="IGN" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/26/USBA30003672_20210525T051545.png" group-title="国际",IGN
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/ignaaaaaa-ign1-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
