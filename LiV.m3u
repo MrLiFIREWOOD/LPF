@@ -363,7 +363,7 @@ http://lhttp.qingting.fm/live/4892/64k.mp3?app_id=web
 http://lhttp.qingting.fm/live/1121/64k.mp3?app_id=web
 #EXTINF:-1 tvg-name="成都交通文艺广播" tvg-logo="https://fanmingming.com/fm?id=1360&logo=1" radio="true" group-title="电台",成都交通文艺广播
 http://lhttp.qingting.fm/live/4891/64k.mp3?app_id=web
-#EXTINF:-1 tvg-name="年代音乐1022" tvg-logo="https://live.fanmingming.com/fm/年代音乐台.png" radio="true" group-title="电台",年代音乐1022
+#EXTINF:-1 tvg-name="年代音乐1022" tvg-logo="https://live.fanmingming.com/radio/年代音乐台.png" radio="true" group-title="电台",年代音乐1022
 https://fanmingming.com/fm?id=1600
 #EXTINF:-1 tvg-name="成都新闻广播" tvg-logo="https://fanmingming.com/fm?id=1698&logo=1" radio="true" group-title="电台",成都新闻广播
 http://lhttp.qingting.fm/live/4897/64k.mp3?app_id=web
@@ -371,9 +371,3 @@ http://lhttp.qingting.fm/live/4897/64k.mp3?app_id=web
 http://lhttp.qingting.fm/live/5022004/64k.mp3?app_id=web
 #EXTINF:-1 tvg-name="AsiaFM成都96.5" tvg-logo="https://fanmingming.com/fm?id=1851&logo=1" radio="true" group-title="电台",AsiaFM成都96.5
 https://fanmingming.com/fm?id=1851
-#EXTINF:-1 tvg-name="成都唯一音乐广播" tvg-logo="https://live.fanmingming.com/fm/成都唯一音乐广播.png" radio="true" group-title="电台",成都唯一音乐广播 FM103.2 Chendu Only Radio
-http://lhttp.qingting.fm/live/4023/64k.mp3?app_id=web
-#EXTINF:-1 tvg-name="成都简单音乐广播" tvg-logo="https://live.fanmingming.com/fm/成都简单音乐广播.png" radio="true" group-title="电台",成都简单音乐广播 FM105.1
-http://lhttp.qingting.fm/live/5012/64k.mp3?app_id=web
-#EXTINF:-1 tvg-name="Yes! FM" tvg-logo="https://live.fanmingming.com/fm/Yes! FM.png" radio="true" group-title="电台",Yes! FM 96.3 成都
-http://lhttp.qingting.fm/live/4931/64k.mp3?app_id=web
