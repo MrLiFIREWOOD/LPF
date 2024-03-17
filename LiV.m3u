@@ -168,7 +168,7 @@ http://125.71.57.181:4022/rtp/239.93.0.21:1251
 #EXTINF:-1 tvg-id="成都每日购物" tvg-name="成都每日购物" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv8.png" group-title="四川",成都每日购物
 http://125.71.57.181:4022/rtp/239.93.0.22:1252
 #EXTINF:-1 tvg-id="蓉城先锋" tvg-name="蓉城先锋" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/蓉城先锋.png" group-title="四川",蓉城先锋
-http://125.71.57.181:4022/rtp/239.93.0.91:2101
+http://125.71.57.181:4022/udp/239.93.0.91:2101
 #EXTINF:-1 tvg-id="i成都" tvg-name="i成都" tvg-logo="https://live.fanmingming.com/tv/i成都.png" group-title="四川",i成都
 http://125.71.57.181:4022/rtp/239.93.1.104:1234
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="数字频道",CHC高清电影
