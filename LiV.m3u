@@ -297,77 +297,77 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
 #EXTINF:-1 tvg-id="IGN" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/26/USBA30003672_20210525T051545.png" group-title="国际",IGN
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/ignaaaaaa-ign1-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-name="中国之声" tvg-logo="https://fanmingming.com/fm?id=639&logo=1" radio="true",group-title="电台",中国之声
+#EXTINF:-1 tvg-name="中国之声" tvg-logo="https://fanmingming.com/fm?id=639&logo=1" radio="true" group-title="电台",中国之声
 https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-#EXTINF:-1 tvg-name="经济之声" tvg-logo="https://fanmingming.com/fm?id=640&logo=1" radio="true",group-title="电台",经济之声
+#EXTINF:-1 tvg-name="经济之声" tvg-logo="https://fanmingming.com/fm?id=640&logo=1" radio="true" group-title="电台",经济之声
 https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-#EXTINF:-1 tvg-name="环球资讯广播" tvg-logo="https://fanmingming.com/fm?id=692&logo=1" radio="true",group-title="电台",环球资讯广播
+#EXTINF:-1 tvg-name="环球资讯广播" tvg-logo="https://fanmingming.com/fm?id=692&logo=1" radio="true" group-title="电台",环球资讯广播
 https://sk.cri.cn/905.m3u8
-#EXTINF:-1 tvg-name="音乐之声" tvg-logo="https://fanmingming.com/fm?id=641&logo=1" radio="true",group-title="电台",音乐之声
+#EXTINF:-1 tvg-name="音乐之声" tvg-logo="https://fanmingming.com/fm?id=641&logo=1" radio="true" group-title="电台",音乐之声
 https://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-#EXTINF:-1 tvg-name="中国交通广播" tvg-logo="https://fanmingming.com/fm?id=653&logo=1" radio="true",group-title="电台",中国交通广播
+#EXTINF:-1 tvg-name="中国交通广播" tvg-logo="https://fanmingming.com/fm?id=653&logo=1" radio="true" group-title="电台",中国交通广播
 https://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-#EXTINF:-1 tvg-name="文艺之声" tvg-logo="https://fanmingming.com/fm?id=648&logo=1" radio="true",group-title="电台",文艺之声
+#EXTINF:-1 tvg-name="文艺之声" tvg-logo="https://fanmingming.com/fm?id=648&logo=1" radio="true" group-title="电台",文艺之声
 https://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-#EXTINF:-1 tvg-name="大湾区之声" tvg-logo="https://fanmingming.com/fm?id=645&logo=1" radio="true",group-title="电台",大湾区之声
+#EXTINF:-1 tvg-name="大湾区之声" tvg-logo="https://fanmingming.com/fm?id=645&logo=1" radio="true" group-title="电台",大湾区之声
 https://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-#EXTINF:-1 tvg-name="经典音乐广播" tvg-logo="https://fanmingming.com/fm?id=642&logo=1" radio="true",group-title="电台",经典音乐广播
+#EXTINF:-1 tvg-name="经典音乐广播" tvg-logo="https://fanmingming.com/fm?id=642&logo=1" radio="true" group-title="电台",经典音乐广播
 https://ngcdn004.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1 tvg-name="台海之声" tvg-logo="https://fanmingming.com/fm?id=643&logo=1" radio="true",group-title="电台",台海之声
+#EXTINF:-1 tvg-name="台海之声" tvg-logo="https://fanmingming.com/fm?id=643&logo=1" radio="true" group-title="电台",台海之声
 https://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-#EXTINF:-1 tvg-name="神州之声" tvg-logo="https://fanmingming.com/fm?id=644&logo=1" radio="true",group-title="电台",神州之声
+#EXTINF:-1 tvg-name="神州之声" tvg-logo="https://fanmingming.com/fm?id=644&logo=1" radio="true" group-title="电台",神州之声
 https://ngcdn006.cnr.cn/live/szzs/index.m3u8
-#EXTINF:-1 tvg-name="香港之声" tvg-logo="https://fanmingming.com/fm?id=646&logo=1" radio="true",group-title="电台",香港之声
+#EXTINF:-1 tvg-name="香港之声" tvg-logo="https://fanmingming.com/fm?id=646&logo=1" radio="true" group-title="电台",香港之声
 https://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-#EXTINF:-1 tvg-name="民族之声" tvg-logo="https://fanmingming.com/fm?id=647&logo=1" radio="true",group-title="电台",民族之声
+#EXTINF:-1 tvg-name="民族之声" tvg-logo="https://fanmingming.com/fm?id=647&logo=1" radio="true" group-title="电台",民族之声
 https://ngcdn009.cnr.cn/live/mzzs/index.m3u8
-#EXTINF:-1 tvg-name="老年之声" tvg-logo="https://fanmingming.com/fm?id=649&logo=1" radio="true",group-title="电台",老年之声
+#EXTINF:-1 tvg-name="老年之声" tvg-logo="https://fanmingming.com/fm?id=649&logo=1" radio="true" group-title="电台",老年之声
 https://ngcdn011.cnr.cn/live/lnzs/index.m3u8
-#EXTINF:-1 tvg-name="藏语广播" tvg-logo="https://fanmingming.com/fm?id=650&logo=1" radio="true",group-title="电台",藏语广播
+#EXTINF:-1 tvg-name="藏语广播" tvg-logo="https://fanmingming.com/fm?id=650&logo=1" radio="true" group-title="电台",藏语广播
 https://ngcdn012.cnr.cn/live/zygb/index.m3u8
-#EXTINF:-1 tvg-name="维吾尔语广播" tvg-logo="https://fanmingming.com/fm?id=651&logo=1" radio="true",group-title="电台",维吾尔语广播
+#EXTINF:-1 tvg-name="维吾尔语广播" tvg-logo="https://fanmingming.com/fm?id=651&logo=1" radio="true" group-title="电台",维吾尔语广播
 https://ngcdn013.cnr.cn/live/wygb/index.m3u8
-#EXTINF:-1 tvg-name="阅读之声" tvg-logo="https://fanmingming.com/fm?id=652&logo=1" radio="true",group-title="电台",阅读之声
+#EXTINF:-1 tvg-name="阅读之声" tvg-logo="https://fanmingming.com/fm?id=652&logo=1" radio="true" group-title="电台",阅读之声
 https://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-#EXTINF:-1 tvg-name="中国乡村之声" tvg-logo="https://fanmingming.com/fm?id=654&logo=1" radio="true",group-title="电台",中国乡村之声
+#EXTINF:-1 tvg-name="中国乡村之声" tvg-logo="https://fanmingming.com/fm?id=654&logo=1" radio="true" group-title="电台",中国乡村之声
 https://ngcdn017.cnr.cn/live/xczs/index.m3u8
-#EXTINF:-1 tvg-name="哈萨克语广播" tvg-logo="https://fanmingming.com/fm?id=655&logo=1" radio="true",group-title="电台",哈萨克语广播
+#EXTINF:-1 tvg-name="哈萨克语广播" tvg-logo="https://fanmingming.com/fm?id=655&logo=1" radio="true" group-title="电台",哈萨克语广播
 https://ngcdn025.cnr.cn/live/hygb/index.m3u8
-#EXTINF:-1 tvg-name="HITFM劲曲调频" tvg-logo="https://fanmingming.com/fm?id=662&logo=1" radio="true",group-title="电台",HITFM劲曲调频
+#EXTINF:-1 tvg-name="HITFM劲曲调频" tvg-logo="https://fanmingming.com/fm?id=662&logo=1" radio="true" group-title="电台",HITFM劲曲调频
 https://sk.cri.cn/887.m3u8
-#EXTINF:-1 tvg-name="轻松调频" tvg-logo="https://fanmingming.com/fm?id=689&logo=1" radio="true",group-title="电台",轻松调频
+#EXTINF:-1 tvg-name="轻松调频" tvg-logo="https://fanmingming.com/fm?id=689&logo=1" radio="true" group-title="电台",轻松调频
 https://sk.cri.cn/915.m3u8
-#EXTINF:-1 tvg-name="南海之声" tvg-logo="https://fanmingming.com/fm?id=664&logo=1" radio="true",group-title="电台",南海之声
+#EXTINF:-1 tvg-name="南海之声" tvg-logo="https://fanmingming.com/fm?id=664&logo=1" radio="true" group-title="电台",南海之声
 https://sk.cri.cn/nhzs.m3u8
-#EXTINF:-1 tvg-name="四川经济广播" tvg-logo="https://fanmingming.com/fm?id=445&logo=1" radio="true",group-title="电台",四川经济广播
+#EXTINF:-1 tvg-name="四川经济广播" tvg-logo="https://fanmingming.com/fm?id=445&logo=1" radio="true" group-title="电台",四川经济广播
 https://satellitepull.cnr.cn/live/wxscjjgb/playlist.m3u8
-#EXTINF:-1 tvg-name="四川文艺广播" tvg-logo="https://fanmingming.com/fm?id=446&logo=1" radio="true",group-title="电台",四川文艺广播
+#EXTINF:-1 tvg-name="四川文艺广播" tvg-logo="https://fanmingming.com/fm?id=446&logo=1" radio="true" group-title="电台",四川文艺广播
 https://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
-#EXTINF:-1 tvg-name="四川岷江音乐频率" tvg-logo="https://fanmingming.com/fm?id=447&logo=1" radio="true",group-title="电台",四川岷江音乐频率
+#EXTINF:-1 tvg-name="四川岷江音乐频率" tvg-logo="https://fanmingming.com/fm?id=447&logo=1" radio="true" group-title="电台",四川岷江音乐频率
 https://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
-#EXTINF:-1 tvg-name="四川新闻频率" tvg-logo="https://fanmingming.com/fm?id=448&logo=1" radio="true",group-title="电台",四川新闻频率
+#EXTINF:-1 tvg-name="四川新闻频率" tvg-logo="https://fanmingming.com/fm?id=448&logo=1" radio="true" group-title="电台",四川新闻频率
 https://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
-#EXTINF:-1 tvg-name="四川交通广播" tvg-logo="https://fanmingming.com/fm?id=449&logo=1" radio="true",group-title="电台",四川交通广播
+#EXTINF:-1 tvg-name="四川交通广播" tvg-logo="https://fanmingming.com/fm?id=449&logo=1" radio="true" group-title="电台",四川交通广播
 https://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
-#EXTINF:-1 tvg-name="四川城市之音" tvg-logo="https://fanmingming.com/fm?id=450&logo=1" radio="true",group-title="电台",四川城市之音
+#EXTINF:-1 tvg-name="四川城市之音" tvg-logo="https://fanmingming.com/fm?id=450&logo=1" radio="true" group-title="电台",四川城市之音
 https://satellitepull.cnr.cn/live/wxsccszs/playlist.m3u8
-#EXTINF:-1 tvg-name="四川民族频率" tvg-logo="https://fanmingming.com/fm?id=451&logo=1" radio="true",group-title="电台",四川民族频率
+#EXTINF:-1 tvg-name="四川民族频率" tvg-logo="https://fanmingming.com/fm?id=451&logo=1" radio="true" group-title="电台",四川民族频率
 https://satellitepull.cnr.cn/live/wxscmzgb/playlist.m3u8
-#EXTINF:-1 tvg-name="四川综合广播" tvg-logo="https://fanmingming.com/fm?id=452&logo=1" radio="true",group-title="电台",四川综合广播
+#EXTINF:-1 tvg-name="四川综合广播" tvg-logo="https://fanmingming.com/fm?id=452&logo=1" radio="true" group-title="电台",四川综合广播
 https://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
-#EXTINF:-1 tvg-name="天府之声" tvg-logo="https://fanmingming.com/fm?id=453&logo=1" radio="true",group-title="电台",天府之声
+#EXTINF:-1 tvg-name="天府之声" tvg-logo="https://fanmingming.com/fm?id=453&logo=1" radio="true" group-title="电台",天府之声
 https://satellitepull.cnr.cn/live/wxsc925/playlist.m3u8
-#EXTINF:-1 tvg-name="成都电台Radio946" tvg-logo="https://fanmingming.com/fm?id=456&logo=1" radio="true",group-title="电台",成都电台Radio946
+#EXTINF:-1 tvg-name="成都电台Radio946" tvg-logo="https://fanmingming.com/fm?id=456&logo=1" radio="true" group-title="电台",成都电台Radio946
 https://fanmingming.com/fm?id=456
-#EXTINF:-1 tvg-name="成都经济广播" tvg-logo="https://fanmingming.com/fm?id=457&logo=1" radio="true",group-title="电台",成都经济广播
+#EXTINF:-1 tvg-name="成都经济广播" tvg-logo="https://fanmingming.com/fm?id=457&logo=1" radio="true" group-title="电台",成都经济广播
 https://fanmingming.com/fm?id=457
-#EXTINF:-1 tvg-name="成都交通文艺广播" tvg-logo="https://fanmingming.com/fm?id=1360&logo=1" radio="true",group-title="电台",成都交通文艺广播
+#EXTINF:-1 tvg-name="成都交通文艺广播" tvg-logo="https://fanmingming.com/fm?id=1360&logo=1" radio="true" group-title="电台",成都交通文艺广播
 https://fanmingming.com/fm?id=1360
-#EXTINF:-1 tvg-name="年代音乐1022" tvg-logo="https://fanmingming.com/fm?id=1600&logo=1" radio="true",group-title="电台",年代音乐1022
+#EXTINF:-1 tvg-name="年代音乐1022" tvg-logo="https://fanmingming.com/fm?id=1600&logo=1" radio="true" group-title="电台",年代音乐1022
 https://fanmingming.com/fm?id=1600
-#EXTINF:-1 tvg-name="成都新闻广播" tvg-logo="https://fanmingming.com/fm?id=1698&logo=1" radio="true",group-title="电台",成都新闻广播
+#EXTINF:-1 tvg-name="成都新闻广播" tvg-logo="https://fanmingming.com/fm?id=1698&logo=1" radio="true" group-title="电台",成都新闻广播
 http://livecdn.cdbs.com.cn/fm998.flv/playlist.m3u8
-#EXTINF:-1 tvg-name="成都故事广播" tvg-logo="https://fanmingming.com/fm?id=1699&logo=1" radio="true",group-title="电台",成都故事广播
+#EXTINF:-1 tvg-name="成都故事广播" tvg-logo="https://fanmingming.com/fm?id=1699&logo=1" radio="true" group-title="电台",成都故事广播
 https://fanmingming.com/fm?id=1699
-#EXTINF:-1 tvg-name="AsiaFM成都96.5" tvg-logo="https://fanmingming.com/fm?id=1851&logo=1" radio="true",group-title="电台",AsiaFM成都96.5
+#EXTINF:-1 tvg-name="AsiaFM成都96.5" tvg-logo="https://fanmingming.com/fm?id=1851&logo=1" radio="true" group-title="电台",AsiaFM成都96.5
 https://fanmingming.com/fm?id=1851
