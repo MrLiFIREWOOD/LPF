@@ -209,14 +209,8 @@ http://125.71.57.181:4022/rtp/239.93.0.114:5140
 http://125.71.57.181:4022/rtp/239.93.42.56:5140
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="数字频道",天元围棋
 http://125.71.57.181:4022/rtp/239.93.42.55:5140
-#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="数字频道",爱上4K
-http://125.71.57.181:4022/rtp/239.93.0.97:5140
-#EXTINF:-1 tvg-id="中录动漫" tvg-name="中录动漫" tvg-logo="https://live.fanmingming.com/tv/中录动漫.png" group-title="数字频道",中录动漫4K
-http://125.71.57.181:4022/rtp/239.93.1.188:5140
 #EXTINF:-1 tvg-id="亲子趣学" tvg-name="亲子趣学" tvg-logo="https://live.fanmingming.com/tv/亲子趣学.png" group-title="数字频道",亲子趣学4K
 http://125.71.57.181:4022/rtp/239.93.1.191:5140
-#EXTINF:-1 tvg-id="足球高清" tvg-name="足球高清" tvg-logo="https://live.fanmingming.com/tv/足球高清.png" group-title="数字频道",足球高清
-http://125.71.57.181:4022/rtp/239.93.0.197:9040
 #EXTINF:-1 tvg-id="少儿天地" tvg-name="少儿天地" tvg-logo="https://live.fanmingming.com/tv/少儿天地.png" group-title="数字频道",少儿天地
 http://125.71.57.181:4022/rtp/239.93.42.34:5140
 #EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道",青春动漫
