@@ -147,7 +147,7 @@ http://mail.lacool.tk:8086/rtp/239.93.0.219:5140
 http://mail.lacool.tk:8086/rtp/239.93.42.44:5140
 #EXTINF:-1 tvg-id="SCTV9" tvg-name="四川乡村" tvg-logo="https://live.fanmingming.com/tv/四川乡村.png" group-title="四川",四川乡村
 http://mail.lacool.tk:8086/rtp/239.93.0.52:5140
-#EXTINF:-1 tvg-id="SCTV10" tvg-name="峨眉电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/峨眉电影.png" group-title="四川",峨眉电影
+#EXTINF:-1 tvg-id="SCTV10" tvg-name="峨眉电影" tvg-logo="https://epg.112114.xyz/logo/峨眉电影.png" group-title="四川",峨眉电影
 http://mail.lacool.tk:8086/rtp/239.93.0.252:5140
 #EXTINF:-1 tvg-id="CDTV1" tvg-name="成都新闻综合" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",成都新闻综合
 http://mail.lacool.tk:8086/rtp/239.93.0.16:5140
