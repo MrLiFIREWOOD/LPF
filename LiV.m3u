@@ -377,7 +377,7 @@ https://lhttp.qingting.fm/live/276/64k.mp3
 http://ls.qingting.fm/live/274.m3u8
 #EXTINF:-1 tvg-name="清晨音乐台" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/清晨音乐台.jpg" radio="true" group-title="电台",清晨音乐台
 https://lhttp.qingting.fm/live/4915/64k.mp3
-#EXTINF:-1 tvg-name="心灵音乐馆" tvg-logo="https://live.fanmingming.com/radio/心灵音乐馆.png" radio="true" group-title="电台",心灵音乐馆
+#EXTINF:-1 tvg-name="心灵音乐馆" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/心灵音乐馆.png" radio="true" group-title="电台",心灵音乐馆
 http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
 #EXTINF:-1 tvg-name="80后音乐" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/80后音乐台.png" radio="true" group-title="电台",80后音乐
 http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
@@ -387,7 +387,7 @@ http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
 http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 #EXTINF:-1 tvg-name="卷卷猫电台" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/卷卷猫电台.png" radio="true" group-title="电台",卷卷猫电台
 http://stream3.hndt.com/now/PHucVOu2/playlist.m3u8
-#EXTINF:-1 tvg-name="有声文摘" tvg-logo="https://live.fanmingming.com/radio/有声文摘.png" radio="true" group-title="电台",有声文摘
+#EXTINF:-1 tvg-name="有声文摘" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/有声文摘.png" radio="true" group-title="电台",有声文摘
 http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
 #EXTINF:-1 tvg-name="安全百科" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/安全百科网络台.png" radio="true" group-title="电台",安全百科
 http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
