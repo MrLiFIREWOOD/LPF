@@ -329,16 +329,10 @@ https://ngcdn008.cnr.cn/live/xgzs/index.m3u8
 https://ngcdn009.cnr.cn/live/mzzs/index.m3u8
 #EXTINF:-1 tvg-name="老年之声" tvg-logo="https://fanmingming.com/fm?id=649&logo=1" radio="true" group-title="电台",老年之声
 https://ngcdn011.cnr.cn/live/lnzs/index.m3u8
-#EXTINF:-1 tvg-name="藏语广播" tvg-logo="https://fanmingming.com/fm?id=650&logo=1" radio="true" group-title="电台",藏语广播
-https://ngcdn012.cnr.cn/live/zygb/index.m3u8
-#EXTINF:-1 tvg-name="维吾尔语广播" tvg-logo="https://fanmingming.com/fm?id=651&logo=1" radio="true" group-title="电台",维吾尔语广播
-https://ngcdn013.cnr.cn/live/wygb/index.m3u8
 #EXTINF:-1 tvg-name="阅读之声" tvg-logo="https://fanmingming.com/fm?id=652&logo=1" radio="true" group-title="电台",阅读之声
 https://ngcdn014.cnr.cn/live/ylgb/index.m3u8
 #EXTINF:-1 tvg-name="中国乡村之声" tvg-logo="https://fanmingming.com/fm?id=654&logo=1" radio="true" group-title="电台",中国乡村之声
 https://ngcdn017.cnr.cn/live/xczs/index.m3u8
-#EXTINF:-1 tvg-name="哈萨克语广播" tvg-logo="https://fanmingming.com/fm?id=655&logo=1" radio="true" group-title="电台",哈萨克语广播
-https://ngcdn025.cnr.cn/live/hygb/index.m3u8
 #EXTINF:-1 tvg-name="HITFM劲曲调频" tvg-logo="https://fanmingming.com/fm?id=662&logo=1" radio="true" group-title="电台",HITFM劲曲调频
 https://sk.cri.cn/887.m3u8
 #EXTINF:-1 tvg-name="轻松调频" tvg-logo="https://fanmingming.com/fm?id=689&logo=1" radio="true" group-title="电台",轻松调频
