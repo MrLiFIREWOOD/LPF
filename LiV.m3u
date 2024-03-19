@@ -215,7 +215,7 @@ http://mail.lacool.tk:8086/rtp/239.93.42.56:5140
 http://mail.lacool.tk:8086/rtp/239.93.42.55:5140
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字频道",欢笑剧场4K
 http://zourjke.eu.org:84/bestv.php?id=hxjc4k/15000000
-#EXTINF:-1 tvg-id="中录动漫" tvg-name="中录动漫" tvg-logo="https://live.fanmingming.com/tv/中录动漫.png" group-title="数字频道",中录动漫4K
+#EXTINF:-1 tvg-id="中录动漫" tvg-name="中录动漫" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/zl_logo.png" group-title="数字频道",中录动漫4K
 http://mail.lacool.tk:8086/rtp/239.93.1.188:5140
 #EXTINF:-1 tvg-id="亲子趣学" tvg-name="亲子趣学" tvg-logo="https://live.fanmingming.com/tv/亲子趣学.png" group-title="数字频道",亲子趣学4K
 http://mail.lacool.tk:8086/rtp/239.93.1.191:5140
