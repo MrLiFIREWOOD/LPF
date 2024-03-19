@@ -371,19 +371,19 @@ http://lhttp.qingting.fm/live/4897/64k.mp3
 http://lhttp.qingting.fm/live/5022004/64k.mp3
 #EXTINF:-1 tvg-name="AsiaFM成都96.5" tvg-logo="https://fanmingming.com/fm?id=1851&logo=1" radio="true" group-title="电台",AsiaFM成都96.5
 https://fanmingming.com/fm?id=1851
-#EXTINF:-1 tvg-name="上海第一财经广播" tvg-logo="https://live.fanmingming.com/radio/第一财经广播.png" radio="true" group-title="电台",上海第一财经广播
+#EXTINF:-1 tvg-name="上海第一财经广播" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/第一财经广播.png" radio="true" group-title="电台",上海第一财经广播
 https://lhttp.qingting.fm/live/276/64k.mp3
-#EXTINF:-1 tvg-name="动感101" tvg-logo="https://live.fanmingming.com/radio/动感101.png" radio="true" group-title="电台",动感101
+#EXTINF:-1 tvg-name="动感101" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/上海动感101.png" radio="true" group-title="电台",动感101
 http://ls.qingting.fm/live/274.m3u8
-#EXTINF:-1 tvg-name="清晨音乐台" tvg-logo="https://live.fanmingming.com/radio/清晨音乐台.png" radio="true" group-title="电台",清晨音乐台
+#EXTINF:-1 tvg-name="清晨音乐台" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/上海动感101.png" radio="true" group-title="电台",清晨音乐台
 https://lhttp.qingting.fm/live/4915/64k.mp3
 #EXTINF:-1 tvg-name="心灵音乐馆" tvg-logo="https://live.fanmingming.com/radio/心灵音乐馆.png" radio="true" group-title="电台",心灵音乐馆
 http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
-#EXTINF:-1 tvg-name="80后音乐" tvg-logo="https://live.fanmingming.com/radio/80后音乐.png" radio="true" group-title="电台",80后音乐
+#EXTINF:-1 tvg-name="80后音乐" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/80后音乐台.png" radio="true" group-title="电台",80后音乐
 http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
-#EXTINF:-1 tvg-name="经典FM" tvg-logo="https://live.fanmingming.com/radio/经典音乐广播.png" radio="true" group-title="电台",经典FM
+#EXTINF:-1 tvg-name="经典FM" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/经典FM.png" radio="true" group-title="电台",经典FM
 http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
-#EXTINF:-1 tvg-name="格莱美音乐" tvg-logo="https://live.fanmingming.com/radio/格莱美音乐.png" radio="true" group-title="电台",格莱美音乐
+#EXTINF:-1 tvg-name="格莱美音乐" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/格莱美音乐台.png" radio="true" group-title="电台",格莱美音乐
 http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 #EXTINF:-1 tvg-name="卷卷猫电台" tvg-logo="https://live.fanmingming.com/radio/快乐卷卷猫.png" radio="true" group-title="电台",卷卷猫电台
 http://stream3.hndt.com/now/PHucVOu2/playlist.m3u8
@@ -397,8 +397,8 @@ http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
 http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
 #EXTINF:-1 tvg-name="动感音乐" tvg-logo="https://live.fanmingming.com/radio/动感音乐.png" radio="true" group-title="电台",动感音乐
 http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
-#EXTINF:-1 tvg-name="摇滚天空" tvg-logo="https://live.fanmingming.com/radio/摇滚天空.png" radio="true" group-title="电台",摇滚天空
+#EXTINF:-1 tvg-name="摇滚天空" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/摇滚天空台.png" radio="true" group-title="电台",摇滚天空
 http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
-#EXTINF:-1 tvg-name="国乐悠扬" tvg-logo="https://live.fanmingming.com/radio/国乐悠扬.png" radio="true" group-title="电台",国乐悠扬
+#EXTINF:-1 tvg-name="国乐悠扬" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/国乐悠扬台.png" radio="true" group-title="电台",国乐悠扬
 http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
 
