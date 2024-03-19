@@ -163,7 +163,7 @@ http://mail.lacool.tk:8086/rtp/239.93.1.231:5140
 http://mail.lacool.tk:8086/rtp/239.93.0.21:1251
 #EXTINF:-1 tvg-id="蓉城先锋" tvg-name="蓉城先锋" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/蓉城先锋.png" group-title="四川",蓉城先锋
 http://mail.lacool.tk:8086/udp/239.93.0.91:2101
-#EXTINF:-1 tvg-id="i成都" tvg-name="i成都" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/i成都.png" group-title="四川",i成都
+#EXTINF:-1 tvg-id="i成都" tvg-name="i成都" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/i成都1.png" group-title="四川",i成都
 http://mail.lacool.tk:8086/udp/239.93.1.104:1234
 #EXTINF:-1 tvg-id="云看熊猫专区" tvg-name="云看熊猫专区" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/熊猫频道.png" group-title="四川",云看熊猫专区
 http://mail.lacool.tk:8086/udp/239.93.0.211:9148
