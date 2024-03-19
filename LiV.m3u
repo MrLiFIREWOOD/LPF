@@ -179,9 +179,9 @@ http://zourjke.eu.org:84/bestv.php?id=jspdhd/4000000
 http://zourjke.eu.org:84/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1 tvg-id="全记录" tvg-name="全记录" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字频道",乐游
 http://zourjke.eu.org:84/bestv.php?id=qjshd8m/8000000
-#EXTINF:-1,tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="数字频道",东方影视
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="数字频道",东方影视
 http://zourjke.eu.org:84/bestv.php?id=dfyshd8m/8000000
-#EXTINF:-1,tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="数字频道",七彩戏剧
+#EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="数字频道",七彩戏剧
 http://zourjke.eu.org:84/bestv.php?id=qcxjhd8m/8000000
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="数字频道",魅力足球
 http://zourjke.eu.org:84/bestv.php?id=mlyyhd8m/8000000
@@ -205,7 +205,7 @@ http://zourjke.eu.org:84/bestv.php?id=yxfy8m/8000000
 http://zourjke.eu.org:84/bestv.php?id=klcd8m/8000000
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字频道",金鹰纪实
 http://zourjke.eu.org:84/bestv.php?id=jyjs8m/8000000
-#EXTINF:-1,tvg-id="北京纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="数字频道",纪实科教
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="数字频道",北京纪实科教
 http://zourjke.eu.org:84/bestv.php?id=dajs8m/8000000
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="数字频道",茶频道
 http://zourjke.eu.org:84/bestv.php?id=cpdhdavs8m/8000000
