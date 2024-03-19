@@ -375,7 +375,7 @@ https://fanmingming.com/fm?id=1851
 https://lhttp.qingting.fm/live/276/64k.mp3
 #EXTINF:-1 tvg-name="动感101" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/上海动感101.png" radio="true" group-title="电台",动感101
 http://ls.qingting.fm/live/274.m3u8
-#EXTINF:-1 tvg-name="清晨音乐台" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/上海动感101.png" radio="true" group-title="电台",清晨音乐台
+#EXTINF:-1 tvg-name="清晨音乐台" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/清晨音乐台.jpg" radio="true" group-title="电台",清晨音乐台
 https://lhttp.qingting.fm/live/4915/64k.mp3
 #EXTINF:-1 tvg-name="心灵音乐馆" tvg-logo="https://live.fanmingming.com/radio/心灵音乐馆.png" radio="true" group-title="电台",心灵音乐馆
 http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
