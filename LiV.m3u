@@ -305,7 +305,7 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
 #EXTINF:-1 tvg-id="IGN" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/IGN.png" group-title="国际",IGN
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/ignaaaaaa-ign1-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-name="中国之声" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/.png" radio="true" group-title="电台",中国之声
+#EXTINF:-1 tvg-name="中国之声" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/中国之声.png" radio="true" group-title="电台",中国之声
 https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 #EXTINF:-1 tvg-name="经济之声" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/经济之声.png" radio="true" group-title="电台",经济之声
 https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
@@ -323,7 +323,7 @@ https://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 https://ngcdn004.cnr.cn/live/dszs/index.m3u8
 #EXTINF:-1 tvg-name="台海之声" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/台海之声.jpg" radio="true" group-title="电台",台海之声
 https://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-#EXTINF:-1 tvg-name="神州之声" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/神州之声.png" radio="true" group-title="电台",神州之声
+#EXTINF:-1 tvg-name="神州之声" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/神州之声.jpg" radio="true" group-title="电台",神州之声
 https://ngcdn006.cnr.cn/live/szzs/index.m3u8
 #EXTINF:-1 tvg-name="香港之声" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/香港之声.jpg" radio="true" group-title="电台",香港之声
 https://ngcdn008.cnr.cn/live/xgzs/index.m3u8
