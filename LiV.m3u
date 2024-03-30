@@ -12,7 +12,7 @@ http://125.71.57.181:4022/rtp/239.93.42.37:5140
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 http://125.71.57.181:4022/rtp/239.93.1.36:8004
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV6.png" group-title="央视",CCTV-6 电影
-http://125.71.57.181:4022/rtp/239.93.1.13:2226
+http://125.71.57.181:4022/rtp/239.93.42.38:5140
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV7.png" group-title="央视",CCTV-7 国防军事
 http://125.71.57.181:4022/rtp/239.93.1.67:5140
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV8.png" group-title="央视",CCTV-8 电视剧
