@@ -165,6 +165,8 @@ http://125.71.57.181:4022/rtp/239.93.0.21:1251
 http://125.71.57.181:4022/udp/239.93.0.91:2101
 #EXTINF:-1 tvg-id="i成都" tvg-name="i成都" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/爱成都.png" group-title="四川",i成都
 http://125.71.57.181:4022/rtp/239.93.1.104:1234
+#EXTINF:-1 tvg-id="云看熊猫专区" tvg-name="云看熊猫专区" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/熊猫频道.png" group-title="四川",云看熊猫专区
+http://125.71.57.181:4022/rtp/239.93.0.211:9148
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CHC高清电影.png" group-title="数字频道",CHC高清电影
 http://125.71.57.181:4022/udp/239.93.42.5:5140
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
@@ -201,6 +203,10 @@ http://125.71.57.181:4022/rtp/239.93.0.114:5140
 http://125.71.57.181:4022/rtp/239.93.42.56:5140
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/天元围棋.png" group-title="数字频道",天元围棋
 http://125.71.57.181:4022/rtp/239.93.42.55:5140
+#EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/汽摩.png" group-title="数字频道",汽摩
+http://125.71.57.181:4022/rtp/239.93.0.62:5140
+#EXTINF:-1 tvg-id="梨园	" tvg-name="梨园	" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/梨园	.png" group-title="数字频道",梨园
+http://125.71.57.181:4022/rtp/239.93.1.195:5140
 logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/中录动漫4K.png" group-title="数字频道",中录动漫4K
 http://125.71.57.181:4022/rtp/239.93.1.188:5140
 #EXTINF:-1 tvg-id="亲子趣学" tvg-name="亲子趣学" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/亲子趣学4K.png" group-title="数字频道",亲子趣学4K
