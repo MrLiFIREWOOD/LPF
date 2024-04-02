@@ -180,13 +180,13 @@ http://125.71.57.181:4022/rtp/239.93.1.137:5140
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/乐游.png" group-title="数字频道",乐游
 http://125.71.57.181:4022/rtp/239.93.42.94:5140
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/五星体育.png" group-title="数字频道",五星体育
-http://zourjke.eu.org:84/bestv.php?id=wxtyhd8m/8000000
+https://cdn2.jdshipin.com/api/bst2.php?id=wxtyhd8m/8000000
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/劲爆体育.png" group-title="数字频道",劲爆体育
 http://125.71.57.181:4022/rtp/239.93.42.98:5140
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/魅力足球.png" group-title="数字频道",魅力足球
 http://125.71.57.181:4022/rtp/239.93.42.97:5140
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/上海第一财经.png" group-title="数字频道",第一财经
-http://zourjke.eu.org:84/bestv.php?id=dycjhd8m/8000000
+https://cdn2.jdshipin.com/api/bst2.php?id=dycjhd8m/8000000
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/东方财经.png" group-title="数字频道",东方财经
 http://125.71.57.181:4022/rtp/239.93.1.165:5140
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/法治天地.png" group-title="数字频道",法治天地
