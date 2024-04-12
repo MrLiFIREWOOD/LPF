@@ -196,7 +196,7 @@ http://giwon.ddns.net:5555/rtp/239.93.42.95:5140
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/生活时尚.png" group-title="数字频道",生活时尚
 http://giwon.ddns.net:5555/rtp/239.93.0.106:5140
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/游戏风云.png" group-title="数字频道",游戏风云
-https://cdn2.jdshipin.com/api/bst2.php?id=yxfy8m/8000000
+http://giwon.ddns.net:5555/rtp/239.93.0.136:5140
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/快乐垂钓.png" group-title="数字频道",快乐垂钓
 http://giwon.ddns.net:5555/rtp/239.93.1.151:5140
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/金鹰纪实.png" group-title="数字频道",金鹰纪实
