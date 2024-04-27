@@ -191,6 +191,10 @@ http://dqr028.oicp.net:4022/rtp/239.93.42.96:5140
 http://dqr028.oicp.net:4022/rtp/239.93.42.95:5140
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/生活时尚.png" group-title="数字频道",生活时尚
 http://dqr028.oicp.net:4022/rtp/239.93.0.106:5140
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/都市剧场.png" group-title="数字频道",都市剧场
+http://dqr028.oicp.net:4022/rtp/239.93.42.30:5140
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/欢笑剧场4K.png" group-title="数字频道",欢笑剧场4K
+http://dqr028.oicp.net:4022/rtp/239.93.0.145:5140
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/游戏风云.png" group-title="数字频道",游戏风云
 http://dqr028.oicp.net:4022/rtp/239.93.0.136:5140
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/快乐垂钓.png" group-title="数字频道",快乐垂钓
@@ -245,8 +249,6 @@ http://dqr028.oicp.net:4022/rtp/239.93.42.13:5140
 http://dqr028.oicp.net:4022/rtp/239.93.42.12:5140
 #EXTINF:-1 tvg-id="IHOT爱青春" tvg-name="IHOT爱青春" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/IHOT爱青春.png" group-title="数字频道",爱青春高清
 http://dqr028.oicp.net:4022/rtp/239.93.42.16:5140
-#EXTINF:-1 tvg-id="IHOT爱都市" tvg-name="IHOT爱都市" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/IHOT爱都市.png" group-title="数字频道",爱都市高清
-http://dqr028.oicp.net:4022/rtp/239.93.42.15:5140
 #EXTINF:-1 tvg-id="IHOT爱幼教" tvg-name="IHOT爱幼教" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/IHOT爱幼教.png" group-title="数字频道",爱幼教高清
 http://dqr028.oicp.net:4022/rtp/239.93.42.17:5140
 #EXTINF:-1 tvg-id="IHOT爱玩具" tvg-name="IHOT爱玩具" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/IHOT爱玩具.png" group-title="数字频道",爱玩具高清
