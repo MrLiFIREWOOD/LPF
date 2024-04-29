@@ -63,6 +63,8 @@ http://118.112.148.174:4022/udp/239.93.0.235:5140
 http://118.112.148.174:4022/udp/239.93.1.111:5140
 #EXTINF:-1 tvg-id="CETV早期教育" tvg-name="CETV早期教育" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/早期教育.png" group-title="央视",CETV-早期教育
 http://118.112.148.174:4022/udp/239.93.0.117:5140
+#EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/中国交通.png" group-title="央视",中国交通
+http://118.112.148.174:4022/rtp/239.93.0.142:5140
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://118.112.148.174:4022/rtp/239.93.0.89:5140
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/广西卫视.png" group-title="卫视",广西卫视
