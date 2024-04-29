@@ -123,7 +123,7 @@ http://118.112.148.174:4022/rtp/239.93.0.80:5140
 http://118.112.148.174:4022/rtp/239.93.0.176:5140
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo=" https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/山西卫视.png" group-title="卫视",山西卫视
 http://118.112.148.174:4022/rtp/239.93.0.6:5140
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo=" https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/内蒙古卫视.png " group-title="卫视",内蒙古卫视
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo=" https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://118.112.148.174:4022/rtp/239.93.0.8:5140
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo=" https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/青海卫视.png" group-title="卫视",青海卫视
 http://118.112.148.174:4022/rtp/239.93.0.192:5140
@@ -225,9 +225,9 @@ http://118.112.148.174:4022/rtp/239.93.42.56:5140
 http://118.112.148.174:4022/rtp/239.93.42.55:5140
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/环球旅游.png" group-title="数字频道",环球旅游
 http://118.112.148.174:4022/rtp/239.93.42.31:5140
-#EXTINF:-1 tvg-id="	来钓鱼吧" tvg-name="	来钓鱼吧" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/	来钓鱼吧.png" group-title="数字频道",来钓鱼吧
+#EXTINF:-1 tvg-id="来钓鱼吧" tvg-name="来钓鱼吧" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/来钓鱼吧.png" group-title="数字频道",来钓鱼吧
 http://118.112.148.174:4022/rtp/239.93.42.8:5140
-#EXTINF:-1 tvg-id="	麻辣体育" tvg-name="	麻辣体育" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/	麻辣体育.png" group-title="数字频道",麻辣体育
+#EXTINF:-1 tvg-id="麻辣体育" tvg-name="麻辣体育" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/麻辣体育.png" group-title="数字频道",麻辣体育
 http://118.112.148.174:4022/rtp/239.93.42.2:5140
 #EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/汽摩.png" group-title="数字频道",汽摩
 http://118.112.148.174:4022/rtp/239.93.0.62:5140
