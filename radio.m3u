@@ -39,13 +39,13 @@ https://satellitepull.cnr.cn/live/wxscjjgb/playlist.m3u8
 #EXTINF:-1 tvg-name="四川文艺广播" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/四川文艺广播.png" radio="true" group-title="电台",四川文艺广播90.0
 https://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
 #EXTINF:-1 tvg-name="四川岷江音乐频率" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/四川岷江音乐频率.png" radio="true" group-title="电台",四川岷江音乐频率95.5
-http://lhttp.qingting.fm/live/1110/64k.mp3?app_id=web
+https://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
 #EXTINF:-1 tvg-name="四川新闻频率" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/四川新闻频率.jpg" radio="true" group-title="电台",四川新闻频率106.1
 http://lhttp.qingting.fm/live/4906/64k.mp3?app_id=web
 #EXTINF:-1 tvg-name="四川交通广播" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/四川交通广播.png" radio="true" group-title="电台",四川交通广播101.7
 https://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
 #EXTINF:-1 tvg-name="四川城市之音" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/四川城市之音.png" radio="true" group-title="电台",四川城市之音102.6
-http://lhttp.qingting.fm/live/1111/64k.mp3?app_id=web
+https://satellitepull.cnr.cn/live/wxsccszs/playlist.m3u8
 #EXTINF:-1 tvg-name="四川民族频率" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/四川民族频率.png" radio="true" group-title="电台",四川民族频率97.0
 http://lhttp.qingting.fm/live/1115/64k.mp3?app_id=web
 #EXTINF:-1 tvg-name="四川综合广播" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/四川综合广播.jpg" radio="true" group-title="电台",四川综合广播98.1
