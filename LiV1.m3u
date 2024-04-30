@@ -67,8 +67,6 @@ http://125.71.170.200:8899/udp/239.93.0.113:5140
 http://125.71.170.200:8899/udp/239.93.0.50:5140
 #EXTINF:-1 tvg-id="CETV早期教育" tvg-name="CETV早期教育" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/早期教育.png" group-title="央视",CETV-早期教育
 http://125.71.170.200:8899/udp/239.93.0.117:5140
-#EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/中国交通.png" group-title="央视",中国交通
-http://125.71.170.200:8899/rtp/239.93.0.142:5140
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://125.71.170.200:8899/rtp/239.93.0.89:5140
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/广西卫视.png" group-title="卫视",广西卫视
@@ -233,6 +231,8 @@ http://125.71.170.200:8899/rtp/239.93.42.2:5140
 http://125.71.170.200:8899/rtp/239.93.0.62:5140
 #EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/梨园.png" group-title="数字频道",梨园
 http://125.71.170.200:8899/rtp/239.93.1.195:5140
+#EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/中国交通.png" group-title="央视",中国交通
+http://125.71.170.200:8899/rtp/239.93.0.142:5140
 #EXTINF:-1 tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/绚影4K.png" group-title="数字频道",绚影4K
 http://125.71.170.200:8899/rtp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="4K乐享" tvg-name="4K乐享" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/4K乐享.png" group-title="数字频道",4K乐享
