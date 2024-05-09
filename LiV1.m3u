@@ -243,6 +243,8 @@ http://183.222.206.14:18097/rtp/239.93.1.188:5140
 http://183.222.206.14:18097/rtp/239.93.1.191:5140
 #EXTINF:-1 tvg-id="少儿天地" tvg-name="少儿天地" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/少儿天地.png" group-title="数字频道",少儿天地
 http://183.222.206.14:18097/rtp/239.93.42.34:5140
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/金鹰卡通.png" group-title="数字频道",金鹰卡通
+http://183.222.206.14:18097/rtp/239.93.0.5:5140
 #EXTINF:-1 tvg-id="爱宠宠物" tvg-name="爱宠宠物" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/爱宠宠物.png" group-title="数字频道",爱宠宠物
 http://183.222.206.14:18097/rtp/239.93.42.32:5140
 #EXTINF:-1 tvg-id="乐龄学堂" tvg-name="乐龄学堂" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/乐龄学堂.png" group-title="数字频道",乐龄学堂
