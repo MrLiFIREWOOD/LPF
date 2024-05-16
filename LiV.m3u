@@ -199,6 +199,8 @@ http://124.79.182.237:4022/udp/239.45.3.210:5140
 http://125.71.58.184:4022/rtp/239.93.42.98:5140
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/魅力足球.png" group-title="数字频道",魅力足球
 http://125.71.58.184:4022/rtp/239.93.42.97:5140
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/第一财经.png" group-title="数字频道",第一财经
+http://124.79.182.237:4022/udp/239.45.3.211:5140
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/东方财经.png" group-title="数字频道",东方财经
 http://125.71.58.184:4022/rtp/239.93.1.165:5140
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/法治天地.png" group-title="数字频道",法治天地
