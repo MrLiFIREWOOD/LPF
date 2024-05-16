@@ -295,6 +295,8 @@ http://125.71.58.184:4022/rtp/239.93.42.23:5140
 http://125.71.58.184:4022/rtp/239.93.42.19:5140
 #EXTINF:-1 tvg-id="IHOT爱赛车" tvg-name="IHOT爱赛车" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/IHOT爱赛车.png" group-title="数字频道",爱赛车高清
 http://125.71.58.184:4022/rtp/239.93.42.20:5140
+#EXTINF:-1 tvg-id="一年级" tvg-name="一年级" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/一年级.png" group-title="学习课堂",一年级
+http://124.79.182.237:4022/udp/239.45.1.28:5140
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/凤凰中文.png" group-title="国际",凤凰中文
 http://125.71.58.184:4022/rtp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/凤凰资讯.png" group-title="国际",凤凰资讯
