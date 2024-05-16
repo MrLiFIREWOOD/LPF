@@ -214,7 +214,7 @@ http://171.88.37.49:4022/rtp/239.93.42.30:5140
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/欢笑剧场.png" group-title="数字频道",欢笑剧场4K
 http://171.88.37.49:4022/rtp/239.93.0.145:5140
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/游戏风云.png" group-title="数字频道",游戏风云
-http://171.88.37.49:4022/rtp/239.93.0.136:5140
+http://124.79.182.237:4022/udp/239.45.3.131:5140
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/快乐垂钓.png" group-title="数字频道",快乐垂钓
 http://171.88.37.49:4022/rtp/239.93.1.151:5140
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/金鹰纪实.png" group-title="数字频道",金鹰纪实
@@ -248,7 +248,7 @@ http://171.88.37.49:4022/rtp/239.93.1.191:5140
 #EXTINF:-1 tvg-id="少儿天地" tvg-name="少儿天地" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/少儿天地.png" group-title="数字频道",少儿天地
 http://171.88.37.49:4022/rtp/239.93.42.34:5140
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/金鹰卡通.png" group-title="数字频道",金鹰卡通
-http://171.88.37.49:4022/rtp/239.93.0.5:5140
+http://124.79.182.237:4022/udp/239.45.0.38:5140
 #EXTINF:-1 tvg-id="爱宠宠物" tvg-name="爱宠宠物" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/爱宠宠物.png" group-title="数字频道",爱宠宠物
 http://171.88.37.49:4022/rtp/239.93.42.32:5140
 #EXTINF:-1 tvg-id="乐龄学堂" tvg-name="乐龄学堂" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/乐龄学堂.png" group-title="数字频道",乐龄学堂
