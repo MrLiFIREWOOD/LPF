@@ -261,6 +261,12 @@ http://58.39.142.6:4022/udp/239.45.0.8:5140
 http://110.191.246.230:8888/rtp/239.93.42.32:5140
 #EXTINF:-1 tvg-id="乐龄学堂" tvg-name="乐龄学堂" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/乐龄学堂.png" group-title="数字频道",乐龄学堂
 http://110.191.246.230:8888/rtp/239.93.1.179:5140
+#EXTINF:-1 tvg-id="百事通4K电影" tvg-name="百事通4K电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/bestv.png" group-title="数字频道",百事通4K电影
+http://58.39.142.6:4022/udp/239.45.3.107:5140
+#EXTINF:-1 tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/bestv.png" group-title="数字频道",百事通4K纪实
+http://58.39.142.6:4022/udp/239.45.1.10:5140
+#EXTINF:-1 tvg-id="百事通4K儿童" tvg-name="百事通4K儿童" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/bestv.png" group-title="数字频道",百事通4K儿童
+http://58.39.142.6:4022/udp/239.45.1.1:5140
 #EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/bestv.png" group-title="数字频道",青春动漫
 http://110.191.246.230:8888/rtp/239.93.0.146:5140
 #EXTINF:-1 tvg-id="热门综艺" tvg-name="热门综艺" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/bestv.png" group-title="数字频道",热门综艺
