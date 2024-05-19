@@ -215,6 +215,10 @@ http://58.39.142.6:4022/udp/239.45.0.13:5140
 http://58.39.142.6:4022/udp/239.45.3.236:5140
 #EXTINF:-1 tvg-id="上海ICS外语" tvg-name="上海ICS外语" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/上海外语.png" group-title="数字频道",上海ICS外语
 http://58.39.142.6:4022/udp/239.45.1.127:5140
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/上海新闻综合.png" group-title="数字频道",上海新闻综合
+http://58.39.142.6:4022/udp/239.45.3.209:5140
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/东方影视.png" group-title="数字频道",东方影视
+http://58.39.142.6:4022/udp/239.45.3.237:5140
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/都市剧场.png" group-title="数字频道",都市剧场
 http://183.222.206.14:8096/rtp/239.93.42.30:5140
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/欢笑剧场.png" group-title="数字频道",欢笑剧场4K
