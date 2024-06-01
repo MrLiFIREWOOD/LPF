@@ -203,6 +203,8 @@ http://171.214.210.222:4022/rtp/239.93.42.97:5140
 http://58.41.30.154:8001/udp/239.45.3.211:5140
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/东方财经.png" group-title="数字频道",东方财经
 http://171.214.210.222:4022/rtp/239.93.1.165:5140
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/家庭理财.png" group-title="数字频道",家庭理财
+http://58.41.30.154:8001/udp/239.45.0.14:5140
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/法治天地.png" group-title="数字频道",法治天地
 http://171.214.210.222:4022/rtp/239.93.42.96:5140
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/金色学堂.png" group-title="数字频道",金色学堂
