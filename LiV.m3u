@@ -251,6 +251,8 @@ http://171.214.210.222:4022/rtp/239.93.0.142:5140
 http://171.214.210.222:4022/rtp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="4K乐享" tvg-name="4K乐享" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/4K乐享.png" group-title="数字频道",4K乐享
 http://171.214.210.222:4022/rtp/239.93.0.43:5140
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/爱上4K.png" group-title="数字频道",爱上4K
+http://171.214.210.222:4022/udp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="中录动漫" tvg-name="中录动漫" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/中录动漫4K.png" group-title="数字频道",中录动漫4K
 http://171.214.210.222:4022/rtp/239.93.1.188:5140
 #EXTINF:-1 tvg-id="亲子趣学" tvg-name="亲子趣学" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/亲子趣学4K.png" group-title="数字频道",亲子趣学4K
