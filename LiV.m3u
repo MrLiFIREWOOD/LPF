@@ -345,7 +345,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/yahoofina-samsungyahoofinance/playlist
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF: -1 tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/HBO.png" group-title="国际", HBO 
 http://212.102.60.231/HBO/index.m3u8
-#EXTINF: -1 tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/Bollywood HD" group-title="国际", Bollywood HD 印度宝莱坞电影
+#EXTINF: -1 tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/Bollywood HD.png" group-title="国际", Bollywood HD 印度宝莱坞电影
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 tvg-id="AXS TV Now" tvg-name="AXS TV Now" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/axstvnow.png" group-title="国际",AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
