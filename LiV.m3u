@@ -382,6 +382,6 @@ https://06fda8bb401f4c0abb854097c0a3b3d6.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/Disney_Channel.png" group-title="国际",Disney Channel 迪士尼频道
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJuniorEast.us" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/Disney_Junior.png" group-title="国际",Disney Jr 迪士尼幼儿频道
-http://103.197.59.107:5002/cs23.m3u8?token=guoziyun&gid=cs23&channel=zhongying
+https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/Disney_XD.png" group-title="国际",Disney XD 迪士尼XD
 https://212.102.60.231/DISNEY_XD/index.m3u8
