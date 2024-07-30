@@ -31,6 +31,8 @@ http://222.209.208.234:7088/rtp/239.93.0.66:5140
 http://222.209.208.234:7088/rtp/239.93.1.29:6000
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV15.png" group-title="央视",CCTV-15 音乐
 http://222.209.208.234:7088/rtp/239.93.0.103:5140
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+http://222.209.208.234:7088/rtp/239.93.42.53:5140
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
 http://222.209.208.234:7088/rtp/239.93.42.54:5140
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV17.png" group-title="央视",CCTV-17 农业农村
