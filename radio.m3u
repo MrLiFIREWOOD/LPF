@@ -52,7 +52,7 @@ http://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
 #EXTINF:-1 tvg-name="天府之声" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/天府之声.png" radio="true" group-title="电台",天府之声92.5
 http://satellitepull.cnr.cn/live/wxsc925/playlist.m3u8
 #EXTINF:-1 tvg-name="成都电台Radio946" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/成都电台.png" radio="true" group-title="电台",成都电台94.6
-https://fanmingming.com/fm?id=456
+http://lhttp.qingting.fm/live/4892/64k.mp3?app_id=web
 #EXTINF:-1 tvg-name="成都经济广播" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/成都经济广播.png" radio="true" group-title="电台",成都经济广播105.6
 http://live.ximalaya.com/radio-first-page-app/live/758/24.m3u8
 #EXTINF:-1 tvg-name="成都交通文艺广播" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/成都交通文艺广播.png" radio="true" group-title="电台",成都交通文艺广播91.4
