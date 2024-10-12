@@ -189,7 +189,7 @@ http://175.152.113.23:4022/udp/239.93.42.7:5140
 http://175.152.113.23:4022/udp/239.93.42.6:5140
 #EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/求索纪录.png" group-title="数字频道",求索纪录
 http://175.152.113.23:4022/rtp/239.93.42.24:5140
-#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/纪实人文.png" group-title="数字频道",纪实人文
+#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/纪实人文.png" group-title="数字频道",纪实人文
 http://175.152.113.23:4022/rtp/239.93.1.137:5140
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/乐游.png" group-title="数字频道",乐游
 http://175.152.113.23:4022/rtp/239.93.42.94:5140
