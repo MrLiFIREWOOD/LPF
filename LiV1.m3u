@@ -1,214 +1,214 @@
 #EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV1.png" group-title="央视",CCTV-1 综合
-http://171.213.194.235:5555/rtp/239.93.0.58:5140
+http://118.113.179.38:4022/rtp/239.93.0.58:5140
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV2.png" group-title="央视",CCTV-2 财经
-http://171.213.194.235:5555/rtp/239.93.1.23:6000
+http://118.113.179.38:4022/rtp/239.93.1.23:6000
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV3.png" group-title="央视",CCTV-3 综艺
-http://171.213.194.235:5555/rtp/239.93.0.109:5140
+http://118.113.179.38:4022/rtp/239.93.0.109:5140
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV4.png" group-title="央视",CCTV-4 中文国际
-http://171.213.194.235:5555/rtp/239.93.1.105:5140
+http://118.113.179.38:4022/rtp/239.93.1.105:5140
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV5.png" group-title="央视",CCTV-5 体育
-http://171.213.194.235:5555/rtp/239.93.42.37:5140
+http://118.113.179.38:4022/rtp/239.93.42.37:5140
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
-http://171.213.194.235:5555/rtp/239.93.1.36:8004
+http://118.113.179.38:4022/rtp/239.93.1.36:8004
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV6.png" group-title="央视",CCTV-6 电影
-http://171.213.194.235:5555/rtp/239.93.42.38:5140
+http://118.113.179.38:4022/rtp/239.93.42.38:5140
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV7.png" group-title="央视",CCTV-7 国防军事
-http://171.213.194.235:5555/rtp/239.93.1.67:5140
+http://118.113.179.38:4022/rtp/239.93.1.67:5140
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV8.png" group-title="央视",CCTV-8 电视剧
-http://171.213.194.235:5555/rtp/239.93.42.39:5140
+http://118.113.179.38:4022/rtp/239.93.42.39:5140
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV9.png" group-title="央视",CCTV-9 纪录
-http://171.213.194.235:5555/rtp/239.93.1.24:5140
+http://118.113.179.38:4022/rtp/239.93.1.24:5140
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV10.png" group-title="央视",CCTV-10 科教
-http://171.213.194.235:5555/rtp/239.93.1.28:5140
+http://118.113.179.38:4022/rtp/239.93.1.28:5140
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV11.png" group-title="央视",CCTV-11 戏曲
-http://171.213.194.235:5555/rtp/239.93.0.102:5140
+http://118.113.179.38:4022/rtp/239.93.0.102:5140
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV12.png" group-title="央视",CCTV-12 社会与法
-http://171.213.194.235:5555/rtp/239.93.1.30:8124
+http://118.113.179.38:4022/rtp/239.93.1.30:8124
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV13.png" group-title="央视",CCTV-13 新闻
-http://171.213.194.235:5555/rtp/239.93.0.66:5140
+http://118.113.179.38:4022/rtp/239.93.0.66:5140
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV14.png" group-title="央视",CCTV-14 少儿
-http://171.213.194.235:5555/rtp/239.93.1.29:6000
+http://118.113.179.38:4022/rtp/239.93.1.29:6000
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV15.png" group-title="央视",CCTV-15 音乐
-http://171.213.194.235:5555/rtp/239.93.0.103:5140
+http://118.113.179.38:4022/rtp/239.93.0.103:5140
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
-http://171.213.194.235:5555/rtp/239.93.42.54:5140
+http://118.113.179.38:4022/rtp/239.93.42.54:5140
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV17.png" group-title="央视",CCTV-17 农业农村
-http://171.213.194.235:5555/rtp/239.93.0.92:5140
+http://118.113.179.38:4022/rtp/239.93.0.92:5140
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CCTV4K.png" group-title="央视",CCTV-4K 超高清
-http://171.213.194.235:5555/rtp/239.93.42.42:5140
+http://118.113.179.38:4022/rtp/239.93.42.42:5140
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/怀旧剧场.png" group-title="央视",怀旧剧场
-http://171.213.194.235:5555/rtp/239.93.1.198:5140
+http://118.113.179.38:4022/rtp/239.93.1.198:5140
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/第一剧场.png" group-title="央视",第一剧场
-http://171.213.194.235:5555/rtp/239.93.1.197:5140
+http://118.113.179.38:4022/rtp/239.93.1.197:5140
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/风云剧场.png" group-title="央视",风云剧场
-http://171.213.194.235:5555/rtp/239.93.1.156:5140
+http://118.113.179.38:4022/rtp/239.93.1.156:5140
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/兵器科技.png" group-title="央视",兵器科技
-http://171.213.194.235:5555/rtp/239.93.1.235:5140
+http://118.113.179.38:4022/rtp/239.93.1.235:5140
 #EXTINF:-1 tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/文化精品.png" group-title="央视",央视精品
-http://171.213.194.235:5555/rtp/239.93.42.47:5140
+http://118.113.179.38:4022/rtp/239.93.42.47:5140
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/风云音乐.png" group-title="央视",风云音乐
-http://171.213.194.235:5555/rtp/239.93.0.224:5140
+http://118.113.179.38:4022/rtp/239.93.0.224:5140
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/世界地理.png" group-title="央视",世界地理
-http://171.213.194.235:5555/rtp/239.93.1.157:5140
+http://118.113.179.38:4022/rtp/239.93.1.157:5140
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/女性时尚.png" group-title="央视",女性时尚
-http://171.213.194.235:5555/rtp/239.93.42.62:5140
+http://118.113.179.38:4022/rtp/239.93.42.62:5140
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/高尔夫网球.png" group-title="央视",高尔夫网球
-http://171.213.194.235:5555/rtp/239.93.1.54:5140
+http://118.113.179.38:4022/rtp/239.93.1.54:5140
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/央视台球.png" group-title="央视",央视台球
-http://171.213.194.235:5555/udp/239.93.0.218:5140
+http://118.113.179.38:4022/udp/239.93.0.218:5140
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/风云足球.png" group-title="央视",风云足球
-http://171.213.194.235:5555/udp/239.93.0.235:5140
+http://118.113.179.38:4022/udp/239.93.0.235:5140
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CETV1.png" group-title="央视",CETV-1
-http://171.213.194.235:5555/udp/239.93.1.111:5140
+http://118.113.179.38:4022/udp/239.93.1.111:5140
 #EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV-2" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CETV2.png" group-title="央视",CETV-2
-http://171.213.194.235:5555/udp/239.93.0.113:5140
+http://118.113.179.38:4022/udp/239.93.0.113:5140
 #EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CETV4.png" group-title="央视",CETV-4
-http://171.213.194.235:5555/udp/239.93.0.50:5140
+http://118.113.179.38:4022/udp/239.93.0.50:5140
 #EXTINF:-1 tvg-id="CETV早期教育" tvg-name="CETV早期教育" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/早期教育.png" group-title="央视",CETV-早期教育
-http://171.213.194.235:5555/udp/239.93.0.117:5140
+http://118.113.179.38:4022/udp/239.93.0.117:5140
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://171.213.194.235:5555/rtp/239.93.0.89:5140
+http://118.113.179.38:4022/rtp/239.93.0.89:5140
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/广西卫视.png" group-title="卫视",广西卫视
-http://171.213.194.235:5555/rtp/239.93.42.46:5140
+http://118.113.179.38:4022/rtp/239.93.42.46:5140
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/四川卫视.png" group-title="卫视",四川卫视
-http://171.213.194.235:5555/rtp/239.93.0.20:1235
+http://118.113.179.38:4022/rtp/239.93.0.20:1235
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://171.213.194.235:5555/rtp/239.93.0.88:5140
+http://118.113.179.38:4022/rtp/239.93.0.88:5140
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/浙江卫视.png" group-title="卫视",浙江卫视
-http://171.213.194.235:5555/rtp/239.93.0.124:5140
+http://118.113.179.38:4022/rtp/239.93.0.124:5140
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/东方卫视.png" group-title="卫视",东方卫视
-http://171.213.194.235:5555/rtp/239.93.0.123:5140
+http://118.113.179.38:4022/rtp/239.93.0.123:5140
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/北京卫视.png" group-title="卫视",北京卫视
-http://171.213.194.235:5555/rtp/239.93.0.180:5140
+http://118.113.179.38:4022/rtp/239.93.0.180:5140
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/天津卫视.png" group-title="卫视",天津卫视
-http://171.213.194.235:5555/rtp/239.93.0.167:5140
+http://118.113.179.38:4022/rtp/239.93.0.167:5140
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://171.213.194.235:5555/rtp/239.93.1.108:5140
+http://118.113.179.38:4022/rtp/239.93.1.108:5140
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/安徽卫视.png" group-title="卫视",安徽卫视
-http://171.213.194.235:5555/rtp/239.93.1.106:5140
+http://118.113.179.38:4022/rtp/239.93.1.106:5140
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://171.213.194.235:5555/rtp/239.93.0.183:5140
+http://118.113.179.38:4022/rtp/239.93.0.183:5140
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/广东卫视.png" group-title="卫视",广东卫视
-http://171.213.194.235:5555/rtp/239.93.0.181:5140
+http://118.113.179.38:4022/rtp/239.93.0.181:5140
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://171.213.194.235:5555/rtp/239.93.0.182:5140
+http://118.113.179.38:4022/rtp/239.93.0.182:5140
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://171.213.194.235:5555/rtp/239.93.0.250:5140
+http://118.113.179.38:4022/rtp/239.93.0.250:5140
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/吉林卫视.png" group-title="卫视",吉林卫视
-http://171.213.194.235:5555/rtp/239.93.0.248:5140
+http://118.113.179.38:4022/rtp/239.93.0.248:5140
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/山东卫视.png" group-title="卫视",山东卫视
-http://171.213.194.235:5555/rtp/239.93.0.168:5140
+http://118.113.179.38:4022/rtp/239.93.0.168:5140
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/江西卫视.png" group-title="卫视",江西卫视
-http://171.213.194.235:5555/rtp/239.93.0.134:5140
+http://118.113.179.38:4022/rtp/239.93.0.134:5140
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/河南卫视.png" group-title="卫视",河南卫视
-http://171.213.194.235:5555/rtp/239.93.42.45:5140
+http://118.113.179.38:4022/rtp/239.93.42.45:5140
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/河北卫视.png" group-title="卫视",河北卫视
-http://171.213.194.235:5555/rtp/239.93.0.132:5140
+http://118.113.179.38:4022/rtp/239.93.0.132:5140
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://171.213.194.235:5555/rtp/239.93.0.81:5140
+http://118.113.179.38:4022/rtp/239.93.0.81:5140
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/重庆卫视.png" group-title="卫视",重庆卫视
-http://171.213.194.235:5555/rtp/239.93.1.107:5140
+http://118.113.179.38:4022/rtp/239.93.1.107:5140
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/东南卫视.png" group-title="卫视",东南卫视
-http://171.213.194.235:5555/rtp/239.93.0.42:5140
+http://118.113.179.38:4022/rtp/239.93.0.42:5140
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/云南卫视.png" group-title="卫视",云南卫视
-http://171.213.194.235:5555/rtp/239.93.1.174:5140
+http://118.113.179.38:4022/rtp/239.93.1.174:5140
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/贵州卫视.png" group-title="卫视",贵州卫视
-http://171.213.194.235:5555/rtp/239.93.0.131:5140
+http://118.113.179.38:4022/rtp/239.93.0.131:5140
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/海南卫视.png" group-title="卫视",海南卫视
-http://171.213.194.235:5555/rtp/239.93.0.80:5140
+http://118.113.179.38:4022/rtp/239.93.0.80:5140
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/陕西卫视.png" group-title="卫视",陕西卫视
-http://171.213.194.235:5555/rtp/239.93.0.143:5140
+http://118.113.179.38:4022/rtp/239.93.0.143:5140
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/山西卫视.png" group-title="卫视",山西卫视
-http://171.213.194.235:5555/rtp/239.93.0.6:5140
+http://118.113.179.38:4022/rtp/239.93.0.6:5140
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://171.213.194.235:5555/rtp/239.93.0.8:5140
+http://118.113.179.38:4022/rtp/239.93.0.8:5140
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/青海卫视.png" group-title="卫视",青海卫视
-http://171.213.194.235:5555/rtp/239.93.0.192:5140
+http://118.113.179.38:4022/rtp/239.93.0.192:5140
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/宁夏卫视.png" group-title="卫视",宁夏卫视
-http://171.213.194.235:5555/rtp/239.93.0.247:5140
+http://118.113.179.38:4022/rtp/239.93.0.247:5140
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/西藏卫视.png" group-title="卫视",西藏卫视
-http://171.213.194.235:5555/rtp/239.93.0.175:5140
+http://118.113.179.38:4022/rtp/239.93.0.175:5140
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/新疆卫视.png" group-title="卫视",新疆卫视
-http://171.213.194.235:5555/rtp/239.93.0.194:5140
+http://118.113.179.38:4022/rtp/239.93.0.194:5140
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/兵团卫视.png" group-title="卫视",兵团卫视
-http://171.213.194.235:5555/rtp/239.93.42.43:5140
+http://118.113.179.38:4022/rtp/239.93.42.43:5140
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/厦门卫视.png" group-title="卫视",厦门卫视
-http://171.213.194.235:5555/rtp/239.93.42.57:5140
+http://118.113.179.38:4022/rtp/239.93.42.57:5140
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/三沙卫视.png" group-title="卫视",三沙卫视
-http://171.213.194.235:5555/rtp/239.93.42.58:5140
+http://118.113.179.38:4022/rtp/239.93.42.58:5140
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/延边卫视.png" group-title="卫视",延边卫视
-http://171.213.194.235:5555/rtp/239.93.0.249:5140
+http://118.113.179.38:4022/rtp/239.93.0.249:5140
 #EXTINF:-1 tvg-id="SCTV3" tvg-name="四川经济" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/Sichuan1.png" group-title="四川",四川经济
-http://171.213.194.235:5555/rtp/239.93.1.101:5140
+http://118.113.179.38:4022/rtp/239.93.1.101:5140
 #EXTINF:-1 tvg-id="SCTV2" tvg-name="四川文化旅游" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/Sichuan2.png" group-title="四川",四川文化旅游
-http://171.213.194.235:5555/rtp/239.93.1.102:5140
+http://118.113.179.38:4022/rtp/239.93.1.102:5140
 #EXTINF:-1 tvg-id="SCTV4" tvg-name="四川新闻" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/Sichuan3.png" group-title="四川",四川新闻
-http://171.213.194.235:5555/rtp/239.93.0.47:5140
+http://118.113.179.38:4022/rtp/239.93.0.47:5140
 #EXTINF:-1 tvg-id="SCTV5" tvg-name="四川影视文艺" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/Sichuan4.png" group-title="四川",四川影视文艺
-http://171.213.194.235:5555/rtp/239.93.0.166:5140
+http://118.113.179.38:4022/rtp/239.93.0.166:5140
 #EXTINF:-1 tvg-id="SCTV7" tvg-name="四川妇女儿童" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/Sichuan5.png" group-title="四川",四川妇女儿童
-http://171.213.194.235:5555/rtp/239.93.0.219:5140
+http://118.113.179.38:4022/rtp/239.93.0.219:5140
 #EXTINF:-1 tvg-id="SCTV8" tvg-name="四川科教" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/Sichuan7.png" group-title="四川",四川科教
-http://171.213.194.235:5555/rtp/239.93.42.44:5140
+http://118.113.179.38:4022/rtp/239.93.42.44:5140
 #EXTINF:-1 tvg-id="SCTV9" tvg-name="四川乡村" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/Sichuan6.png" group-title="四川",四川乡村
-http://171.213.194.235:5555/rtp/239.93.0.52:5140
+http://118.113.179.38:4022/rtp/239.93.0.52:5140
 #EXTINF:-1 tvg-id="SCTV10" tvg-name="峨眉电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/峨眉电影.png" group-title="四川",峨眉电影
-http://171.213.194.235:5555/rtp/239.93.0.252:5140
+http://118.113.179.38:4022/rtp/239.93.0.252:5140
 #EXTINF:-1 tvg-id="CDTV1" tvg-name="成都新闻综合" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",成都新闻综合
-http://171.213.194.235:5555/rtp/239.93.0.16:5140
+http://118.113.179.38:4022/rtp/239.93.0.16:5140
 #EXTINF:-1 tvg-id="CDTV2" tvg-name="成都经济资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川",成都经济资讯
-http://171.213.194.235:5555/rtp/239.93.0.17:1239
+http://118.113.179.38:4022/rtp/239.93.0.17:1239
 #EXTINF:-1 tvg-id="CDTV3" tvg-name="成都都市生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="四川",成都都市生活
-http://171.213.194.235:5555/rtp/239.93.0.18:1238
+http://118.113.179.38:4022/rtp/239.93.0.18:1238
 #EXTINF:-1 tvg-id="CDTV4" tvg-name="成都影视文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png" group-title="四川",成都影视文艺
-http://171.213.194.235:5555/rtp/239.93.0.19:1250
+http://118.113.179.38:4022/rtp/239.93.0.19:1250
 #EXTINF:-1 tvg-id="CDTV5" tvg-name="成都公共频道" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="四川",成都公共频道
-http://171.213.194.235:5555/rtp/239.93.1.231:5140
+http://118.113.179.38:4022/rtp/239.93.1.231:5140
 #EXTINF:-1 tvg-id="CDTV6" tvg-name="成都少儿频道" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="四川",成都少儿频道
-http://171.213.194.235:5555/rtp/239.93.0.21:1251
+http://118.113.179.38:4022/rtp/239.93.0.21:1251
 #EXTINF:-1 tvg-id="蓉城先锋" tvg-name="蓉城先锋" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/蓉城先锋.png" group-title="四川",蓉城先锋
-http://171.213.194.235:5555/udp/239.93.0.91:2101
+http://118.113.179.38:4022/udp/239.93.0.91:2101
 #EXTINF:-1 tvg-id="i成都" tvg-name="i成都" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/爱成都.png" group-title="四川",i成都
-http://171.213.194.235:5555/rtp/239.93.1.104:1234
+http://118.113.179.38:4022/rtp/239.93.1.104:1234
 #EXTINF:-1 tvg-id="云看熊猫专区" tvg-name="云看熊猫专区" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/熊猫频道.png" group-title="四川",云看熊猫专区
-http://171.213.194.235:5555/rtp/239.93.0.211:9148
+http://118.113.179.38:4022/rtp/239.93.0.211:9148
 #EXTINF:-1 tvg-id="大爱四川" tvg-name="大爱四川" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/大爱四川.png" group-title="四川",大爱四川
-http://171.213.194.235:5555/rtp/239.93.1.110:5140
+http://118.113.179.38:4022/rtp/239.93.1.110:5140
 #EXTINF:-1 tvg-id="大爱旅游" tvg-name="大爱旅游" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/大爱旅游.png" group-title="四川",大爱旅游
-http://171.213.194.235:5555/rtp/239.93.42.70:5140
+http://118.113.179.38:4022/rtp/239.93.42.70:5140
 #EXTINF:-1 tvg-id="大爱生活" tvg-name="大爱生活" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/大爱生活.png" group-title="四川",大爱生活
-http://171.213.194.235:5555/rtp/239.93.42.71:5140
+http://118.113.179.38:4022/rtp/239.93.42.71:5140
 #EXTINF:-1 tvg-id="大爱时尚" tvg-name="大爱时尚" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/大爱时尚.png" group-title="四川",大爱时尚
-http://171.213.194.235:5555/rtp/239.93.42.72:5140
+http://118.113.179.38:4022/rtp/239.93.42.72:5140
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CHC高清电影.png" group-title="数字频道",CHC高清电影
-http://171.213.194.235:5555/udp/239.93.42.5:5140
+http://118.113.179.38:4022/udp/239.93.42.5:5140
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
-http://171.213.194.235:5555/udp/239.93.42.7:5140
+http://118.113.179.38:4022/udp/239.93.42.7:5140
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://171.213.194.235:5555/udp/239.93.42.6:5140
+http://118.113.179.38:4022/udp/239.93.42.6:5140
 #EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/求索纪录.png" group-title="数字频道",求索纪录
-http://171.213.194.235:5555/rtp/239.93.42.24:5140
+http://118.113.179.38:4022/rtp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/纪实人文.png" group-title="数字频道",纪实人文
-http://171.213.194.235:5555/rtp/239.93.1.137:5140
+http://118.113.179.38:4022/rtp/239.93.1.137:5140
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/乐游.png" group-title="数字频道",乐游
-http://171.213.194.235:5555/rtp/239.93.42.94:5140
+http://118.113.179.38:4022/rtp/239.93.42.94:5140
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/五星体育.png" group-title="数字频道",五星体育
 http://58.32.24.118:4022/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/劲爆体育.png" group-title="数字频道",劲爆体育
-http://171.213.194.235:5555/rtp/239.93.42.98:5140
+http://118.113.179.38:4022/rtp/239.93.42.98:5140
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/魅力足球.png" group-title="数字频道",魅力足球
-http://171.213.194.235:5555/rtp/239.93.42.97:5140
+http://118.113.179.38:4022/rtp/239.93.42.97:5140
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/上海第一财经.png" group-title="数字频道",第一财经
 http://58.32.24.118:4022/udp/239.45.3.211:5140
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/东方财经.png" group-title="数字频道",东方财经
-http://171.213.194.235:5555/rtp/239.93.1.165:5140
+http://118.113.179.38:4022/rtp/239.93.1.165:5140
 #EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/家庭理财.png" group-title="数字频道",家庭理财
 http://58.32.24.118:4022/udp/239.45.0.14:5140
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/法治天地.png" group-title="数字频道",法治天地
-http://171.213.194.235:5555/rtp/239.93.42.96:5140
+http://118.113.179.38:4022/rtp/239.93.42.96:5140
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/金色学堂.png" group-title="数字频道",金色学堂
-http://171.213.194.235:5555/rtp/239.93.42.95:5140
+http://118.113.179.38:4022/rtp/239.93.42.95:5140
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/生活时尚.png" group-title="数字频道",生活时尚
 http://58.32.24.118:4022/udp/239.45.3.132:5140
 #EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/上海教育.png" group-title="数字频道",上海教育
@@ -222,55 +222,55 @@ http://58.32.24.118:4022/udp/239.45.3.209:5140
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/东方影视.png" group-title="数字频道",东方影视
 http://58.32.24.118:4022/udp/239.45.3.237:5140
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/都市剧场.png" group-title="数字频道",都市剧场
-http://171.213.194.235:5555/rtp/239.93.42.30:5140
+http://118.113.179.38:4022/rtp/239.93.42.30:5140
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/欢笑剧场.png" group-title="数字频道",欢笑剧场4K
-http://171.213.194.235:5555/rtp/239.93.0.145:5140
+http://118.113.179.38:4022/rtp/239.93.0.145:5140
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/游戏风云.png" group-title="数字频道",游戏风云
 http://58.32.24.118:4022/udp/239.45.3.131:5140
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/快乐垂钓.png" group-title="数字频道",快乐垂钓
-http://171.213.194.235:5555/rtp/239.93.1.151:5140
+http://118.113.179.38:4022/rtp/239.93.1.151:5140
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/金鹰纪实.png" group-title="数字频道",金鹰纪实
-http://171.213.194.235:5555/rtp/239.93.0.130:5140
+http://118.113.179.38:4022/rtp/239.93.0.130:5140
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/北京纪实科教.png" group-title="数字频道",北京纪实科教 
-http://171.213.194.235:5555/rtp/239.93.0.141:5140 
+http://118.113.179.38:4022/rtp/239.93.0.141:5140 
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/茶频道.png" group-title="数字频道",茶频道
-http://171.213.194.235:5555/rtp/239.93.0.114:5140 
+http://118.113.179.38:4022/rtp/239.93.0.114:5140 
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/先锋兵羽.png" group-title="数字频道",先锋乒羽
-http://171.213.194.235:5555/rtp/239.93.42.56:5140
+http://118.113.179.38:4022/rtp/239.93.42.56:5140
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/天元围棋.png" group-title="数字频道",天元围棋
-http://171.213.194.235:5555/rtp/239.93.42.55:5140
+http://118.113.179.38:4022/rtp/239.93.42.55:5140
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/环球旅游.png" group-title="数字频道",环球旅游
-http://171.213.194.235:5555/rtp/239.93.42.31:5140
+http://118.113.179.38:4022/rtp/239.93.42.31:5140
 #EXTINF:-1 tvg-id="来钓鱼吧" tvg-name="来钓鱼吧" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/来钓鱼吧.png" group-title="数字频道",来钓鱼吧
-http://171.213.194.235:5555/rtp/239.93.42.8:5140
+http://118.113.179.38:4022/rtp/239.93.42.8:5140
 #EXTINF:-1 tvg-id="麻辣体育" tvg-name="麻辣体育" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/麻辣体育.png" group-title="数字频道",麻辣体育
-http://171.213.194.235:5555/rtp/239.93.42.2:5140
+http://118.113.179.38:4022/rtp/239.93.42.2:5140
 #EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/汽摩.png" group-title="数字频道",汽摩
-http://171.213.194.235:5555/rtp/239.93.0.62:5140
+http://118.113.179.38:4022/rtp/239.93.0.62:5140
 #EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/梨园.png" group-title="数字频道",梨园
-http://171.213.194.235:5555/rtp/239.93.1.195:5140
+http://118.113.179.38:4022/rtp/239.93.1.195:5140
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/中国交通.png" group-title="数字频道",中国交通
-http://171.213.194.235:5555/rtp/239.93.0.142:5140
+http://118.113.179.38:4022/rtp/239.93.0.142:5140
 #EXTINF:-1 tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/绚影4K.png" group-title="数字频道",绚影4K
-http://171.213.194.235:5555/rtp/239.93.42.33:5140
+http://118.113.179.38:4022/rtp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="4K乐享" tvg-name="4K乐享" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/4K乐享.png" group-title="数字频道",4K乐享
-http://171.213.194.235:5555/rtp/239.93.0.43:5140
+http://118.113.179.38:4022/rtp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/爱上4K.png" group-title="数字频道",爱上4K
-http://171.213.194.235:5555/udp/239.93.0.97:5140
+http://118.113.179.38:4022/udp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="中录动漫" tvg-name="中录动漫" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/中录动漫4K.png" group-title="数字频道",中录动漫4K
-http://171.213.194.235:5555/rtp/239.93.1.188:5140
+http://118.113.179.38:4022/rtp/239.93.1.188:5140
 #EXTINF:-1 tvg-id="亲子趣学" tvg-name="亲子趣学" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/亲子趣学4K.png" group-title="数字频道",亲子趣学4K
-http://171.213.194.235:5555/rtp/239.93.1.191:5140
+http://118.113.179.38:4022/rtp/239.93.1.191:5140
 #EXTINF:-1 tvg-id="少儿天地" tvg-name="少儿天地" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/少儿天地.png" group-title="数字频道",少儿天地
-http://171.213.194.235:5555/rtp/239.93.42.34:5140
+http://118.113.179.38:4022/rtp/239.93.42.34:5140
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/金鹰卡通.png" group-title="数字频道",金鹰卡通
 http://58.32.24.118:4022/udp/239.45.0.38:5140
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/卡酷少儿.png" group-title="数字频道",卡酷少儿
 http://58.32.24.118:4022/udp/239.45.0.8:5140
 #EXTINF:-1 tvg-id="爱宠宠物" tvg-name="爱宠宠物" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/爱宠宠物.png" group-title="数字频道",爱宠宠物
-http://171.213.194.235:5555/rtp/239.93.42.32:5140
+http://118.113.179.38:4022/rtp/239.93.42.32:5140
 #EXTINF:-1 tvg-id="乐龄学堂" tvg-name="乐龄学堂" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/乐龄学堂.png" group-title="数字频道",乐龄学堂
-http://171.213.194.235:5555/rtp/239.93.1.179:5140
+http://118.113.179.38:4022/rtp/239.93.1.179:5140
 #EXTINF:-1 tvg-id="百事通4K电影" tvg-name="百事通4K电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/bestv.png" group-title="数字频道",百事通4K电影
 http://58.32.24.118:4022/udp/239.45.3.107:5140
 #EXTINF:-1 tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/bestv.png" group-title="数字频道",百事通4K纪实
@@ -278,51 +278,51 @@ http://58.32.24.118:4022/udp/239.45.1.10:5140
 #EXTINF:-1 tvg-id="百事通4K儿童" tvg-name="百事通4K儿童" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/bestv.png" group-title="数字频道",百事通4K儿童
 http://58.32.24.118:4022/udp/239.45.1.1:5140
 #EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/bestv.png" group-title="数字频道",青春动漫
-http://171.213.194.235:5555/rtp/239.93.0.146:5140
+http://118.113.179.38:4022/rtp/239.93.0.146:5140
 #EXTINF:-1 tvg-id="热门综艺" tvg-name="热门综艺" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/bestv.png" group-title="数字频道",热门综艺
-http://171.213.194.235:5555/rtp/239.93.0.151:5140
+http://118.113.179.38:4022/rtp/239.93.0.151:5140
 #EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/bestv.png" group-title="数字频道",华语影院
-http://171.213.194.235:5555/rtp/239.93.0.138:5140 
+http://118.113.179.38:4022/rtp/239.93.0.138:5140 
 #EXTINF:-1 tvg-id="星光院线" tvg-name="星光院线" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/bestv.png" group-title="数字频道",星光院线
-http://171.213.194.235:5555/rtp/239.93.0.139:5140 
+http://118.113.179.38:4022/rtp/239.93.0.139:5140 
 #EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/bestv.png" group-title="数字频道",全球大片
-http://171.213.194.235:5555/rtp/239.93.0.105:5140 
+http://118.113.179.38:4022/rtp/239.93.0.105:5140 
 #EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/bestv.png" group-title="数字频道",热门剧场
-http://171.213.194.235:5555/rtp/239.93.0.140:5140 
+http://118.113.179.38:4022/rtp/239.93.0.140:5140 
 #EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/bestv.png" group-title="数字频道",谍战剧场
-http://171.213.194.235:5555/rtp/239.93.0.95:5140 
+http://118.113.179.38:4022/rtp/239.93.0.95:5140 
 #EXTINF:-1 tvg-id="IHOT爱怀旧" tvg-name="IHOT爱怀旧" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/IHOT爱怀旧.png" group-title="数字频道",爱怀旧高清
-http://171.213.194.235:5555/rtp/239.93.42.21:5140
+http://118.113.179.38:4022/rtp/239.93.42.21:5140
 #EXTINF:-1 tvg-id="IHOT爱喜剧" tvg-name="IHOT爱喜剧" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/IHOT爱喜剧.png" group-title="数字频道",爱喜剧高清
-http://171.213.194.235:5555/rtp/239.93.42.9:5140
+http://118.113.179.38:4022/rtp/239.93.42.9:5140
 #EXTINF:-1 tvg-id="IHOT爱奇谈" tvg-name="IHOT爱奇谈" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/IHOT爱奇谈.png" group-title="数字频道",爱奇谈高清
-http://171.213.194.235:5555/rtp/239.93.42.22:5140
+http://118.113.179.38:4022/rtp/239.93.42.22:5140
 #EXTINF:-1 tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/IHOT爱科幻.png" group-title="数字频道",爱科幻高清
-http://171.213.194.235:5555/rtp/239.93.42.10:5140
+http://118.113.179.38:4022/rtp/239.93.42.10:5140
 #EXTINF:-1 tvg-id="IHOT爱怀旧" tvg-name="IHOT爱怀旧" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/IHOT爱怀旧.png" group-title="数字频道",爱院线高清
-http://171.213.194.235:5555/rtp/239.93.42.11:5140
+http://118.113.179.38:4022/rtp/239.93.42.11:5140
 #EXTINF:-1 tvg-id="IHOT爱谍战" tvg-name="IHOT爱谍战" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/IHOT爱谍战.png" group-title="数字频道",爱谍战高清
-http://171.213.194.235:5555/rtp/239.93.42.14:5140
+http://118.113.179.38:4022/rtp/239.93.42.14:5140
 #EXTINF:-1 tvg-id="IHOT爱经典" tvg-name="IHOT爱经典" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/IHOT爱经典.png" group-title="数字频道",爱经典高清
-http://171.213.194.235:5555/rtp/239.93.42.13:5140
+http://118.113.179.38:4022/rtp/239.93.42.13:5140
 #EXTINF:-1 tvg-id="IHOT爱悬疑" tvg-name="IHOT爱悬疑" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/IHOT爱悬疑.png" group-title="数字频道",爱悬疑高清
-http://171.213.194.235:5555/rtp/239.93.42.12:5140
+http://118.113.179.38:4022/rtp/239.93.42.12:5140
 #EXTINF:-1 tvg-id="IHOT爱青春" tvg-name="IHOT爱青春" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/IHOT爱青春.png" group-title="数字频道",爱青春高清
-http://171.213.194.235:5555/rtp/239.93.42.16:5140
+http://118.113.179.38:4022/rtp/239.93.42.16:5140
 #EXTINF:-1 tvg-id="IHOT爱幼教" tvg-name="IHOT爱幼教" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/IHOT爱幼教.png" group-title="数字频道",爱幼教高清
-http://171.213.194.235:5555/rtp/239.93.42.17:5140
+http://118.113.179.38:4022/rtp/239.93.42.17:5140
 #EXTINF:-1 tvg-id="IHOT爱玩具" tvg-name="IHOT爱玩具" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/IHOT爱玩具.png" group-title="数字频道",爱玩具高清
-http://171.213.194.235:5555/rtp/239.93.42.18:5140
+http://118.113.179.38:4022/rtp/239.93.42.18:5140
 #EXTINF:-1 tvg-id="IHOT爱动漫" tvg-name="IHOT爱动漫" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/IHOT爱动漫.png" group-title="数字频道",爱动漫高清
-http://171.213.194.235:5555/rtp/239.93.42.23:5140
+http://118.113.179.38:4022/rtp/239.93.42.23:5140
 #EXTINF:-1 tvg-id="IHOT爱电竞" tvg-name="IHOT爱电竞" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/IHOT爱电竞.png" group-title="数字频道",爱电竞高清
-http://171.213.194.235:5555/rtp/239.93.42.19:5140
+http://118.113.179.38:4022/rtp/239.93.42.19:5140
 #EXTINF:-1 tvg-id="IHOT爱赛车" tvg-name="IHOT爱赛车" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/IHOT爱赛车.png" group-title="数字频道",爱赛车高清
-http://171.213.194.235:5555/rtp/239.93.42.20:5140
+http://118.113.179.38:4022/rtp/239.93.42.20:5140
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/凤凰中文.png" group-title="国际",凤凰中文
-http://171.213.194.235:5555/rtp/239.93.0.162:2192
+http://118.113.179.38:4022/rtp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/凤凰资讯.png" group-title="国际",凤凰资讯
-http://171.213.194.235:5555/rtp/239.93.0.118:2191
+http://118.113.179.38:4022/rtp/239.93.0.118:2191
 #EXTINF:-1 tvg-name="香港卫视" tvg-id="香港卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/香港卫视.png" group-title="国际",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="大爱1台" tvg-id="大爱1台" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/Daai1.png" group-title="国际",大爱1台
@@ -378,4 +378,4 @@ https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJuniorEast.us" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/Disney_Junior.png" group-title="国际",Disney Jr 迪士尼幼儿频道
 https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://mirror.ghproxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/Disney_XD.png" group-title="国际",Disney XD 迪士尼XD
-https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8171.213.194.235:5555
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8118.113.179.38:4022
