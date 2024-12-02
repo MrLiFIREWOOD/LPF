@@ -299,7 +299,6 @@ PopC,https://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 龙华电影,http://pelotas.org:8278/xingwei_movie/playlist.m3u8?tid=MBAB7309998373099983&ct=19669&tsum=b2e20d43b6f9fc49605f1c212b3e6dea
 龙华电影,http://pelotas.org:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
 龙华电影,http://pelotas.org:8278/xingwei_movie/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=b380c8ef3016f04d9ed8ee1a811c1bf4
-龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 LSTIME电影台,http://pelotas.org:8278/cb7a1fec69/playlist.m3u8?tid=MF1F8409616784096167&ct=19669&tsum=ea6bf7db28c029a046efe01903c2c870
 LSTIME电影台,http://pelotas.org:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 LSTIME电影台,http://pelotas.org:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
