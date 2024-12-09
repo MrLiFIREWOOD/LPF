@@ -288,26 +288,13 @@ CHC家庭影院,http://222.209.208.234:7088/udp/239.93.42.6:5140
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-翡翠台,http://119.32.12.32:2901/udp/224.1.100.121:11111
-翡翠台,http://119.32.12.17:2901/udp/224.1.100.121:11111
-明珠台,http://119.32.12.32:2901/udp/224.1.100.123:11111
-明珠台,http://119.32.12.17:2901/udp/224.1.100.123:11111
-PopC,https://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-美亚电影,http://jaz9.my.to:2399/udp/230.1.2.143:11111
-美亚电影,http://jaz9.my.to:2399/udp/224.1.4.91:11111
 美亚电影,http://pelotas.org:8278/meiyamovie_twn/playlist.m3u8?tid=MABA3151428731514287&ct=19669&tsum=6f309ad09ef15837140e051865ac2309
 美亚电影,http://pelotas.org:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 美亚电影,http://pelotas.org:8278/meiyamovie_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5d5f2284a5f896d6519e0aa61fe765c9
 美亚电影,http://pelotas.org:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct=19234&tsum=43f9d2e13c7cbbce7e5c5ec94fa38750
-美亚电影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-龙华电影,http://jaz9.my.to:2399/udp/224.1.4.251:11111
-龙华电影,http://jaz9.my.to:2399/udp/224.1.4.36:11111
 龙华电影,http://pelotas.org:8278/xingwei_movie/playlist.m3u8?tid=MBAB7309998373099983&ct=19669&tsum=b2e20d43b6f9fc49605f1c212b3e6dea
 龙华电影,http://pelotas.org:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
 龙华电影,http://pelotas.org:8278/xingwei_movie/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=b380c8ef3016f04d9ed8ee1a811c1bf4
-龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-龙华洋片,http://jaz9.my.to:2399/udp/230.1.2.211:11111
-龙华洋片,http://jaz9.my.to:2399/udp/224.1.4.37:11111
 LSTIME电影台,http://pelotas.org:8278/cb7a1fec69/playlist.m3u8?tid=MF1F8409616784096167&ct=19669&tsum=ea6bf7db28c029a046efe01903c2c870
 LSTIME电影台,http://pelotas.org:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 LSTIME电影台,http://pelotas.org:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
@@ -325,25 +312,11 @@ LSTIME电影台,http://pelotas.org:8278/lungxiangtime_twn/playlist.m3u8?tid=mc42
 纬来电影台,http://pelotas.org:8278/videolandmovie/playlist.m3u8?tid=MC7C1346583413465834&ct=19669&tsum=144d073fbe017b70d5fe84cf2737cdce
 纬来电影台,http://pelotas.org:8278/videolandmovie/playlist.m3u8?ct=18335&tid=ma2dac66da407&tsum=9a5a39559f64a71081ef9b3a85f2886c
 纬来电影台,http://pelotas.org:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
-壹电视电影台,http://jaz9.my.to:2399/udp/230.1.2.189:11111
 天映马来西亚,http://pelotas.org:8278/Celestial_mega/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=048f6ae3db8287600a11bde6222659ad
-HITS,http://jaz9.my.to:2399/udp/224.1.4.136:11111
 Boo,http://pelotas.org:8278/Boo/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=27e1258369fb9499616cd1f7760997a3
 Boo,http://pelotas.org:8278/Boo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=53f9bb0446a6aa3ab4d98cbc0de6c5d8
 Thrill,http://pelotas.org:8278/Thrill/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0f3fa14946255db4971340542fe754d5
 Thrill,http://pelotas.org:8278/Thrill/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=65c2cb5aec92c8119f2c29461c640231
-now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
-now爆谷星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-华艺影剧,http://jaz9.my.to:2399/udp/230.1.2.200:11111
-华艺影剧,http://jaz9.my.to:2399/udp/230.1.2.17:11111
-华艺MBC,http://jaz9.my.to:2399/udp/224.1.4.130:11111
-华艺MBC,http://jaz9.my.to:2399/udp/230.1.2.1:11111
-华艺台湾台,http://jaz9.my.to:2399/udp/224.1.4.185:11111
-华艺台湾台,http://jaz9.my.to:2399/udp/224.1.4.71:11111
-采昌影剧,http://jaz9.my.to:2399/udp/224.1.4.221:11111
-采昌影剧,http://jaz9.my.to:2399/udp/230.1.2.71:11111
-HBO,http://42.114.67.74:19999/udp/225.1.2.233:30120
-HBO,http://42.113.176.26:4000/udp/225.1.2.233:30120
 HBO,http://50.7.234.10:8278/Hbo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=d80659116f0092678bbdb8e6077c1bf6
 HBO,http://pelotas.org:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
 HBO,http://pelotas.org:8278/hbohd_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d606b35ded0b862645ba71eb72173b39
@@ -377,7 +350,6 @@ Kidoodle.TV,https://06fda8bb401f4c0abb854097c0a3b3d6.mediatailor.us-east-1.amazo
 Disney Channel 迪士尼频道,https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 Disney Jr 迪士尼幼儿频道,https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
 Disney XD 迪士尼XD,https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-
 
 
 
