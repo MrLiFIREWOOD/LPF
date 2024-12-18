@@ -510,26 +510,26 @@ CCTV4k,http://livetv.wqwqwq.sbs/ysptp/cctv4k.m3u8
 纪实人文,http://livetv.wqwqwq.sbs/itv/1000000005000265021.m3u8?cdn=ystenlive
 五星体育,http://livetv.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb
 上海新闻综合,http://livetv.wqwqwq.sbs/itv/5000000011000031110.m3u8?cdn=bestzb
-爱电竞,http://livetv.wqwqwq.sbs/itv/6000000006000230630.m3u8?cdn=wasusyt
-爱谍战,http://livetv.wqwqwq.sbs/itv/6000000006000070630.m3u8?cdn=wasusyt
-爱动漫,http://livetv.wqwqwq.sbs/itv/6000000006000280630.m3u8?cdn=wasusyt
-爱都市,http://livetv.wqwqwq.sbs/itv/6000000006000080630.m3u8?cdn=wasusyt
-爱怀旧,http://livetv.wqwqwq.sbs/itv/6000000006000260630.m3u8?cdn=wasusyt
-爱经典,http://livetv.wqwqwq.sbs/itv/6000000006000060630.m3u8?cdn=wasusyt
-爱科幻,http://livetv.wqwqwq.sbs/itv/6000000006000020630.m3u8?cdn=wasusyt
-爱科学,http://livetv.wqwqwq.sbs/itv/6000000006000160630.m3u8?cdn=wasusyt
-爱浪漫,http://livetv.wqwqwq.sbs/itv/6000000006000040630.m3u8?cdn=wasusyt
-爱历史,http://livetv.wqwqwq.sbs/itv/6000000006000150630.m3u8?cdn=wasusyt
-爱旅行,http://livetv.wqwqwq.sbs/itv/6000000006000250630.m3u8?cdn=wasusyt
-爱奇谈,http://livetv.wqwqwq.sbs/itv/6000000006000270630.m3u8?cdn=wasusyt
-爱青春,http://livetv.wqwqwq.sbs/itv/6000000006000100630.m3u8?cdn=wasusyt
-爱赛车,http://livetv.wqwqwq.sbs/itv/6000000006000240630.m3u8?cdn=wasusyt
-爱体育,http://livetv.wqwqwq.sbs/itv/6000000006000290630.m3u8?cdn=wasusyt
-爱玩具,http://livetv.wqwqwq.sbs/itv/6000000006000220630.m3u8?cdn=wasusyt
-爱喜剧,http://livetv.wqwqwq.sbs/itv/6000000006000010630.m3u8?cdn=wasusyt
-爱悬疑,http://livetv.wqwqwq.sbs/itv/6000000006000050630.m3u8?cdn=wasusyt
-爱幼教,http://livetv.wqwqwq.sbs/itv/6000000006000180630.m3u8?cdn=wasusyt
-爱院线,http://livetv.wqwqwq.sbs/itv/6000000006000030630.m3u8?cdn=wasusyt
+爱电竞高清,http://livetv.wqwqwq.sbs/itv/6000000006000230630.m3u8?cdn=wasusyt
+爱谍战高清,http://livetv.wqwqwq.sbs/itv/6000000006000070630.m3u8?cdn=wasusyt
+爱动漫高清,http://livetv.wqwqwq.sbs/itv/6000000006000280630.m3u8?cdn=wasusyt
+爱都市高清,http://livetv.wqwqwq.sbs/itv/6000000006000080630.m3u8?cdn=wasusyt
+爱怀旧高清,http://livetv.wqwqwq.sbs/itv/6000000006000260630.m3u8?cdn=wasusyt
+爱经典高清,http://livetv.wqwqwq.sbs/itv/6000000006000060630.m3u8?cdn=wasusyt
+爱科幻高清,http://livetv.wqwqwq.sbs/itv/6000000006000020630.m3u8?cdn=wasusyt
+爱科学高清,http://livetv.wqwqwq.sbs/itv/6000000006000160630.m3u8?cdn=wasusyt
+爱浪漫高清,http://livetv.wqwqwq.sbs/itv/6000000006000040630.m3u8?cdn=wasusyt
+爱历史高清,http://livetv.wqwqwq.sbs/itv/6000000006000150630.m3u8?cdn=wasusyt
+爱旅行高清,http://livetv.wqwqwq.sbs/itv/6000000006000250630.m3u8?cdn=wasusyt
+爱奇谈高清,http://livetv.wqwqwq.sbs/itv/6000000006000270630.m3u8?cdn=wasusyt
+爱青春高清,http://livetv.wqwqwq.sbs/itv/6000000006000100630.m3u8?cdn=wasusyt
+爱赛车高清,http://livetv.wqwqwq.sbs/itv/6000000006000240630.m3u8?cdn=wasusyt
+爱体育高清,http://livetv.wqwqwq.sbs/itv/6000000006000290630.m3u8?cdn=wasusyt
+爱玩具高清,http://livetv.wqwqwq.sbs/itv/6000000006000220630.m3u8?cdn=wasusyt
+爱喜剧高清,http://livetv.wqwqwq.sbs/itv/6000000006000010630.m3u8?cdn=wasusyt
+爱悬疑高清,http://livetv.wqwqwq.sbs/itv/6000000006000050630.m3u8?cdn=wasusyt
+爱幼教高清,http://livetv.wqwqwq.sbs/itv/6000000006000180630.m3u8?cdn=wasusyt
+爱院线高清,http://livetv.wqwqwq.sbs/itv/6000000006000030630.m3u8?cdn=wasusyt
 
 
 
