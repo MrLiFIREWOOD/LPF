@@ -290,6 +290,7 @@ CHC家庭影院,http://222.209.208.234:7088/udp/239.93.42.6:5140
 翡翠台,http://119.32.12.17:2901/udp/224.1.100.121:11111
 明珠台,http://119.32.12.31:2901/udp/224.1.100.123:11111
 明珠台,http://119.32.12.17:2901/udp/224.1.100.123:11111
+PopC,https://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 美亚电影,http://jaz9.my.to:2392/udp/230.1.2.143:11111
 美亚电影,http://jaz9.my.to:2392/udp/224.1.4.91:11111
 美亚电影,http://pelotas.org:8278/meiyamovie_twn/playlist.m3u8?tid=MABA3151428731514287&ct=19669&tsum=6f309ad09ef15837140e051865ac2309
