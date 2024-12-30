@@ -322,10 +322,6 @@ myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8 
-Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 FOX福克斯新闻台,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 BBC News,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 欧洲新闻电视台,https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8?
@@ -334,17 +330,14 @@ NBC美国国家广播公司新闻,https://d2gjhy8g9ziabr.cloudfront.net/v1/maste
 今日俄罗斯电视台 记录,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 Bloomberg TV+彭博财经电视,https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 Yahoo Finance雅虎财经,https://cdn-ue1-prod.tsv2.amagi.tv/linear/yahoofina-samsungyahoofinance/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-新加坡亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 Travelxp,https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
-Journy,https://d2qttxtnwilm4s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-njmc8koqnhqq2-prod/dist/samsungtv/291/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-GOLFPASS,https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_golfpass_001.m3u8?ads.caid=NBCUGolfpass&ads.csid=samsungtvplus_us_nbcugolfpass_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2794&ads.xumo_contentName=nbcugolfpass&ads.xumo_providerId=2794&ads.xumo_providerName=nbcugolfpass&ads.xumo_channelId=9999550&ads.xumo_channelName=Golfpass&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-IGN,https://cdn-ue1-prod.tsv2.amagi.tv/linear/ignaaaaaa-ign1-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 Moonbug,https://d30kp0xfvvs2gr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Moonbug-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 The LEGO Channel,https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/mhls?appId=2&feedId=1120-v56&auth-token=1213111&version=sv7.0&deviceId=SDF543&deviceFwVer=4.99&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-Kidoodle.TV,https://06fda8bb401f4c0abb854097c0a3b3d6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_KidoodleTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=414&ads.wurl_name=KidoodleTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
-Disney Channel 迪士尼频道,https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-Disney Jr 迪士尼幼儿频道,https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
-Disney XD 迪士尼XD,https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 
 
 央视,#genre#
