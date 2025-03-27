@@ -36,21 +36,21 @@ https://sk.cri.cn/915.m3u8
 #EXTINF:-1 tvg-name="南海之声" tvg-logo="https://gh-proxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/南海之声.png" radio="true" group-title="电台",南海之声
 https://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 tvg-name="四川经济广播" tvg-logo="https://gh-proxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/四川经济广播.png" radio="true" group-title="电台",四川经济广播94.0
-http://live.ximalaya.com/radio-first-page-app/live/1645/24.m3u8
+https://lhttp.qtfm.cn/live/4927/64k.mp3
 #EXTINF:-1 tvg-name="四川文艺广播" tvg-logo="https://gh-proxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/四川文艺广播.png" radio="true" group-title="电台",四川文艺广播90.0
-http://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
+https://lhttp.qtfm.cn/live/4887/64k.mp3
 #EXTINF:-1 tvg-name="四川岷江音乐频率" tvg-logo="https://gh-proxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/四川岷江音乐频率.png" radio="true" group-title="电台",四川岷江音乐频率95.5
-http://live.ximalaya.com/radio-first-page-app/live/2802/24.m3u8
+https://lhttp.qtfm.cn/live/1110/64k.mp3
 #EXTINF:-1 tvg-name="四川新闻频率" tvg-logo="https://gh-proxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/四川新闻频率.jpg" radio="true" group-title="电台",四川新闻频率106.1
-http://live.ximalaya.com/radio-first-page-app/live/2799/24.m3u8
+https://lhttp.qtfm.cn/live/4906/64k.mp3
 #EXTINF:-1 tvg-name="四川交通广播" tvg-logo="https://gh-proxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/四川交通广播.png" radio="true" group-title="电台",四川交通广播101.7
-http://live.ximalaya.com/radio-first-page-app/live/752/24.m3u8
+https://lhttp.qtfm.cn/live/4886/64k.mp3
 #EXTINF:-1 tvg-name="四川城市之音" tvg-logo="https://gh-proxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/四川城市之音.png" radio="true" group-title="电台",四川城市之音102.6
-http://live.ximalaya.com/radio-first-page-app/live/755/24.m3u8
+https://lhttp.qtfm.cn/live/1111/64k.mp3
 #EXTINF:-1 tvg-name="四川综合广播" tvg-logo="https://gh-proxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/四川综合广播.jpg" radio="true" group-title="电台",四川综合广播98.1
-http://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
+https://lhttp.qingting.fm/live/4906/64k.mp3
 #EXTINF:-1 tvg-name="天府之声" tvg-logo="https://gh-proxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/天府之声.png" radio="true" group-title="电台",天府之声92.5
-http://live.ximalaya.com/radio-first-page-app/live/1646/24.m3u8
+https://lhttp-hw.qtfm.cn/live/4939/64k.mp3
 #EXTINF:-1 tvg-name="成都电台Radio946" tvg-logo="https://gh-proxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/成都电台.png" radio="true" group-title="电台",成都电台94.6
 http://lhttp.qingting.fm/live/4892/64k.mp3?app_id=web
 #EXTINF:-1 tvg-name="成都经济广播" tvg-logo="https://gh-proxy.com/https://github.com/MrLiFIREWOOD/LPF/blob/main/Logo/成都经济广播.png" radio="true" group-title="电台",成都经济广播105.6
