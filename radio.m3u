@@ -35,30 +35,22 @@ https://sk.cri.cn/887.m3u8
 https://sk.cri.cn/915.m3u8
 #EXTINF:-1 tvg-name="南海之声" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/南海之声.png" radio="true" group-title="电台",南海之声
 https://sk.cri.cn/nhzs.m3u8
-#EXTINF:-1,CNN
-https://tunein.cdnstream1.com/2868_96.mp3
-#EXTINF:-1,NBC NEWS 
-http://cloud.revma.ihrhls.com/zc6043?rj-org=n25a-e2&rj-ttl=5&rj-tok=AAABld_iPlEAJZ2Z6bsu2TUL4Q
-#EXTINF:-1,Skynews Radio 
-https://video.news.sky.com/snr/news/snrnews.mp3
-#EXTINF:-1,德云社相声合集
-https://stream-174.zeno.fm/yqawwmweq8mtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5cWF3d213ZXE4bXR2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNzIwLWpvTWdUS2lOcmx4Y2tzV2s2dyIsImlhdCI6MTc0MzIyMzcwNywiZXhwIjoxNzQzMjIzNzY3fQ.q82wbPGjNiK7yOfwEYaMt2OUWEGLU1uOCJMl0vILTBk
 #EXTINF:-1 tvg-name="四川经济广播" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/四川经济广播.png" radio="true" group-title="电台",四川经济广播94.0
-https://lhttp.qtfm.cn/live/4927/64k.mp3
+http://satellitepull.cnr.cn/live/wxscjjgb/playlist.m3u8
 #EXTINF:-1 tvg-name="四川文艺广播" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/四川文艺广播.png" radio="true" group-title="电台",四川文艺广播90.0
-https://lhttp.qtfm.cn/live/4887/64k.mp3
+http://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
 #EXTINF:-1 tvg-name="四川岷江音乐频率" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/四川岷江音乐频率.png" radio="true" group-title="电台",四川岷江音乐频率95.5
-https://lhttp.qtfm.cn/live/1110/64k.mp3
+http://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
 #EXTINF:-1 tvg-name="四川新闻频率" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/四川新闻频率.jpg" radio="true" group-title="电台",四川新闻频率106.1
-https://lhttp.qtfm.cn/live/4906/64k.mp3
+http://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
 #EXTINF:-1 tvg-name="四川交通广播" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/四川交通广播.png" radio="true" group-title="电台",四川交通广播101.7
-https://lhttp.qtfm.cn/live/4886/64k.mp3
+http://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
 #EXTINF:-1 tvg-name="四川城市之音" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/四川城市之音.png" radio="true" group-title="电台",四川城市之音102.6
-https://lhttp.qtfm.cn/live/1111/64k.mp3
+https://satellitepull.cnr.cn/live/wxsccszs/playlist.m3u8
 #EXTINF:-1 tvg-name="四川综合广播" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/四川综合广播.jpg" radio="true" group-title="电台",四川综合广播98.1
-https://lhttp.qingting.fm/live/4906/64k.mp3
+http://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
 #EXTINF:-1 tvg-name="天府之声" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/天府之声.png" radio="true" group-title="电台",天府之声92.5
-https://lhttp-hw.qtfm.cn/live/4939/64k.mp3
+http://satellitepull.cnr.cn/live/wxsc925/playlist.m3u8
 #EXTINF:-1 tvg-name="成都电台Radio946" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/成都电台.png" radio="true" group-title="电台",成都电台94.6
 http://lhttp.qingting.fm/live/4892/64k.mp3?app_id=web
 #EXTINF:-1 tvg-name="成都经济广播" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/成都经济广播.png" radio="true" group-title="电台",成都经济广播105.6
@@ -71,6 +63,12 @@ http://live.ximalaya.com/radio-first-page-app/live/750/24.m3u8
 http://live.ximalaya.com/radio-first-page-app/live/1247/24.m3u8
 #EXTINF:-1 tvg-name="AsiaFM成都96.5" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/AsiaFM成都.jpg" radio="true" group-title="电台",AsiaFM成都96.5
 http://live.ximalaya.com/radio-first-page-app/live/1003/24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/fhzx.png" group-title="电台",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv13.png" group-title="电台",CCTV-13 新闻
+https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="电台",第一财经
+http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 #EXTINF:-1 tvg-name="上海第一财经广播" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/第一财经广播.png" radio="true" group-title="电台",上海第一财经广播
 http://live.ximalaya.com/radio-first-page-app/live/56/24.m3u8
 #EXTINF:-1 tvg-name="动感101" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/上海动感101.png" radio="true" group-title="电台",动感101
@@ -101,4 +99,31 @@ http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
 http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
 #EXTINF:-1 tvg-name="国乐悠扬" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/国乐悠扬台.png" radio="true" group-title="电台",国乐悠扬
 http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asiahot.png" group-title="电台",AsiaFM 亚洲热歌台
+http://hot.asiafm.net:8000/asiafm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asiamusic.png" group-title="电台",AsiaFM 亚洲音乐台
+http://asiafm.hk:8000/asiafm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asiagold.png" group-title="电台",AsiaFM 亚洲经典台
+http://goldfm.cn:8000/goldfm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asiasky.png" group-title="电台",AsiaFM 亚洲天空台
+http://funradio.cn:8000/funradio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asiahd.png" group-title="电台",AsiaFM HD音乐台
+http://asiafm.hk:8000/asiahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asiayy.png" group-title="电台",AsiaFM 亚洲粤语台
+http://yyt.asiafm.net:8000/asiafm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s138074/images/logog.png?t=158317" group-title="电台",Big B Radio - 中文流行
+http://cpop.bigbradio.net/s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s135096/images/logog.png?t=158317" group-title="电台",Big B Radio - 韩语流行
+http://kpop.bigbradio.net/s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s135097/images/logog.png?t=158317" group-title="电台",Big B Radio - 日语流行
+http://jpop.bigbradio.net/s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s54185/images/logog.png?t=158645" group-title="电台",Big B Radio - 亚洲流行
+http://apop.bigbradio.net/s
+#EXTINF:-1,CNN
+https://tunein.cdnstream1.com/2868_96.mp3
+#EXTINF:-1,NBC NEWS 
+http://cloud.revma.ihrhls.com/zc6043?rj-org=n25a-e2&rj-ttl=5&rj-tok=AAABld_iPlEAJZ2Z6bsu2TUL4Q
+#EXTINF:-1,Skynews Radio 
+https://video.news.sky.com/snr/news/snrnews.mp3
+#EXTINF:-1,德云社相声合集
+https://stream-174.zeno.fm/yqawwmweq8mtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5cWF3d213ZXE4bXR2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNzIwLWpvTWdUS2lOcmx4Y2tzV2s2dyIsImlhdCI6MTc0MzIyMzcwNywiZXhwIjoxNzQzMjIzNzY3fQ.q82wbPGjNiK7yOfwEYaMt2OUWEGLU1uOCJMl0vILTBk
