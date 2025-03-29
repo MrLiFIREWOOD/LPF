@@ -35,6 +35,14 @@ https://sk.cri.cn/887.m3u8
 https://sk.cri.cn/915.m3u8
 #EXTINF:-1 tvg-name="南海之声" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/南海之声.png" radio="true" group-title="电台",南海之声
 https://sk.cri.cn/nhzs.m3u8
+#EXTINF:-1,CNN
+https://tunein.cdnstream1.com/2868_96.mp3
+#EXTINF:-1,NBC NEWS 
+http://cloud.revma.ihrhls.com/zc6043?rj-org=n25a-e2&rj-ttl=5&rj-tok=AAABld_iPlEAJZ2Z6bsu2TUL4Q
+#EXTINF:-1,Skynews Radio 
+https://video.news.sky.com/snr/news/snrnews.mp3
+#EXTINF:-1,德云社相声合集
+https://stream-174.zeno.fm/yqawwmweq8mtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5cWF3d213ZXE4bXR2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNzIwLWpvTWdUS2lOcmx4Y2tzV2s2dyIsImlhdCI6MTc0MzIyMzcwNywiZXhwIjoxNzQzMjIzNzY3fQ.q82wbPGjNiK7yOfwEYaMt2OUWEGLU1uOCJMl0vILTBk
 #EXTINF:-1 tvg-name="四川经济广播" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/四川经济广播.png" radio="true" group-title="电台",四川经济广播94.0
 https://lhttp.qtfm.cn/live/4927/64k.mp3
 #EXTINF:-1 tvg-name="四川文艺广播" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/四川文艺广播.png" radio="true" group-title="电台",四川文艺广播90.0
