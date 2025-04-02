@@ -157,6 +157,7 @@ CNN美国有线电视新闻网,https://turnerlive.warnermediacdn.com/hls/live/58
 BBC英国广播公司,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 TV5Monde_Pacifique法语电视网络,https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 AL Jazeera阿拉伯半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+REDBULL TV红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 REDBULL TV红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 FOX美国福克斯商业,http://41.205.93.154/FOXBUSINESS/index.m3u8
 FOX News美国福克斯新闻台,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
