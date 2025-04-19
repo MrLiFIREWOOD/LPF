@@ -34,7 +34,7 @@ CCTV电视指南,webview://https://www.yangshipin.cn/tv/home?pid=600099656
 CCTV卫生健康,webview://https://www.yangshipin.cn/tv/home?pid=600099651
 CGTN,webview://https://www.yangshipin.cn/tv/home?pid=600084781
 CGTN外语纪录,webview://https://www.yangshipin.cn/tv/home?pid=600014550
-
+中国教育电视台1频道,webview://https://www.yangshipin.cn/tv/home?pid=600171827
 
 卫视,#genre#
 江苏卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002521
