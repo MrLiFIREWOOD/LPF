@@ -18,7 +18,6 @@ CCTV15,http://222.209.208.234:7788/rtp/239.93.0.103:5140
 CCTV16,http://222.209.208.234:7788/rtp/239.93.42.54:5140
 CCTV17,http://222.209.208.234:7788/rtp/239.93.0.92:5140
 CCTV4K,http://222.209.208.234:7788/rtp/239.93.42.42:5140
-CCTV8K,https://www.yangshipin.cn/tv/home?pid=600156816
 CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,https://www.yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,https://www.yangshipin.cn/tv/home?pid=600099620
