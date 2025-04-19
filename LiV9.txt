@@ -332,7 +332,27 @@ IHOT爱赛车,http://ayolee.com:5253/rtp/239.93.42.20:5140
 凤凰中文,http://ayolee.com:5253/rtp/239.93.0.162:2192
 凤凰资讯,http://ayolee.com:5253/rtp/239.93.0.118:2191
 
-
+央视,#genre#
+CCTV1,webview://https://www.yangshipin.cn/tv/home?pid=600001859
+CCTV2,webview://https://www.yangshipin.cn/tv/home?pid=600001800
+CCTV3,webview://https://www.yangshipin.cn/tv/home?pid=600001801
+CCTV4,webview://https://www.yangshipin.cn/tv/home?pid=600001814
+CCTV5,webview://https://www.yangshipin.cn/tv/home?pid=600001818
+CCTV5+,webview://https://www.yangshipin.cn/tv/home?pid=600001817
+CCTV6,webview://https://www.yangshipin.cn/tv/home?pid=600108442
+CCTV7,webview://https://www.yangshipin.cn/tv/home?pid=600004092
+CCTV8,webview://https://www.yangshipin.cn/tv/home?pid=600001803
+CCTV9,webview://https://www.yangshipin.cn/tv/home?pid=600004078
+CCTV10,webview://https://www.yangshipin.cn/tv/home?pid=600001805
+CCTV11,webview://https://www.yangshipin.cn/tv/home?pid=600001806
+CCTV12,webview://https://www.yangshipin.cn/tv/home?pid=600001807
+CCTV13,webview://https://www.yangshipin.cn/tv/home?pid=600001811
+CCTV14,webview://https://www.yangshipin.cn/tv/home?pid=600001809
+CCTV15,webview://https://www.yangshipin.cn/tv/home?pid=600001815
+CCTV16,webview://https://www.yangshipin.cn/tv/home?pid=600099502
+CCTV17,webview://https://www.yangshipin.cn/tv/home?pid=600001810
+CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
+中国教育电视台1频道,webview://https://www.yangshipin.cn/tv/home?pid=600171827
 
 
 春晚频道,#genre#
