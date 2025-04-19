@@ -31,7 +31,9 @@ CCTV女性时尚,webview://https://www.yangshipin.cn/tv/home?pid=600099650
 CCTV央视文化精品,webview://https://www.yangshipin.cn/tv/home?pid=600099653
 CCTV央视台球,webview://https://www.yangshipin.cn/tv/home?pid=600099652
 CCTV电视指南,webview://https://www.yangshipin.cn/tv/home?pid=600099656
-CCTV卫生健康频,webview://https://www.yangshipin.cn/tv/home?pid=600099651
+CCTV卫生健康,webview://https://www.yangshipin.cn/tv/home?pid=600099651
+CGTN,webview://https://www.yangshipin.cn/tv/home?pid=600084781
+CGTN外语纪录,webview://https://www.yangshipin.cn/tv/home?pid=600014550
 中国教育电视台1频道,http://222.209.208.234:7788/udp/239.93.1.111:5140
 中国教育电视台2频道,http://222.209.208.234:7788/udp/239.93.0.113:5140
 
