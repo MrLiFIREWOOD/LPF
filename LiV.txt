@@ -538,8 +538,7 @@ IHOT爱赛车,http://222.209.208.234:7088/rtp/239.93.42.20:5140
 凤凰中文,http://222.209.208.234:7088/rtp/239.93.0.162:2192
 凤凰资讯,http://222.209.208.234:7088/rtp/239.93.0.118:2191
 
-影视轮播,#genre#
-
+电视剧轮播,#genre#
 三国演义,http://www.douzhicloud.site:35455/huya/11602081
 新三国,http://www.douzhicloud.site:35455/douyu/12180551
 新水浒传,http://www.douzhicloud.site:35455/huya/11342384
@@ -571,6 +570,7 @@ IHOT爱赛车,http://222.209.208.234:7088/rtp/239.93.42.20:5140
 鬼吹灯之龙岭迷窟,http://www.douzhicloud.site:35455/huya/29465863
 鬼吹灯之云南虫谷,http://www.douzhicloud.site:35455/huya/11352898
 
+动画轮播,#genre#
 海绵宝宝,http://www.douzhicloud.site:35455/douyu/12400977
 名侦探柯南,http://www.douzhicloud.site:35455/huya/30080148
 柯南剧场版,http://www.douzhicloud.site:35455/huya/30080236
@@ -583,7 +583,7 @@ IHOT爱赛车,http://222.209.208.234:7088/rtp/239.93.42.20:5140
 合家欢动画,http://www.douzhicloud.site:35455/huya/11601958
 摩登大自然,http://www.douzhicloud.site:35455/douyu/9653320
 
-
+电影轮播,#genre#
 周星驰电影,http://www.douzhicloud.site:35455/huya/11342412
 刘德华电影,http://www.douzhicloud.site:35455/huya/11342424
 李连杰电影,http://www.douzhicloud.site:35455/huya/11342390
