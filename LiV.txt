@@ -573,6 +573,7 @@ IHOT爱赛车,http://222.209.208.234:7088/rtp/239.93.42.20:5140
 
 动画轮播,#genre#
 海绵宝宝,http://www.douzhicloud.site:35455/douyu/12400977
+迪士尼动画,http://www.douzhicloud.site:35455/huya/30080256
 名侦探柯南,http://www.douzhicloud.site:35455/huya/30080148
 柯南剧场版,http://www.douzhicloud.site:35455/huya/30080236
 中华小当家,http://www.douzhicloud.site:35455/huya/11342413
