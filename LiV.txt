@@ -571,7 +571,9 @@ IHOT爱赛车,http://222.209.208.234:7088/rtp/239.93.42.20:5140
 鬼吹灯之龙岭迷窟,http://www.douzhicloud.site:35455/huya/29465863
 鬼吹灯之云南虫谷,http://www.douzhicloud.site:35455/huya/11352898
 
-名侦探柯南,http://www.douzhicloud.site:35455/huya/30080236
+海绵宝宝,http://www.douzhicloud.site:35455/douyu/12400977
+名侦探柯南,http://www.douzhicloud.site:35455/huya/30080148
+柯南剧场版,http://www.douzhicloud.site:35455/huya/30080236
 中华小当家,http://www.douzhicloud.site:35455/huya/11342413
 精灵宝可梦,http://www.douzhicloud.site:35455/huya/23749096
 猫和老鼠,http://www.douzhicloud.site:35455/huya/11352879
