@@ -602,6 +602,20 @@ IHOT爱赛车,http://222.209.208.234:7088/rtp/239.93.42.20:5140
 喜剧电影,http://www.douzhicloud.site:35455/huya/11602031
 
 
+综艺记录片轮播,#genre#
+经典小品,http://www.douzhicloud.site:35455/douyu/9067836
+经典小品相声,http://www.douzhicloud.site:35455/douyu/9273031
+辽视欢乐大集锦,http://www.douzhicloud.site:35455/douyu/9403712
+开心麻花,http://www.douzhicloud.site:35455/douyu/10153463
+贾玲经典小品,http://www.douzhicloud.site:35455/douyu/10419541
+游钓中国,http://www.douzhicloud.site:35455/douyu/791411
+世界未解之谜,http://www.douzhicloud.site:35455/douyu/9369468
+探奇录,http://www.douzhicloud.site:35455/douyu/9746763
+文曰小强,http://www.douzhicloud.site:35455/douyu/2680501
+小艾大叔,http://www.douzhicloud.site:35455/douyu/9314668
+萝卜报告,http://www.douzhicloud.site:35455/douyu/953268
+
+
 春晚频道,#genre#
 1983年春晚,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
 1984年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
