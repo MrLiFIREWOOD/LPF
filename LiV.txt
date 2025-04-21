@@ -567,7 +567,6 @@ IHOT爱赛车,http://222.209.208.234:7088/rtp/239.93.42.20:5140
 唐诡之西行,http://www.douzhicloud.site:35455/huya/26355763
 玫瑰的故事,http://www.douzhicloud.site:35455/huya/23865142
 梦中的那片海,http://www.douzhicloud.site:35455/huya/26355765
-繁城之下,http://www.douzhicloud.site:35455/huya/51059595
 延禧攻略,http://www.douzhicloud.site:35455/huya/26355864
 忽必烈传奇,http://www.douzhicloud.site:35455/huya/30344039
 庆余年,http://www.douzhicloud.site:35455/huya/11352960
@@ -631,7 +630,7 @@ IHOT爱赛车,http://222.209.208.234:7088/rtp/239.93.42.20:5140
 脱口秀,http://www.douzhicloud.site:35455/huya/11352875
 现在就出发,http://www.douzhicloud.site:35455/huya/21059551
 德云斗笑社,http://www.douzhicloud.site:35455/huya/30080153
-吐槽大会,http://www.douzhicloud.site:35455/huya/51059555
+
 
 春晚频道,#genre#
 1983年春晚,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
