@@ -543,6 +543,9 @@ IHOT爱赛车,http://222.209.208.234:7088/rtp/239.93.42.20:5140
 新三国,http://www.douzhicloud.site:35455/douyu/12180551
 新水浒传,http://www.douzhicloud.site:35455/huya/11342384
 西游记续集,http://www.douzhicloud.site:35455/douyu/3113309
+新白娘子传奇,http://www.douzhicloud.site:35455/huya/26355768
+87版红楼梦,http://www.douzhicloud.site:35455/huya/30080221
+还珠格格,http://www.douzhicloud.site:35455/huya/30080241
 亮剑,http://www.douzhicloud.site:35455/huya/30080238
 雪豹,http://www.douzhicloud.site:35455/huya/29580970
 铁齿铜牙纪晓岚,http://www.douzhicloud.site:35455/huya/11342396
@@ -555,27 +558,39 @@ IHOT爱赛车,http://222.209.208.234:7088/rtp/239.93.42.20:5140
 
 柳舟计,http://www.douzhicloud.site:35455/huya/23860039
 与凤行,http://www.douzhicloud.site:35455/huya/26355866
+三体,http://www.douzhicloud.site:35455/huya/11352954
 大秦赋,http://www.douzhicloud.site:35455/huya/23903130
 永夜星河,http://www.douzhicloud.site:35455/huya/23734169
+觉醒年代,http://www.douzhicloud.site:35455/huya/29982653
+三十而已,http://www.douzhicloud.site:35455/huya/21059609
 流水迢迢,http://www.douzhicloud.site:35455/huya/23865036
 唐诡之西行,http://www.douzhicloud.site:35455/huya/26355763
 玫瑰的故事,http://www.douzhicloud.site:35455/huya/23865142
 梦中的那片海,http://www.douzhicloud.site:35455/huya/26355765
+繁城之下,http://www.douzhicloud.site:35455/huya/51059595
 延禧攻略,http://www.douzhicloud.site:35455/huya/26355864
+忽必烈传奇,http://www.douzhicloud.site:35455/huya/30344039
 庆余年,http://www.douzhicloud.site:35455/huya/11352960
 特种兵之火凤凰,http://www.douzhicloud.site:35455/huya/29982636
+特战荣耀,http://www.douzhicloud.site:35455/huya/30080252
+钢铁战队,http://www.douzhicloud.site:35455/huya/11336578
+风筝,http://www.douzhicloud.site:35455/huya/30080225
 陈情令,http://www.douzhicloud.site:35455/huya/29465862
 神探狄仁杰,http://www.douzhicloud.site:35455/douyu/12442176
+漫长的季节,http://www.douzhicloud.site:35455/huya/11342393
 鬼吹灯之精绝古城,http://www.douzhicloud.site:35455/huya/11352871
 鬼吹灯之怒晴湘西,http://www.douzhicloud.site:35455/huya/11602075
 鬼吹灯之龙岭迷窟,http://www.douzhicloud.site:35455/huya/29465863
 鬼吹灯之云南虫谷,http://www.douzhicloud.site:35455/huya/11352898
+来自星星的你,http://www.douzhicloud.site:35455/huya/20985814
+
 
 动画轮播,#genre#
 海绵宝宝,http://www.douzhicloud.site:35455/douyu/12400977
 迪士尼动画,http://www.douzhicloud.site:35455/huya/30080256
 名侦探柯南,http://www.douzhicloud.site:35455/huya/30080148
 柯南剧场版,http://www.douzhicloud.site:35455/huya/30080236
+四驱兄弟,http://www.douzhicloud.site:35455/huya/11352922
 中华小当家,http://www.douzhicloud.site:35455/huya/11342413
 厨神小当家,http://www.douzhicloud.site:35455/huya/24257300
 精灵宝可梦,http://www.douzhicloud.site:35455/huya/23749096
@@ -610,11 +625,13 @@ IHOT爱赛车,http://222.209.208.234:7088/rtp/239.93.42.20:5140
 贾玲经典小品,http://www.douzhicloud.site:35455/douyu/10419541
 游钓中国,http://www.douzhicloud.site:35455/douyu/791411
 世界未解之谜,http://www.douzhicloud.site:35455/douyu/9369468
-探奇录,http://www.douzhicloud.site:35455/douyu/9746763
 文曰小强,http://www.douzhicloud.site:35455/douyu/2680501
 小艾大叔,http://www.douzhicloud.site:35455/douyu/9314668
 萝卜报告,http://www.douzhicloud.site:35455/douyu/953268
-
+脱口秀,http://www.douzhicloud.site:35455/huya/11352875
+现在就出发,http://www.douzhicloud.site:35455/huya/21059551
+德云斗笑社,http://www.douzhicloud.site:35455/huya/30080153
+吐槽大会,http://www.douzhicloud.site:35455/huya/51059555
 
 春晚频道,#genre#
 1983年春晚,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
