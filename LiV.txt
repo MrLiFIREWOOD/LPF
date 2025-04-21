@@ -552,7 +552,7 @@ IHOT爱赛车,http://222.209.208.234:7088/rtp/239.93.42.20:5140
 士兵突击,http://www.douzhicloud.site:35455/huya/11342430
 笑傲江湖,http://www.douzhicloud.site:35455/huya/26355790
 神雕侠侣,http://www.douzhicloud.site:35455/huya/11352964
-天龙八部,http://www.douzhicloud.site:35455/huya/20985816
+03版天龙八部,http://www.douzhicloud.site:35455/huya/20985816
 倚天屠龙记,http://www.douzhicloud.site:35455/huya/11342403
 康熙王朝,http://www.douzhicloud.site:35455/huya/11352940
 
@@ -560,6 +560,7 @@ IHOT爱赛车,http://222.209.208.234:7088/rtp/239.93.42.20:5140
 与凤行,http://www.douzhicloud.site:35455/huya/26355866
 三体,http://www.douzhicloud.site:35455/huya/11352954
 大秦赋,http://www.douzhicloud.site:35455/huya/23903130
+梦华录,http://www.douzhicloud.site:35455/huya/11336590
 永夜星河,http://www.douzhicloud.site:35455/huya/23734169
 觉醒年代,http://www.douzhicloud.site:35455/huya/29982653
 三十而已,http://www.douzhicloud.site:35455/huya/21059609
@@ -614,6 +615,8 @@ IHOT爱赛车,http://222.209.208.234:7088/rtp/239.93.42.20:5140
 贺岁电影,http://www.douzhicloud.site:35455/huya/11601986
 狄仁杰电影,http://www.douzhicloud.site:35455/huya/30080229
 喜剧电影,http://www.douzhicloud.site:35455/huya/11602031
+科幻电影,http://www.douzhicloud.site:35455/huya/21059554
+
 
 
 综艺记录片轮播,#genre#
@@ -630,6 +633,7 @@ IHOT爱赛车,http://222.209.208.234:7088/rtp/239.93.42.20:5140
 脱口秀,http://www.douzhicloud.site:35455/huya/11352875
 现在就出发,http://www.douzhicloud.site:35455/huya/21059551
 德云斗笑社,http://www.douzhicloud.site:35455/huya/30080153
+风味人间,http://www.douzhicloud.site:35455/huya/26355760
 
 
 春晚频道,#genre#
