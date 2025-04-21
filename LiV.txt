@@ -615,7 +615,6 @@ IHOT爱赛车,http://222.209.208.234:7088/rtp/239.93.42.20:5140
 贺岁电影,http://www.douzhicloud.site:35455/huya/11601986
 狄仁杰电影,http://www.douzhicloud.site:35455/huya/30080229
 喜剧电影,http://www.douzhicloud.site:35455/huya/11602031
-科幻电影,http://www.douzhicloud.site:35455/huya/21059554
 
 
 
