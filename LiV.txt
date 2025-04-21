@@ -584,6 +584,9 @@ IHOT爱赛车,http://222.209.208.234:7088/rtp/239.93.42.20:5140
 动画电影剧场版,http://www.douzhicloud.site:35455/huya/11352878
 合家欢动画,http://www.douzhicloud.site:35455/huya/11601958
 摩登大自然,http://www.douzhicloud.site:35455/douyu/9653320
+国产动画,http://www.douzhicloud.site:35455/huya/27175393
+国风动画,http://www.douzhicloud.site:35455/huya/30080242
+
 
 电影轮播,#genre#
 周星驰电影,http://www.douzhicloud.site:35455/huya/11342412
@@ -597,6 +600,7 @@ IHOT爱赛车,http://222.209.208.234:7088/rtp/239.93.42.20:5140
 贺岁电影,http://www.douzhicloud.site:35455/huya/11601986
 狄仁杰电影,http://www.douzhicloud.site:35455/huya/30080229
 喜剧电影,http://www.douzhicloud.site:35455/huya/11602031
+
 
 春晚频道,#genre#
 1983年春晚,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
