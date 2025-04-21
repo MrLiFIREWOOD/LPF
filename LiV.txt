@@ -587,6 +587,7 @@ IHOT爱赛车,http://222.209.208.234:7088/rtp/239.93.42.20:5140
 功夫电影,http://www.douzhicloud.site:35455/huya/11352941
 贺岁电影,http://www.douzhicloud.site:35455/huya/11601986
 狄仁杰电影,http://www.douzhicloud.site:35455/huya/30080229
+喜剧电影,http://www.douzhicloud.site:35455/huya/11602031
 
 春晚频道,#genre#
 1983年春晚,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
