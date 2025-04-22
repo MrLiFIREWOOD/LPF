@@ -1,4 +1,77 @@
 央视,#genre#
+CCTV1,webview://https://www.yangshipin.cn/tv/home?pid=600001859
+CCTV2,webview://https://www.yangshipin.cn/tv/home?pid=600001800
+CCTV3,webview://https://www.yangshipin.cn/tv/home?pid=600001801
+CCTV4,webview://https://www.yangshipin.cn/tv/home?pid=600001814
+CCTV5,webview://https://www.yangshipin.cn/tv/home?pid=600001818
+CCTV5+,webview://https://www.yangshipin.cn/tv/home?pid=600001817
+CCTV6,webview://https://www.yangshipin.cn/tv/home?pid=600108442
+CCTV7,webview://https://www.yangshipin.cn/tv/home?pid=600004092
+CCTV8,webview://https://www.yangshipin.cn/tv/home?pid=600001803
+CCTV9,webview://https://www.yangshipin.cn/tv/home?pid=600004078
+CCTV10,webview://https://www.yangshipin.cn/tv/home?pid=600001805
+CCTV11,webview://https://www.yangshipin.cn/tv/home?pid=600001806
+CCTV12,webview://https://www.yangshipin.cn/tv/home?pid=600001807
+CCTV13,webview://https://www.yangshipin.cn/tv/home?pid=600001811
+CCTV14,webview://https://www.yangshipin.cn/tv/home?pid=600001809
+CCTV15,webview://https://www.yangshipin.cn/tv/home?pid=600001815
+CCTV16,webview://https://www.yangshipin.cn/tv/home?pid=600099502
+CCTV17,webview://https://www.yangshipin.cn/tv/home?pid=600001810
+CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
+CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
+CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099658
+CCTV第一剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099655
+CCTV怀旧剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099620
+CCTV世界地理,webview://https://www.yangshipin.cn/tv/home?pid=600099637
+CCTV风云音乐,webview://https://www.yangshipin.cn/tv/home?pid=600099660
+CCTV兵器科技,webview://https://www.yangshipin.cn/tv/home?pid=600099649
+CCTV风云足球,webview://https://www.yangshipin.cn/tv/home?pid=600099636
+CCTV高尔夫网球,webview://https://www.yangshipin.cn/tv/home?pid=600099659
+CCTV女性时尚,webview://https://www.yangshipin.cn/tv/home?pid=600099650
+CCTV央视文化精品,webview://https://www.yangshipin.cn/tv/home?pid=600099653
+CCTV央视台球,webview://https://www.yangshipin.cn/tv/home?pid=600099652
+CCTV电视指南,webview://https://www.yangshipin.cn/tv/home?pid=600099656
+CCTV卫生健康,webview://https://www.yangshipin.cn/tv/home?pid=600099651
+CGTN,webview://https://www.yangshipin.cn/tv/home?pid=600014550
+CGTN外语纪录,webview://https://www.yangshipin.cn/tv/home?pid=600084781
+中国教育电视台1频道,webview://https://www.yangshipin.cn/tv/home?pid=600171827
+
+卫视,#genre#
+江苏卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002521
+广西卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002509
+四川卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002516
+湖南卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002475
+浙江卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002520
+东方卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002483
+北京卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002309
+天津卫视,webview://https://www.yangshipin.cn/tv/home?pid=600152137
+辽宁卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002505
+安徽卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002532
+黑龙江卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002498
+广东卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002485
+深圳卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002481
+湖北卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002508
+吉林卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190405
+山东卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002513
+江西卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002503
+河南卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002525
+河北卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002493
+甘肃卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190408
+重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
+东南卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002484
+云南卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190402
+贵州卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002490
+海南卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002506
+陕西卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190400
+山西卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190407
+内蒙古卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190401
+青海卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190406
+西藏卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190403
+新疆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600152138
+兵团卫视,webview://https://www.yangshipin.cn/tv/home?pid=600193252
+
+
+央视,#genre#
 CCTV1,http://222.209.208.234:7788/rtp/239.93.0.58:5140
 CCTV2,http://222.209.208.234:7788/rtp/239.93.1.23:6000
 CCTV3,http://222.209.208.234:7788/rtp/239.93.0.109:5140
@@ -143,7 +216,33 @@ IHOT爱赛车,http://222.209.208.234:7788/rtp/239.93.42.20:5140
 凤凰中文,http://222.209.208.234:7788/rtp/239.93.0.162:2192
 凤凰资讯,http://222.209.208.234:7788/rtp/239.93.0.118:2191
 
-
+国际,#genre#
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰香港,http://php.jdshipin.com:8888/TVOD/iptv.php?id=fhhk
+凤凰中文,http://aktv_stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+凤凰香港,http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+CNN美国有线电视新闻网,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+CNN美国有线电视新闻网,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+CNN美国有线电视新闻网,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+BBC News Asia Pacific英国广播公司,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+TV5Monde_Pacifique法语电视网络,https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+AL Jazeera阿拉伯半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+REDBULL TV红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+REDBULL TV红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+FOX美国福克斯商业,http://41.205.93.154/FOXBUSINESS/index.m3u8
+FOX News美国福克斯新闻台,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+FOX News美国福克斯新闻台,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+FOX News美国福克斯新闻台,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+FOX美国福克斯star,http://50.7.137.106:8080/FOX/index.m3u8?token=test
+NHK World Premium日本放送日语国际,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+CNA新加坡亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+CNA新加坡亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
+Travelxp,https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
+GOLFPASS,https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_golfpass_001.m3u8?ads.caid=NBCUGolfpass&ads.csid=samsungtvplus_us_nbcugolfpass_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2794&ads.xumo_contentName=nbcugolfpass&ads.xumo_providerId=2794&ads.xumo_providerName=nbcugolfpass&ads.xumo_channelId=9999550&ads.xumo_channelName=Golfpass&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+Kidoodle.TV,https://06fda8bb401f4c0abb854097c0a3b3d6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_KidoodleTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=414&ads.wurl_name=KidoodleTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
 
 央视,#genre#
 CCTV1,http://171.88.64.229:3000/rtp/239.93.0.58:5140
@@ -581,105 +680,6 @@ IHOT爱赛车,http://171.213.192.227:8888/rtp/239.93.42.20:5140
 凤凰中文,http://171.213.192.227:8888/rtp/239.93.0.162:2192
 凤凰资讯,http://171.213.192.227:8888/rtp/239.93.0.118:2191
 
-央视,#genre#
-CCTV1,webview://https://www.yangshipin.cn/tv/home?pid=600001859
-CCTV2,webview://https://www.yangshipin.cn/tv/home?pid=600001800
-CCTV3,webview://https://www.yangshipin.cn/tv/home?pid=600001801
-CCTV4,webview://https://www.yangshipin.cn/tv/home?pid=600001814
-CCTV5,webview://https://www.yangshipin.cn/tv/home?pid=600001818
-CCTV5+,webview://https://www.yangshipin.cn/tv/home?pid=600001817
-CCTV6,webview://https://www.yangshipin.cn/tv/home?pid=600108442
-CCTV7,webview://https://www.yangshipin.cn/tv/home?pid=600004092
-CCTV8,webview://https://www.yangshipin.cn/tv/home?pid=600001803
-CCTV9,webview://https://www.yangshipin.cn/tv/home?pid=600004078
-CCTV10,webview://https://www.yangshipin.cn/tv/home?pid=600001805
-CCTV11,webview://https://www.yangshipin.cn/tv/home?pid=600001806
-CCTV12,webview://https://www.yangshipin.cn/tv/home?pid=600001807
-CCTV13,webview://https://www.yangshipin.cn/tv/home?pid=600001811
-CCTV14,webview://https://www.yangshipin.cn/tv/home?pid=600001809
-CCTV15,webview://https://www.yangshipin.cn/tv/home?pid=600001815
-CCTV16,webview://https://www.yangshipin.cn/tv/home?pid=600099502
-CCTV17,webview://https://www.yangshipin.cn/tv/home?pid=600001810
-CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
-CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
-CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099658
-CCTV第一剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099655
-CCTV怀旧剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099620
-CCTV世界地理,webview://https://www.yangshipin.cn/tv/home?pid=600099637
-CCTV风云音乐,webview://https://www.yangshipin.cn/tv/home?pid=600099660
-CCTV兵器科技,webview://https://www.yangshipin.cn/tv/home?pid=600099649
-CCTV风云足球,webview://https://www.yangshipin.cn/tv/home?pid=600099636
-CCTV高尔夫网球,webview://https://www.yangshipin.cn/tv/home?pid=600099659
-CCTV女性时尚,webview://https://www.yangshipin.cn/tv/home?pid=600099650
-CCTV央视文化精品,webview://https://www.yangshipin.cn/tv/home?pid=600099653
-CCTV央视台球,webview://https://www.yangshipin.cn/tv/home?pid=600099652
-CCTV电视指南,webview://https://www.yangshipin.cn/tv/home?pid=600099656
-CCTV卫生健康,webview://https://www.yangshipin.cn/tv/home?pid=600099651
-CGTN,webview://https://www.yangshipin.cn/tv/home?pid=600014550
-CGTN外语纪录,webview://https://www.yangshipin.cn/tv/home?pid=600084781
-中国教育电视台1频道,webview://https://www.yangshipin.cn/tv/home?pid=600171827
-
-卫视,#genre#
-江苏卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002521
-广西卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002509
-四川卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002516
-湖南卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002475
-浙江卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002520
-东方卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002483
-北京卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002309
-天津卫视,webview://https://www.yangshipin.cn/tv/home?pid=600152137
-辽宁卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002505
-安徽卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002532
-黑龙江卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002498
-广东卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002485
-深圳卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002481
-湖北卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002508
-吉林卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190405
-山东卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002513
-江西卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002503
-河南卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002525
-河北卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002493
-甘肃卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190408
-重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
-东南卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002484
-云南卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190402
-贵州卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002490
-海南卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002506
-陕西卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190400
-山西卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190407
-内蒙古卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190401
-青海卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190406
-西藏卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190403
-新疆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600152138
-兵团卫视,webview://https://www.yangshipin.cn/tv/home?pid=600193252
-
-国际,#genre#
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰香港,http://php.jdshipin.com:8888/TVOD/iptv.php?id=fhhk
-凤凰中文,http://aktv_stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-凤凰资讯,http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-凤凰香港,http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-CNN美国有线电视新闻网,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-CNN美国有线电视新闻网,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-CNN美国有线电视新闻网,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-BBC News Asia Pacific英国广播公司,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-TV5Monde_Pacifique法语电视网络,https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-AL Jazeera阿拉伯半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-REDBULL TV红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-REDBULL TV红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-FOX美国福克斯商业,http://41.205.93.154/FOXBUSINESS/index.m3u8
-FOX News美国福克斯新闻台,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-FOX News美国福克斯新闻台,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-FOX News美国福克斯新闻台,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-FOX美国福克斯star,http://50.7.137.106:8080/FOX/index.m3u8?token=test
-NHK World Premium日本放送日语国际,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-CNA新加坡亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-CNA新加坡亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
-Travelxp,https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
-GOLFPASS,https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_golfpass_001.m3u8?ads.caid=NBCUGolfpass&ads.csid=samsungtvplus_us_nbcugolfpass_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2794&ads.xumo_contentName=nbcugolfpass&ads.xumo_providerId=2794&ads.xumo_providerName=nbcugolfpass&ads.xumo_channelId=9999550&ads.xumo_channelName=Golfpass&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-Kidoodle.TV,https://06fda8bb401f4c0abb854097c0a3b3d6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_KidoodleTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=414&ads.wurl_name=KidoodleTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
 
 
 电视剧轮播,#genre#
