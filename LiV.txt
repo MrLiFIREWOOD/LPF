@@ -558,6 +558,7 @@ IHOT爱赛车,http://171.213.139.204:9100/rtp/239.93.42.20:5140
 康熙王朝,http://www.douzhicloud.site:35455/huya/11352940
 雍正王朝,http://www.douzhicloud.site:35455/douyu/6911044
 马大帅,http://www.douzhicloud.site:35455/huya/23650804
+大盛魁,http://www.douzhicloud.site:35455/huya/30292086
 
 
 
