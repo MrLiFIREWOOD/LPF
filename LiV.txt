@@ -542,7 +542,6 @@ IHOT爱赛车,http://171.213.139.204:9100/rtp/239.93.42.20:5140
 三国演义,http://www.douzhicloud.site:35455/huya/11602081
 新三国,http://www.douzhicloud.site:35455/douyu/12180551
 新水浒传,http://www.douzhicloud.site:35455/huya/11342384
-西游记,http://www.douzhicloud.site:35455/huya/26355861
 西游记续集,http://www.douzhicloud.site:35455/douyu/3113309
 新白娘子传奇,http://www.douzhicloud.site:35455/huya/26355768
 87版红楼梦,http://www.douzhicloud.site:35455/huya/30080221
