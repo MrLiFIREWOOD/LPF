@@ -636,7 +636,6 @@ IHOT爱赛车,http://171.213.139.204:9100/rtp/239.93.42.20:5140
 文曰小强,http://www.douzhicloud.site:35455/douyu/2680501
 小艾大叔,http://www.douzhicloud.site:35455/douyu/9314668
 萝卜报告,http://www.douzhicloud.site:35455/douyu/953268
-吐槽大会,http://www.douzhicloud.site:35455/huya/51059555
 脱口秀大会,http://www.douzhicloud.site:35455/huya/11352875
 现在就出发,http://www.douzhicloud.site:35455/huya/21059551
 王牌对王牌,http://www.douzhicloud.site:35455/huya/11352905
