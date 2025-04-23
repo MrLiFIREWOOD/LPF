@@ -601,6 +601,7 @@ IHOT爱赛车,http://171.213.139.204:9100/rtp/239.93.42.20:5140
 哆啦A梦,http://www.douzhicloud.site:35455/huya/11601963
 动画电影剧场版,http://www.douzhicloud.site:35455/huya/11352878
 合家欢动画,http://www.douzhicloud.site:35455/huya/11601958
+动漫推荐,http://www.douzhicloud.site:35455/douyu/5187099
 摩登大自然,http://www.douzhicloud.site:35455/douyu/9653320
 国产动画,http://www.douzhicloud.site:35455/huya/30080188
 国风动画,http://www.douzhicloud.site:35455/huya/30080242
