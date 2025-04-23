@@ -570,7 +570,7 @@ IHOT爱赛车,http://171.213.139.204:9100/rtp/239.93.42.20:5140
 觉醒年代,http://www.douzhicloud.site:35455/huya/29982653
 三十而已,http://www.douzhicloud.site:35455/huya/21059609
 流水迢迢,http://www.douzhicloud.site:35455/huya/23865036
-唐诡之西行,http://www.douzhicloud.site:35455/huya/26355763
+唐朝诡事录之西行,http://www.douzhicloud.site:35455/huya/26355763
 玫瑰的故事,http://www.douzhicloud.site:35455/huya/23865142
 梦中的那片海,http://www.douzhicloud.site:35455/huya/26355765
 延禧攻略,http://www.douzhicloud.site:35455/huya/26355864
@@ -580,6 +580,7 @@ IHOT爱赛车,http://171.213.139.204:9100/rtp/239.93.42.20:5140
 特战荣耀,http://www.douzhicloud.site:35455/huya/30080252
 钢铁战队,http://www.douzhicloud.site:35455/huya/11336578
 风筝,http://www.douzhicloud.site:35455/huya/30080225
+问心,http://www.douzhicloud.site:35455/huya/11352890
 陈情令,http://www.douzhicloud.site:35455/huya/29465862
 神探狄仁杰,http://www.douzhicloud.site:35455/douyu/12442176
 漫长的季节,http://www.douzhicloud.site:35455/huya/11342393
@@ -606,7 +607,7 @@ IHOT爱赛车,http://171.213.139.204:9100/rtp/239.93.42.20:5140
 摩登大自然,http://www.douzhicloud.site:35455/douyu/9653320
 国产动画,http://www.douzhicloud.site:35455/huya/30080188
 国风动画,http://www.douzhicloud.site:35455/huya/30080242
-
+火影忍者,http://www.douzhicloud.site:35455/huya/29465866
 
 电影轮播,#genre#
 周星驰电影,http://www.douzhicloud.site:35455/huya/11342412
@@ -635,9 +636,12 @@ IHOT爱赛车,http://171.213.139.204:9100/rtp/239.93.42.20:5140
 文曰小强,http://www.douzhicloud.site:35455/douyu/2680501
 小艾大叔,http://www.douzhicloud.site:35455/douyu/9314668
 萝卜报告,http://www.douzhicloud.site:35455/douyu/953268
-脱口秀,http://www.douzhicloud.site:35455/huya/11352875
+吐槽大会,http://www.douzhicloud.site:35455/huya/51059555
+脱口秀大会,http://www.douzhicloud.site:35455/huya/11352875
 现在就出发,http://www.douzhicloud.site:35455/huya/21059551
+王牌对王牌,http://www.douzhicloud.site:35455/huya/11352905
 德云斗笑社,http://www.douzhicloud.site:35455/huya/30080153
+喜人奇妙夜,http://www.douzhicloud.site:35455/huya/30080196
 风味人间,http://www.douzhicloud.site:35455/huya/26355760
 河西走廊,http://www.douzhicloud.site:35455/huya/23728674
 爱笑会议室,http://www.douzhicloud.site:35455/douyu/9375430
