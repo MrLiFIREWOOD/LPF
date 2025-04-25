@@ -505,6 +505,7 @@ IHOT爱赛车,http://118.112.63.173:6066/rtp/239.93.42.20:5140
 三体,http://www.douzhicloud.site:35455/huya/11352954
 大秦赋,http://www.douzhicloud.site:35455/huya/23903130
 梦华录,http://www.douzhicloud.site:35455/huya/11336590
+如懿传,http://www.douzhicloud.site:35455/huya/29465868
 永夜星河,http://www.douzhicloud.site:35455/huya/23734169
 觉醒年代,http://www.douzhicloud.site:35455/huya/29982653
 三十而已,http://www.douzhicloud.site:35455/huya/21059609
@@ -536,7 +537,6 @@ IHOT爱赛车,http://118.112.63.173:6066/rtp/239.93.42.20:5140
 名侦探柯南,http://www.douzhicloud.site:35455/huya/30080148
 柯南剧场版,http://www.douzhicloud.site:35455/huya/30080236
 四驱兄弟,http://www.douzhicloud.site:35455/huya/11352922
-圣斗士星矢,http://www.douzhicloud.site:35455/douyu/12501387
 中华小当家,http://www.douzhicloud.site:35455/huya/11342413
 厨神小当家,http://www.douzhicloud.site:35455/huya/24257300
 精灵宝可梦,http://www.douzhicloud.site:35455/huya/23749096
@@ -574,21 +574,20 @@ IHOT爱赛车,http://118.112.63.173:6066/rtp/239.93.42.20:5140
 辽视欢乐大集锦,http://www.douzhicloud.site:35455/douyu/9403712
 开心麻花,http://www.douzhicloud.site:35455/douyu/10153463
 贾玲经典小品,http://www.douzhicloud.site:35455/douyu/10419541
-游钓中国,http://www.douzhicloud.site:35455/douyu/791411
-世界未解之谜,http://www.douzhicloud.site:35455/douyu/9369468
-文曰小强,http://www.douzhicloud.site:35455/douyu/2680501
-小艾大叔,http://www.douzhicloud.site:35455/douyu/9314668
-萝卜报告,http://www.douzhicloud.site:35455/douyu/953268
+荒野求生,http://www.douzhicloud.site:35455/douyu/4332
 脱口秀大会,http://www.douzhicloud.site:35455/huya/11352875
 现在就出发,http://www.douzhicloud.site:35455/huya/21059551
 王牌对王牌,http://www.douzhicloud.site:35455/huya/11352905
 德云斗笑社,http://www.douzhicloud.site:35455/huya/30080153
 喜人奇妙夜,http://www.douzhicloud.site:35455/huya/30080196
+五哈,http://www.douzhicloud.site:35455/huya/30080247
 风味人间,http://www.douzhicloud.site:35455/huya/26355760
 河西走廊,http://www.douzhicloud.site:35455/huya/23728674
 爱笑会议室,http://www.douzhicloud.site:35455/douyu/9375430
 超级变变变,http://www.douzhicloud.site:35455/huya/30080137
-
+谭卓依健身操,http://www.douzhicloud.site:35455/huya/24099069
+一修铁拳健身,http://www.douzhicloud.site:35455/huya/23959751
+HIIT燃脂,http://www.douzhicloud.site:35455/huya/18501110
 
 
 春晚频道,#genre#
