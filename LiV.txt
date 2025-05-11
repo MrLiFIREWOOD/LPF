@@ -162,6 +162,8 @@ IHOT爱赛车,http://222.209.208.234:7788/rtp/239.93.42.20:5140
 国际,#genre#
 凤凰中文,http://222.209.208.234:7788/rtp/239.93.0.162:2192
 凤凰资讯,http://222.209.208.234:7788/rtp/239.93.0.118:2191
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 CNN美国有线电视新闻网,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN美国有线电视新闻网,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
