@@ -705,11 +705,6 @@ CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 新疆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600152138
 兵团卫视,webview://https://www.yangshipin.cn/tv/home?pid=600193252
 
-数字频道,#genre#
-CHC家庭电影,http://eastscreen.tv/ooooo.php?id=chcjt
-CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
-CHD影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
-求索纪录,http://eastscreen.tv/ooooo.php?id=qsjl
 
 电视剧轮播,#genre#
 三国演义,http://www.douzhicloud.site:35455/huya/11602081
