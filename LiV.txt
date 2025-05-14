@@ -632,6 +632,18 @@ IHOT爱赛车,http://772765777.xyz:27777/rtp/239.93.42.20:5140
 
 
 央视,#genre#
+CCTV1,http://eastscreen.tv/ooooo.php?id=CCTV1HD
+CCTV2,http://eastscreen.tv/ooooo.php?id=CCTV2HD
+CCTV3,http://eastscreen.tv/ooooo.php?id=CCTV3HD
+CCTV5,http://eastscreen.tv/ooooo.php?id=CCTV5HD
+CTV5+,http://eastscreen.tv/ooooo.php?id=CCTV5+HD
+CCTV6,http://eastscreen.tv/ooooo.php?id=CCTV6HD
+CCTV7,http://eastscreen.tv/ooooo.php?id=CCTV7HD
+CCTV8,http://eastscreen.tv/ooooo.php?id=CCTV8HD
+CCTV9,http://eastscreen.tv/ooooo.php?id=CCTV9HD
+CCTV13,http://eastscreen.tv/ooooo.php?id=CCTV13HD
+CCTV16,http://eastscreen.tv/ooooo.php?id=CCTV16HD
+
 CCTV1,webview://https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV2,webview://https://www.yangshipin.cn/tv/home?pid=600001800
 CCTV3,webview://https://www.yangshipin.cn/tv/home?pid=600001801
@@ -652,7 +664,14 @@ CCTV16,webview://https://www.yangshipin.cn/tv/home?pid=600099502
 CCTV17,webview://https://www.yangshipin.cn/tv/home?pid=600001810
 CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 
+
+
 卫视,#genre#
+湖南卫视,http://eastscreen.tv/ooooo.php?id=hnwshd
+浙江卫视,http://eastscreen.tv/ooooo.php?id=zjwshd
+东方卫视,http://eastscreen.tv/ooooo.php?id=dfwshd
+广东卫视,http://eastscreen.tv/ooooo.php?id=gdwshd
+
 江苏卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002521
 广西卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002509
 四川卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002516
@@ -686,11 +705,17 @@ CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 新疆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600152138
 兵团卫视,webview://https://www.yangshipin.cn/tv/home?pid=600193252
 
+数字频道,#genre#
+CHC家庭电影,http://eastscreen.tv/ooooo.php?id=chcjt
+CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
+CHD影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
+求索纪录,http://eastscreen.tv/ooooo.php?id=qsjl
 
 电视剧轮播,#genre#
 三国演义,http://www.douzhicloud.site:35455/huya/11602081
 新三国,http://www.douzhicloud.site:35455/douyu/12180551
 新水浒传,http://www.douzhicloud.site:35455/huya/11342384
+西游记,http://live.iill.top/huya.php?id=26355861
 西游记续集,http://www.douzhicloud.site:35455/douyu/3113309
 新白娘子传奇,http://www.douzhicloud.site:35455/huya/26355768
 87版红楼梦,http://www.douzhicloud.site:35455/huya/30080221
@@ -711,6 +736,7 @@ CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 
 
 柳舟计,http://www.douzhicloud.site:35455/huya/23860039
+雪中悍刀行,http://live.nctv.top/huya.php?id=11336592
 与凤行,http://www.douzhicloud.site:35455/huya/26355866
 三体,http://www.douzhicloud.site:35455/huya/11352954
 大秦赋,http://www.douzhicloud.site:35455/huya/23903130
