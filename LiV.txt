@@ -895,5 +895,5 @@ HIIT燃脂,http://www.douzhicloud.site:35455/huya/18501110
 咪咕视频_8M1080_咪视通-43,http://sykes.i234.me:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-44,http://sykes.i234.me:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-45,http://sykes.i234.me:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
-咪咕4K,http://sykes.i234.me:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
-咪咕4K,http://sykes.i234.me:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
+咪咕视频4K- 46,http://sykes.i234.me:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
+咪咕视频4K-47,http://sykes.i234.me:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
