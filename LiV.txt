@@ -632,18 +632,6 @@ IHOT爱赛车,http://772765777.xyz:27777/rtp/239.93.42.20:5140
 
 
 央视,#genre#
-CCTV1,http://eastscreen.tv/ooooo.php?id=CCTV1HD
-CCTV2,http://eastscreen.tv/ooooo.php?id=CCTV2HD
-CCTV3,http://eastscreen.tv/ooooo.php?id=CCTV3HD
-CCTV5,http://eastscreen.tv/ooooo.php?id=CCTV5HD
-CTV5+,http://eastscreen.tv/ooooo.php?id=CCTV5+HD
-CCTV6,http://eastscreen.tv/ooooo.php?id=CCTV6HD
-CCTV7,http://eastscreen.tv/ooooo.php?id=CCTV7HD
-CCTV8,http://eastscreen.tv/ooooo.php?id=CCTV8HD
-CCTV9,http://eastscreen.tv/ooooo.php?id=CCTV9HD
-CCTV13,http://eastscreen.tv/ooooo.php?id=CCTV13HD
-CCTV16,http://eastscreen.tv/ooooo.php?id=CCTV16HD
-
 CCTV1,webview://https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV2,webview://https://www.yangshipin.cn/tv/home?pid=600001800
 CCTV3,webview://https://www.yangshipin.cn/tv/home?pid=600001801
@@ -667,11 +655,6 @@ CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 
 
 卫视,#genre#
-湖南卫视,http://eastscreen.tv/ooooo.php?id=hnwshd
-浙江卫视,http://eastscreen.tv/ooooo.php?id=zjwshd
-东方卫视,http://eastscreen.tv/ooooo.php?id=dfwshd
-广东卫视,http://eastscreen.tv/ooooo.php?id=gdwshd
-
 江苏卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002521
 广西卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002509
 四川卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002516
