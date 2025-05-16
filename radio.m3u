@@ -65,9 +65,9 @@ http://live.ximalaya.com/radio-first-page-app/live/1247/24.m3u8
 http://live.ximalaya.com/radio-first-page-app/live/1003/24.m3u8
 #EXTINF:-1 tvg-name="双流空港之声" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/双流空港之声.jpg" radio="true" group-title="电台",双流空港之声
 https://radio.0472.org/?id=2255
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/fhzx.png" group-title="电台",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/凤凰资讯.jpg" radio="true" group-title="电台",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTHK普通话" tvg-logo="" group-title="电台",RTHK普通话
+#EXTINF:-1 tvg-name="RTHK普通话" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/RTHK普通话.jpg" radio="true" group-title="电台",RTHK普通话
 https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv13.png" group-title="电台",CCTV-13 新闻
 https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
@@ -97,9 +97,9 @@ http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
 http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
 #EXTINF:-1 tvg-name="天籁古典" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/天籁古典.png" radio="true" group-title="电台",天籁古典
 http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
-#EXTINF:-1 tvg-name="动感音乐" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/动感音乐台.png" radio="true" group-title="电台",动感音乐
+#EXTINF:-1 tvg-name="动感音乐" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/动感音乐.png" radio="true" group-title="电台",动感音乐
 http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
-#EXTINF:-1 tvg-name="摇滚天空" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/摇滚天空台.png" radio="true" group-title="电台",摇滚天空
+#EXTINF:-1 tvg-name="摇滚天空" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/摇滚天空.png" radio="true" group-title="电台",摇滚天空
 http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
 #EXTINF:-1 tvg-name="国乐悠扬" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/国乐悠扬台.png" radio="true" group-title="电台",国乐悠扬
 http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
