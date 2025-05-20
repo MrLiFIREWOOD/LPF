@@ -667,7 +667,6 @@ CHC家庭影院,http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0i
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
 中天新闻,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
-寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
 
 CNN美国有线电视新闻网,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN美国有线电视新闻网,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
