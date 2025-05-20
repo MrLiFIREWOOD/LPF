@@ -652,8 +652,8 @@ CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 
 数字频道,#genre#
 CHC影迷电影,http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CHC动作电影,http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CHC家庭影院,http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CHC动作电影,http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CHC家庭影院,http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 
 国际,#genre#
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
