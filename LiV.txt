@@ -635,103 +635,6 @@ CCTV14,http://sport.pendy.dpdns.org/migu/624878440?token=BCDxUPC2aE0y0iz8JYzYhWA
 CCTV15,http://sport.pendy.dpdns.org/migu/673168223?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV17,http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 
-CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
-CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
-CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-
-卫视,#genre#
-江苏卫视,http://sport.pendy.dpdns.org/migu/623899368?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-东方卫视,http://sport.pendy.dpdns.org/migu/651632648?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-广东卫视,http://sport.pendy.dpdns.org/migu/608831231?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-东南卫视,http://sport.pendy.dpdns.org/migu/849116810?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-海南卫视,http://sport.pendy.dpdns.org/migu/947472502?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-河南卫视,http://sport.pendy.dpdns.org/migu/790187291?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-湖北卫视,http://sport.pendy.dpdns.org/migu/947472496?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-江西卫视,http://sport.pendy.dpdns.org/migu/783847495?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-吉林卫视,http://sport.pendy.dpdns.org/migu/947472500?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-陕西卫视,http://sport.pendy.dpdns.org/migu/738910838?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-青海卫视,http://sport.pendy.dpdns.org/migu/947472506?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-
-北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
-北京文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
-北京体育,http://iptv.huuc.edu.cn/hls/btv6hd.m3u8
-北京影视,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
-北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
-北京纪实,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
-湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
-浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
-江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
-东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
-安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
-黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
-辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
-深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
-广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
-天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
-湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
-山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
-重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
-四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
-金鹰纪实,http://iptv.huuc.edu.cn/hls/gedocu.m3u8
-东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
-河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
-江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
-
-
-数字频道,#genre#
-CHC影迷电影,http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CHC动作电影,http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CHC家庭影院,http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-上海新闻综合,http://sport.pendy.dpdns.org/migu/651632657?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-第一财经,http://sport.pendy.dpdns.org/migu/608780988?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-
-
-国际,#genre#
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
-凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
-凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
-凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
-TVB翡翠台,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
-民视,rtmp://f13h.mine.nu/sat/tv051
-台视,rtmp://f13h.mine.nu/sat/tv071
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-中天新闻,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
-
-CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
-BBC News Asia Pacific,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-CBC News,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
-ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
-NBC News Now,https://jmp2.uk/sam-GBBB1500004LG.m3u8
-WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-FOX News,https://jmp2.uk/sam-USBA300024TN.m3u8
-AL Jazeera阿拉伯半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-CNA新加坡亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-FOX美国福克斯商业,http://41.205.93.154/FOXBUSINESS/index.m3u8
-TV5Monde_Pacifique法语电视网络,https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-NHK World Premium日本放送日语国际,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-REDBULL TV红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-REDBULL TV红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-Travelxp,https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
-GOLFPASS,https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_golfpass_001.m3u8?ads.caid=NBCUGolfpass&ads.csid=samsungtvplus_us_nbcugolfpass_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2794&ads.xumo_contentName=nbcugolfpass&ads.xumo_providerId=2794&ads.xumo_providerName=nbcugolfpass&ads.xumo_channelId=9999550&ads.xumo_channelName=Golfpass&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-Kidoodle.TV,https://06fda8bb401f4c0abb854097c0a3b3d6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_KidoodleTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=414&ads.wurl_name=KidoodleTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
-Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-
-央视,#genre#
 CCTV1,webview://https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV2,webview://https://www.yangshipin.cn/tv/home?pid=600001800
 CCTV3,webview://https://www.yangshipin.cn/tv/home?pid=600001801
@@ -752,9 +655,20 @@ CCTV16,webview://https://www.yangshipin.cn/tv/home?pid=600099502
 CCTV17,webview://https://www.yangshipin.cn/tv/home?pid=600001810
 CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 
-
-
 卫视,#genre#
+江苏卫视,http://sport.pendy.dpdns.org/migu/623899368?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+东方卫视,http://sport.pendy.dpdns.org/migu/651632648?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+广东卫视,http://sport.pendy.dpdns.org/migu/608831231?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+东南卫视,http://sport.pendy.dpdns.org/migu/849116810?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+海南卫视,http://sport.pendy.dpdns.org/migu/947472502?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+河南卫视,http://sport.pendy.dpdns.org/migu/790187291?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+湖北卫视,http://sport.pendy.dpdns.org/migu/947472496?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+江西卫视,http://sport.pendy.dpdns.org/migu/783847495?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+吉林卫视,http://sport.pendy.dpdns.org/migu/947472500?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+陕西卫视,http://sport.pendy.dpdns.org/migu/738910838?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+青海卫视,http://sport.pendy.dpdns.org/migu/947472506?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+
+
 江苏卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002521
 广西卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002509
 四川卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002516
@@ -787,6 +701,55 @@ CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 西藏卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190403
 新疆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600152138
 兵团卫视,webview://https://www.yangshipin.cn/tv/home?pid=600193252
+
+
+
+数字频道,#genre#
+CHC影迷电影,http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CHC动作电影,http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CHC家庭影院,http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+上海新闻综合,http://sport.pendy.dpdns.org/migu/651632657?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+第一财经,http://sport.pendy.dpdns.org/migu/608780988?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+
+
+国际,#genre#
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
+凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
+凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
+凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
+TVB翡翠台,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
+民视,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+中天新闻,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
+astro-QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+astroAec,http://php.jdshipin.com/smt.php?id=AEC
+astroAod,http://php.jdshipin.com/smt.php?id=Aodhd
+astro欢喜,http://php.jdshipin.com/smt.php?id=Huahee
+astro爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+
+CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
+BBC News Asia Pacific,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+CBC News,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
+ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
+NBC News Now,https://jmp2.uk/sam-GBBB1500004LG.m3u8
+WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+FOX News,https://jmp2.uk/sam-USBA300024TN.m3u8
+AL Jazeera阿拉伯半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+CNA新加坡亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+FOX美国福克斯商业,http://41.205.93.154/FOXBUSINESS/index.m3u8
+TV5Monde_Pacifique法语电视网络,https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+NHK World Premium日本放送日语国际,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+REDBULL TV红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+REDBULL TV红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+Travelxp,https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
+GOLFPASS,https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_golfpass_001.m3u8?ads.caid=NBCUGolfpass&ads.csid=samsungtvplus_us_nbcugolfpass_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2794&ads.xumo_contentName=nbcugolfpass&ads.xumo_providerId=2794&ads.xumo_providerName=nbcugolfpass&ads.xumo_channelId=9999550&ads.xumo_channelName=Golfpass&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+Kidoodle.TV,https://06fda8bb401f4c0abb854097c0a3b3d6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_KidoodleTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=414&ads.wurl_name=KidoodleTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
 
 
 电视剧轮播,#genre#
