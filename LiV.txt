@@ -732,7 +732,6 @@ Kidoodle.TV,https://06fda8bb401f4c0abb854097c0a3b3d6.mediatailor.us-east-1.amazo
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
 央视,#genre#
-CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 CCTV1,webview://https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV2,webview://https://www.yangshipin.cn/tv/home?pid=600001800
 CCTV3,webview://https://www.yangshipin.cn/tv/home?pid=600001801
