@@ -802,7 +802,7 @@ CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 
 
 动画轮播,#genre#
-海绵宝宝,http://www.douzhicloud.site:35455/douyu/12400977
+海绵宝宝,http://zzy789.xyz/douyu1.php?id=3949681
 迪士尼动画,http://www.douzhicloud.site:35455/huya/30080256
 名侦探柯南,http://www.douzhicloud.site:35455/huya/30080148
 柯南剧场版,http://www.douzhicloud.site:35455/huya/30080236
