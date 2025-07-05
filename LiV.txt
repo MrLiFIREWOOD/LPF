@@ -803,7 +803,6 @@ CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 国际,#genre#
 
 CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
-BBC News Asia Pacific,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 CBC News,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
 ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 NBC News Now,https://jmp2.uk/sam-GBBB1500004LG.m3u8
@@ -933,7 +932,6 @@ Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 风味人间,http://home.kuaidi521.com:35455/huya/26355760
 河西走廊,http://home.kuaidi521.com:35455/huya/23728674
 爱笑会议室,http://zzy789.xyz/douyu1.php?id=9375430
-超级变变变,http://home.kuaidi521.com:35455/huya/30080137
 谭卓依健身操,http://home.kuaidi521.com:35455/huya/24099069
 一修铁拳健身,http://home.kuaidi521.com:35455/huya/23959751
 HIIT燃脂,http://home.kuaidi521.com:35455/huya/18501110
