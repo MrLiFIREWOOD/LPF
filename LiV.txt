@@ -660,8 +660,6 @@ CCTV女性时尚,http://116.231.245.29:4022/udp/239.45.0.47:5140
 CCTV央视文化精品,http://116.231.245.29:4022/udp/239.45.0.53:5140
 CCTV央视台球,http://116.231.245.29:4022/udp/239.45.0.44:5140
 
-CCTV13,webview://https://live.douyin.com/870887192950?activity_name=&anchor_id=96582746791&banner_type=recommend&category_name=all&page_type=live_main_page
-
 
 卫视,#genre#
 浙江卫视,http://180.159.65.242:4022/udp/239.45.3.178:5140
