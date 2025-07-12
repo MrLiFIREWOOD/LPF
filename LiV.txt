@@ -738,7 +738,6 @@ CCTV央视台球,http://116.231.245.29:4022/udp/239.45.0.44:5140
 
 四川,#genre#
 四川科教,webview://http://www.sctv-8.com.cn/_iframe/iframe_mp4.aspx?iid=637730502807234776
-四川乡村,webview://https://scxc.sctv.com/html/c0111/2024/04/09/1777534112104497154_share.html
 成都新闻综合,webview://https://www.cditv.cn/show/4845-563.html
 成都经济资讯,webview://https://www.cditv.cn/show/4845-562.html
 成都都市生活,webview://https://www.cditv.cn/show/4845-561.html
