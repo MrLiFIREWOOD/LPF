@@ -779,6 +779,7 @@ CCTV央视台球,http://116.231.245.29:4022/udp/239.45.0.44:5140
 凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
 凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
 中天新聞,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
+中天新聞,webview://https://ctinews.com/live
 中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
 有线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
