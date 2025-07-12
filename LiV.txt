@@ -736,6 +736,17 @@ CCTV央视台球,http://116.231.245.29:4022/udp/239.45.0.44:5140
 深圳卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002481
 兵团卫视,webview://https://www.yangshipin.cn/tv/home?pid=600193252
 
+四川#genre#
+四川科教,webview://http://www.sctv-8.com.cn/_iframe/iframe_mp4.aspx?iid=637730502807234776
+四川乡村,webview://https://scxc.sctv.com/html/c0111/2024/04/09/1777534112104497154_share.html
+成都新闻综合,webview://https://www.cditv.cn/show/4845-563.html
+成都经济资讯,webview://https://www.cditv.cn/show/4845-562.html
+成都都市生活,webview://https://www.cditv.cn/show/4845-561.html
+成都影视文艺,webview://https://www.cditv.cn/show/4845-560.html
+成都公共频道,webview://https://www.cditv.cn/show/4845-559.html
+成都少儿频道,webview://https://www.cditv.cn/show/4845-558.html
+蓉城先锋,webview://https://www.cditv.cn/show/4845-592.html
+
 数字频道,#genre#
 五星体育,http://116.231.245.29:4022/udp/239.45.3.210:5140
 第一财经,http://116.231.245.29:4022/udp/239.45.3.211:5140
