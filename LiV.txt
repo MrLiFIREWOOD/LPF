@@ -661,22 +661,7 @@ CCTV央视文化精品,http://116.231.245.29:4022/udp/239.45.0.53:5140
 CCTV央视台球,http://116.231.245.29:4022/udp/239.45.0.44:5140
 
 
-CCTV1,webview://https://m.456iptv.com/?act=play&token=37ba5a515800d5aff0f4b00888f190e1&tid=ys&id=1
-CCTV2,webview://https://m.456iptv.com/?act=play&token=610c20aeb6aa9e12a954ca89d8f96dad&tid=ys&id=2
-CCTV3,webview://https://m.456iptv.com/?act=play&token=b129f61b7f04955ee1048bfd3715ae6e&tid=ys&id=3
-CCTV4,webview://
-CCTV5,webview://
-CCTV6,webview://
-CCTV7,webview://
-CCTV8,webview://
-CCTV9,webview://
-CCTV10,webview://
-CCTV11,webview://
-CCTV12,webview://
-CCTV13,webview://
-CCTV14,webview://
-CCTV15,webview://
-CCTV17,webview://
+
 
 卫视,#genre#
 浙江卫视,http://180.159.65.242:4022/udp/239.45.3.178:5140
