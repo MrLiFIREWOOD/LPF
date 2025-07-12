@@ -115,14 +115,6 @@ http://funradio.cn:8000/funradio
 http://asiafm.hk:8000/asiahd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asiayy.png" group-title="电台",AsiaFM 亚洲粤语台
 http://yyt.asiafm.net:8000/asiafm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s138074/images/logog.png?t=158317" group-title="电台",Big B Radio - 中文流行
-http://cpop.bigbradio.net/s
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s135096/images/logog.png?t=158317" group-title="电台",Big B Radio - 韩语流行
-http://kpop.bigbradio.net/s
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s135097/images/logog.png?t=158317" group-title="电台",Big B Radio - 日语流行
-http://jpop.bigbradio.net/s
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s54185/images/logog.png?t=158645" group-title="电台",Big B Radio - 亚洲流行
-http://apop.bigbradio.net/s
 #EXTINF:-1,CNN
 https://tunein.cdnstream1.com/2868_96.mp3
 #EXTINF:-1,NBC NEWS 
