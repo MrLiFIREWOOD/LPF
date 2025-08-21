@@ -159,7 +159,6 @@ IHOT爱院线,http://182.151.111.244:8888/rtp/239.93.42.11:5140
 IHOT爱谍战,http://182.151.111.244:8888/rtp/239.93.42.14:5140
 IHOT爱历史,http://182.151.111.244:8888/rtp/239.93.42.13:5140
 IHOT爱悬疑,http://182.151.111.244:8888/rtp/239.93.42.12:5140
-IHOT爱旅行,http://182.151.111.244:8888/rtp/239.93.42.16:5140
 IHOT爱幼教,http://182.151.111.244:8888/rtp/239.93.42.17:5140
 IHOT爱玩具,http://182.151.111.244:8888/rtp/239.93.42.18:5140
 IHOT爱动漫,http://182.151.111.244:8888/rtp/239.93.42.23:5140
@@ -302,7 +301,6 @@ IHOT爱院线,http://ayolee.com:5253/rtp/239.93.42.11:5140
 IHOT爱谍战,http://ayolee.com:5253/rtp/239.93.42.14:5140
 IHOT爱历史,http://ayolee.com:5253/rtp/239.93.42.13:5140
 IHOT爱悬疑,http://ayolee.com:5253/rtp/239.93.42.12:5140
-IHOT爱旅行,http://ayolee.com:5253/rtp/239.93.42.16:5140
 IHOT爱幼教,http://ayolee.com:5253/rtp/239.93.42.17:5140
 IHOT爱玩具,http://ayolee.com:5253/rtp/239.93.42.18:5140
 IHOT爱动漫,http://ayolee.com:5253/rtp/239.93.42.23:5140
@@ -444,7 +442,6 @@ IHOT爱院线,http://www.rongz.top:9999/rtp/239.93.42.11:5140
 IHOT爱谍战,http://www.rongz.top:9999/rtp/239.93.42.14:5140
 IHOT爱历史,http://www.rongz.top:9999/rtp/239.93.42.13:5140
 IHOT爱悬疑,http://www.rongz.top:9999/rtp/239.93.42.12:5140
-IHOT爱旅行,http://www.rongz.top:9999/rtp/239.93.42.16:5140
 IHOT爱幼教,http://www.rongz.top:9999/rtp/239.93.42.17:5140
 IHOT爱玩具,http://www.rongz.top:9999/rtp/239.93.42.18:5140
 IHOT爱动漫,http://www.rongz.top:9999/rtp/239.93.42.23:5140
@@ -588,7 +585,6 @@ IHOT爱院线,http://www.qiqi.pub:18889/rtp/239.93.42.11:5140
 IHOT爱谍战,http://www.qiqi.pub:18889/rtp/239.93.42.14:5140
 IHOT爱历史,http://www.qiqi.pub:18889/rtp/239.93.42.13:5140
 IHOT爱悬疑,http://www.qiqi.pub:18889/rtp/239.93.42.12:5140
-IHOT爱旅行,http://www.qiqi.pub:18889/rtp/239.93.42.16:5140
 IHOT爱幼教,http://www.qiqi.pub:18889/rtp/239.93.42.17:5140
 IHOT爱玩具,http://www.qiqi.pub:18889/rtp/239.93.42.18:5140
 IHOT爱动漫,http://www.qiqi.pub:18889/rtp/239.93.42.23:5140
