@@ -807,10 +807,10 @@ Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 
 电视剧轮播,#genre#
 三国演义,http://live.iill.top/huya.php?id=11602081
-新三国,http://zzy789.xyz/douyu1.php?id=12180551
+新三国,http://php.404003.xyz/live/douyuyqk.php?id=12180551
 新水浒传,http://live.iill.top/huya.php?id=11342384
 西游记,http://live.iill.top/huya.php?id=26355861
-西游记续集,http://zzy789.xyz/douyu1.php?id=3113309
+西游记续集,http://php.404003.xyz/live/douyuyqk.php?id=3113309
 新白娘子传奇,http://live.iill.top/huya.php?id=26355768
 87版红楼梦,http://live.iill.top/huya.php?id=30080221
 还珠格格,http://live.iill.top/huya.php?id=30080241
@@ -823,7 +823,7 @@ Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 03版天龙八部,http://live.iill.top/huya.php?id=20985816
 倚天屠龙记,http://live.iill.top/huya.php?id=11342403
 康熙王朝,http://live.iill.top/huya.php?id=11352940
-雍正王朝,http://zzy789.xyz/douyu1.php?id=6911044
+雍正王朝,http://php.404003.xyz/live/douyuyqk.php?id=6911044
 马大帅,http://live.iill.top/huya.php?id=23650804
 大盛魁,http://live.iill.top/huya.php?id=30292086
 
@@ -852,7 +852,7 @@ Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 风筝,http://live.iill.top/huya.php?id=30080225
 问心,http://live.iill.top/huya.php?id=11352890
 陈情令,http://live.iill.top/huya.php?id=29465862
-神探狄仁杰,http://zzy789.xyz/douyu1.php?id=12442176
+神探狄仁杰,http://php.404003.xyz/live/douyuyqk.php?id=12442176
 漫长的季节,http://live.iill.top/huya.php?id=11342393
 鬼吹灯之精绝古城,http://live.iill.top/huya.php?id=11352871
 鬼吹灯之怒晴湘西,http://live.iill.top/huya.php?id=11602075
@@ -862,7 +862,7 @@ Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 
 
 动画轮播,#genre#
-海绵宝宝,http://zzy789.xyz/douyu1.php?id=3949681
+海绵宝宝,http://php.404003.xyz/live/douyuyqk.php?id=3949681
 迪士尼动画,http://live.iill.top/huya.php?id=30080256
 名侦探柯南,http://live.iill.top/huya.php?id=30080148
 柯南剧场版,http://live.iill.top/huya.php?id=30080236
@@ -874,8 +874,8 @@ Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 哆啦A梦,http://live.iill.top/huya.php?id=11601963
 动画电影剧场版,http://live.iill.top/huya.php?id=11352878
 合家欢动画,http://live.iill.top/huya.php?id=11601958
-动漫推荐,http://zzy789.xyz/douyu1.php?id=5187099
-摩登大自然,http://zzy789.xyz/douyu1.php?id=9653320
+动漫推荐,http://php.404003.xyz/live/douyuyqk.php?id=5187099
+摩登大自然,http://php.404003.xyz/live/douyuyqk.php?id=9653320
 国产动画,http://live.iill.top/huya.php?id=30080188
 国风动画,http://live.iill.top/huya.php?id=30080242
 火影忍者,http://live.iill.top/huya.php?id=29465866
@@ -898,13 +898,13 @@ Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 
 
 综艺记录片轮播,#genre#
-经典小品,http://zzy789.xyz/douyu1.php?id=9067836
-经典小品相声,http://zzy789.xyz/douyu1.php?id=9273031
-赵本山小品,http://zzy789.xyz/douyu1.php?id=9817716
-辽视欢乐大集锦,http://zzy789.xyz/douyu1.php?id=9403712
-开心麻花,http://zzy789.xyz/douyu1.php?id=10153463
-贾玲经典小品,http://zzy789.xyz/douyu1.php?id=10419541
-荒野求生,http://zzy789.xyz/douyu1.php?id=4332
+经典小品,http://php.404003.xyz/live/douyuyqk.php?id=9067836
+经典小品相声,http://php.404003.xyz/live/douyuyqk.php?id=9273031
+赵本山小品,http://php.404003.xyz/live/douyuyqk.php?id=9817716
+辽视欢乐大集锦,http://php.404003.xyz/live/douyuyqk.php?id=9403712
+开心麻花,http://php.404003.xyz/live/douyuyqk.php?id=10153463
+贾玲经典小品,http://php.404003.xyz/live/douyuyqk.php?id=10419541
+荒野求生,http://php.404003.xyz/live/douyuyqk.php?id=4332
 脱口秀大会,http://live.iill.top/huya.php?id=11352875
 现在就出发,http://live.iill.top/huya.php?id=21059551
 王牌对王牌,http://live.iill.top/huya.php?id=11352905
@@ -913,7 +913,7 @@ Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 五哈,http://live.iill.top/huya.php?id=30080247
 风味人间,http://live.iill.top/huya.php?id=26355760
 河西走廊,http://live.iill.top/huya.php?id=23728674
-爱笑会议室,http://zzy789.xyz/douyu1.php?id=9375430
+爱笑会议室,http://php.404003.xyz/live/douyuyqk.php?id=9375430
 谭卓依健身操,http://live.iill.top/huya.php?id=24099069
 一修铁拳健身,http://live.iill.top/huya.php?id=23959751
 HIIT燃脂,http://live.iill.top/huya.php?id=18501110
