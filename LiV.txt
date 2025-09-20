@@ -522,10 +522,55 @@ CHC家庭影院,http://125.70.243.144:15200/udp/239.94.1.173:5140
 凤凰资讯,http://125.70.243.144:15200/rtp/239.93.0.118:2191
 
 央视,#genre#
+CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+CCTV5+,http://iptv.huuc.edu.cn/hls/cctv5phd.m3u8
+CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
+CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
+CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+CCTV15,http://iptv.huuc.edu.cn/hls/cctv15hd.m3u8
+CCTV16,http://iptv.huuc.edu.cn/hls/cctv16hd.m3u8
+CCTV17,http://iptv.huuc.edu.cn/hls/cctv17hd.m3u8
+
+
 CCTV-1,webview://https://m.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
 
 
 卫视,#genre#
+广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
+北京卫视,https://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+安徽卫视,https://iptv.huuc.edu.cn/hls/ahhd.m3u8
+东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+广西卫视,http://iptv.huuc.edu.cn/hls/gxhd.m3u8
+贵州卫视,http://iptv.huuc.edu.cn/hls/gzhd.m3u8
+海南卫视,http://iptv.huuc.edu.cn/hls/lyhd.m3u8
+河北卫视,http://iptv.huuc.edu.cn/hls/nbhd.m3u8
+河南卫视,http://iptv.huuc.edu.cn/hls/hnhd.m3u8
+黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+吉林卫视,http://iptv.huuc.edu.cn/hls/jlhd.m3u8
+江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
+江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+三沙卫视,http://iptv.huuc.edu.cn/hls/sshd.m3u8
+山东卫视,https://iptv.huuc.edu.cn/hls/sdhd.m3u8
+陕西卫视,http://iptv.huuc.edu.cn/hls/sxhd.m3u8
+深圳卫视,https://iptv.huuc.edu.cn/hls/szhd.m3u8
+四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
+天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
+浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 深圳卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002481
 兵团卫视,webview://https://www.yangshipin.cn/tv/home?pid=600193252
 
