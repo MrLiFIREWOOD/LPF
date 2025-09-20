@@ -528,7 +528,6 @@ CHC家庭影院,http://125.70.243.144:15200/udp/239.94.1.173:5140
 兵团卫视,webview://https://www.yangshipin.cn/tv/home?pid=600193252
 
 四川,#genre#
-四川科教,webview://http://www.sctv-8.com.cn/_iframe/iframe_mp4.aspx?iid=637730502807234776
 成都新闻综合,webview://https://www.cditv.cn/show/4845-563.html
 成都经济资讯,webview://https://www.cditv.cn/show/4845-562.html
 成都都市生活,webview://https://www.cditv.cn/show/4845-561.html
