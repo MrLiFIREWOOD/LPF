@@ -542,9 +542,6 @@ CCTV16,http://iptv.huuc.edu.cn/hls/cctv16hd.m3u8
 CCTV17,http://iptv.huuc.edu.cn/hls/cctv17hd.m3u8
 
 
-CCTV1,webview://https://m.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
-
-
 卫视,#genre#
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
 北京卫视,https://iptv.huuc.edu.cn/hls/btv1hd.m3u8
@@ -585,6 +582,7 @@ CCTV1,webview://https://m.miguvideo.com/m/liveDetail/608807420?channelId=1001000
 
 数字频道,#genre#
 第一财经,webview://https://live.kankanews.com/huikan?id=5
+第一财经,webview://https://m.miguvideo.com/m/liveDetail/608780988?channelId=201600010010019
 五星体育,webview://https://live.kankanews.com/huikan?id=10
 上海新闻综合,webview://https://live.kankanews.com/huikan?id=2
 上海都市,webview://https://live.kankanews.com/huikan?id=4
