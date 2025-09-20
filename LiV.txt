@@ -542,7 +542,7 @@ CCTV16,http://iptv.huuc.edu.cn/hls/cctv16hd.m3u8
 CCTV17,http://iptv.huuc.edu.cn/hls/cctv17hd.m3u8
 
 
-CCTV-1,webview://https://m.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
+CCTV1,webview://https://m.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
 
 
 卫视,#genre#
