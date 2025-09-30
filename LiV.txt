@@ -640,9 +640,9 @@ CCTV15,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW4
 哈哈炫动,webview://https://live.kankanews.com/huikan?id=9
 
 国际,#genre#
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://bxtv.3a.ink/api.php?id=fhzw#http://cdn.163189.xyz/163189/fhzw#http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://bxtv.3a.ink/api.php?id=fhzx#http://cdn.163189.xyz/163189/fhzx#http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8#http://bxtv.3a.ink/api.php?id=fhhk
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
