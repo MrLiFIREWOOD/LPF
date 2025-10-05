@@ -820,7 +820,69 @@ TED_Talks,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
 Kidoodle.TV,https://06fda8bb401f4c0abb854097c0a3b3d6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_KidoodleTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=414&ads.wurl_name=KidoodleTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
 Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 
-
+SPORTS,#genre#
+Now HK Premier Sports 1,http://vocotv.pro:80/0000011/0000011/715574
+Now HK Premier Sports 2,http://vocotv.pro:80/0000011/0000011/715573
+Now HK Premier Sports 3,http://vocotv.pro:80/0000011/0000011/715572
+Now HK Premier Sports 4,http://vocotv.pro:80/0000011/0000011/715571
+Now HK Premier Sports 5,http://vocotv.pro:80/0000011/0000011/715570
+Now HK Premier Sports 6,http://vocotv.pro:80/0000011/0000011/715569
+Now HK Premier Sports 7,http://vocotv.pro:80/0000011/0000011/715568
+Now HK Premier Sports 8,http://vocotv.pro:80/0000011/0000011/715567
+Now HK Now Sports 1,http://vocotv.pro:80/0000011/0000011/715566
+Now HK Now Sports 2,http://vocotv.pro:80/0000011/0000011/715565
+Now HK Now Sports 3,http://vocotv.pro:80/0000011/0000011/715564
+Now HK Now Sports 4,http://vocotv.pro:80/0000011/0000011/715563
+Now HK Now Sports 5,http://vocotv.pro:80/0000011/0000011/715562
+Now HK Now Sports 6,http://vocotv.pro:80/0000011/0000011/715561
+Now HK Now Sports 7,http://vocotv.pro:80/0000011/0000011/715560
+Now Sports PRIME,http://vocotv.pro:80/0000011/0000011/715559
+Now HK Now Sports 4K 616,http://vocotv.pro:80/0000011/0000011/715558
+Now HK Now Sports 4K 617,http://vocotv.pro:80/0000011/0000011/715557
+Hub Premier 1 FHD,http://vocotv.pro:80/0000011/0000011/288375
+Hub Premier 2 FHD,http://vocotv.pro:80/0000011/0000011/288374
+Hub Premier 3 FHD,http://vocotv.pro:80/0000011/0000011/288373
+Hub Premier 4 FHD,http://vocotv.pro:80/0000011/0000011/288372
+Hub Premier 5 FHD,http://vocotv.pro:80/0000011/0000011/288371
+Hub Premier 6 FHD,http://vocotv.pro:80/0000011/0000011/288370
+Hub Premier 7 FHD,http://vocotv.pro:80/0000011/0000011/288369
+Hub Premier 8 FHD,http://vocotv.pro:80/0000011/0000011/288368
+Hub Premier 9 FHD,http://vocotv.pro:80/0000011/0000011/288367
+Hub Premier 10 FHD,http://vocotv.pro:80/0000011/0000011/288366
+Hub Premier 11 FHD,http://vocotv.pro:80/0000011/0000011/288365
+Hub Premier 2 UHD,http://vocotv.pro:80/0000011/0000011/288364
+Hub Sport 1 FHD,http://vocotv.pro:80/0000011/0000011/288363
+Hub Sports 2 FHD,http://vocotv.pro:80/0000011/0000011/288362
+Hub Sports 3 FHD,http://vocotv.pro:80/0000011/0000011/288361
+Hub Sports 4 FHD,http://vocotv.pro:80/0000011/0000011/288360
+Hub Sports 5 FHD,http://vocotv.pro:80/0000011/0000011/288359
+beIN Sports 1 FHD,http://vocotv.pro:80/0000011/0000011/288357
+beIN Sports 2 FHD,http://vocotv.pro:80/0000011/0000011/288356
+beIN Sports 3 FHD,http://vocotv.pro:80/0000011/0000011/288355
+beIN Sports 4 FHD,http://vocotv.pro:80/0000011/0000011/288354
+beIN Sports 5 FHD,http://vocotv.pro:80/0000011/0000011/288353
+SPOTV,http://vocotv.pro:80/0000011/0000011/288352
+SPOTV 2,http://vocotv.pro:80/0000011/0000011/288351
+Premier Sports 1 FHD UK,http://vocotv.pro:80/0000011/0000011/709352
+Premier Sports 2 FHD UK,http://vocotv.pro:80/0000011/0000011/709350
+Racing UK FHD UK,http://vocotv.pro:80/0000011/0000011/709346
+Sky Sports Action FHD UK,http://vocotv.pro:80/0000011/0000011/709403
+Sky Sports Arena FHD UK,http://vocotv.pro:80/0000011/0000011/709401
+Sky Sports Cricket FHD UK,http://vocotv.pro:80/0000011/0000011/709399
+Sky Sports Darts FHD UK,http://vocotv.pro:80/0000011/0000011/709397
+Sky Sports F1 FHD UK,http://vocotv.pro:80/0000011/0000011/709396
+Sky Sports Football FHD UK,http://vocotv.pro:80/0000011/0000011/709394
+Sky Sports Golf FHD UK,http://vocotv.pro:80/0000011/0000011/709391
+Sky Sports Main Event FHD UK,http://vocotv.pro:80/0000011/0000011/709389
+Sky Sports Mix FHD UK,http://vocotv.pro:80/0000011/0000011/709387
+Sky Sports News FHD UK,http://vocotv.pro:80/0000011/0000011/709385
+Sky Sports NFL HD UK,http://vocotv.pro:80/0000011/0000011/709383
+Sky Sports Plus (HEVC) UK,http://vocotv.pro:80/0000011/0000011/709392
+Sky Sports Premier League FHD UK,http://vocotv.pro:80/0000011/0000011/709382
+Sky Sports Racing FHD UK,http://vocotv.pro:80/0000011/0000011/709380
+USA FanDuel TV Racing,http://vocotv.pro:80/0000011/0000011/815
+USA TVG Network,http://vocotv.pro:80/0000011/0000011/836
+USA TVG 2 Network,http://vocotv.pro:80/0000011/0000011/835
 
 
 电视剧轮播,#genre#
