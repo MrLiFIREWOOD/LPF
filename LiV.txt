@@ -593,6 +593,23 @@ CCTV15,http://t.061899.xyz/tl/dq.php?id=cctv15
 CCTV16,http://t.061899.xyz/tl/dq.php?id=cctv16
 CCTV17,http://t.061899.xyz/tl/dq.php?id=cctv17
 
+CCTV1,http://ygbh.site/php/bfgd.php?id=488
+CCTV2,http://ygbh.site/php/bfgd.php?id=061
+CCTV3,http://ygbh.site/php/bfgd.php?id=062
+CCTV4,http://ygbh.site/php/bfgd.php?id=063
+CCTV5,http://ygbh.site/php/bfgd.php?id=064
+CCTV5+,http://ygbh.site/php/bfgd.php?id=246
+CCTV6,http://ygbh.site/php/bfgd.php?id=065
+CCTV7,http://ygbh.site/php/bfgd.php?id=127
+CCTV8,http://ygbh.site/php/bfgd.php?id=066
+CCTV9,http://ygbh.site/php/bfgd.php?id=128
+CCTV10,http://ygbh.site/php/bfgd.php?id=129
+CCTV11,http://ygbh.site/php/bfgd.php?id=130
+CCTV12,http://ygbh.site/php/bfgd.php?id=131
+CCTV13,http://ygbh.site/php/bfgd.php?id=067
+CCTV14,http://ygbh.site/php/bfgd.php?id=132
+CCTV15,http://ygbh.site/php/bfgd.php?id=133
+
 卫视,#genre#
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
@@ -637,6 +654,41 @@ CCTV17,http://t.061899.xyz/tl/dq.php?id=cctv17
 西藏卫视,http://t.061899.xyz/tl/dq.php?id=xzws
 海峡卫视,http://t.061899.xyz/tl/dq.php?id=hxws
 
+北京卫视,http://ygbh.site/php/bfgd.php?id=083
+天津卫视,http://ygbh.site/php/bfgd.php?id=084
+江苏卫视,http://ygbh.site/php/bfgd.php?id=085
+湖南卫视,http://ygbh.site/php/bfgd.php?id=086
+东方卫视,http://ygbh.site/php/bfgd.php?id=093
+浙江卫视,http://ygbh.site/php/bfgd.php?id=094
+广东卫视,http://ygbh.site/php/bfgd.php?id=092
+深圳卫视,http://ygbh.site/php/bfgd.php?id=100
+安徽卫视,http://ygbh.site/php/bfgd.php?id=096
+吉林卫视,http://ygbh.site/php/bfgd.php?id=097
+江西卫视,http://ygbh.site/php/bfgd.php?id=098
+山东卫视,http://ygbh.site/php/bfgd.php?id=099
+辽宁卫视,http://ygbh.site/php/bfgd.php?id=058
+湖北卫视,http://ygbh.site/php/bfgd.php?id=102
+东南卫视,http://ygbh.site/php/bfgd.php?id=483
+海南卫视,http://ygbh.site/php/bfgd.php?id=473
+河南卫视,http://ygbh.site/php/bfgd.php?id=104
+河北卫视,http://ygbh.site/php/bfgd.php?id=108
+四川卫视,http://ygbh.site/php/bfgd.php?id=103
+重庆卫视,http://ygbh.site/php/bfgd.php?id=107
+广西卫视,http://ygbh.site/php/bfgd.php?id=116
+云南卫视,http://ygbh.site/php/bfgd.php?id=115
+贵州卫视,http://ygbh.site/php/bfgd.php?id=101
+陕西卫视,http://ygbh.site/php/bfgd.php?id=114
+山西卫视,http://ygbh.site/php/bfgd.php?id=109
+青海卫视,http://ygbh.site/php/bfgd.php?id=111
+延边卫视,http://ygbh.site/php/bfgd.php?id=117
+宁夏卫视,http://ygbh.site/php/bfgd.php?id=118
+甘肃卫视,http://ygbh.site/php/bfgd.php?id=119
+农林卫视,http://ygbh.site/php/bfgd.php?id=122
+兵团卫视,http://ygbh.site/php/bfgd.php?id=124
+新疆卫视,http://ygbh.site/php/bfgd.php?id=150
+西藏卫视,http://ygbh.site/php/bfgd.php?id=121
+黑龙江卫视,http://ygbh.site/php/bfgd.php?id=095
+内蒙古卫视,http://ygbh.site/php/bfgd.php?id=110
 
 深圳卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002481
 兵团卫视,webview://https://www.yangshipin.cn/tv/home?pid=600193252
@@ -657,6 +709,9 @@ CCTV17,http://t.061899.xyz/tl/dq.php?id=cctv17
 数字频道,#genre#
 第一财经,http://t.061899.xyz/tl/dq.php?id=dycj
 上海新闻综合,http://t.061899.xyz/tl/dq.php?id=shxwzh
+求索科学,http://ygbh.site/php/bfgd.php?id=286
+卡酷少儿,http://ygbh.site/php/bfgd.php?id=106
+金鹰卡通,http://ygbh.site/php/bfgd.php?id=105
 
 
 第一财经,webview://https://live.kankanews.com/huikan?id=5
