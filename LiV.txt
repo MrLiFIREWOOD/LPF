@@ -574,6 +574,25 @@ CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV17,http://183.11.239.36:808/hls/35/index.m3u8
 
 
+CCTV1,http://t.061899.xyz/tl/dq.php?id=cctv1
+CCTV2,http://t.061899.xyz/tl/dq.php?id=cctv2
+CCTV3,http://t.061899.xyz/tl/dq.php?id=cctv3
+CCTV4,http://t.061899.xyz/tl/dq.php?id=cctv4
+CCTV5,http://t.061899.xyz/tl/dq.php?id=cctv5
+CCTV5+,http://t.061899.xyz/tl/dq.php?id=cctv5p
+CCTV6,http://t.061899.xyz/tl/dq.php?id=cctv6
+CCTV7,http://t.061899.xyz/tl/dq.php?id=cctv7
+CCTV8,http://t.061899.xyz/tl/dq.php?id=cctv8
+CCTV9,http://t.061899.xyz/tl/dq.php?id=cctv9
+CCTV10,http://t.061899.xyz/tl/dq.php?id=cctv10
+CCTV11,http://t.061899.xyz/tl/dq.php?id=cctv11
+CCTV12,http://t.061899.xyz/tl/dq.php?id=cctv12
+CCTV13,http://t.061899.xyz/tl/dq.php?id=cctv13
+CCTV14,http://t.061899.xyz/tl/dq.php?id=cctv14
+CCTV15,http://t.061899.xyz/tl/dq.php?id=cctv15
+CCTV16,http://t.061899.xyz/tl/dq.php?id=cctv16
+CCTV17,http://t.061899.xyz/tl/dq.php?id=cctv17
+
 卫视,#genre#
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
@@ -588,7 +607,35 @@ CCTV17,http://183.11.239.36:808/hls/35/index.m3u8
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 
-
+湖南卫视,http://t.061899.xyz/tl/dq.php?id=hunws
+北京卫视,http://t.061899.xyz/tl/dq.php?id=bjws
+浙江卫视,http://t.061899.xyz/tl/dq.php?id=zjws
+广东卫视,http://t.061899.xyz/tl/dq.php?id=gdws
+江苏卫视,http://t.061899.xyz/tl/dq.php?id=jsws
+东方卫视,http://t.061899.xyz/tl/dq.php?id=dfws
+陕西卫视,http://t.061899.xyz/tl/dq.php?id=sxws
+江西卫视,http://t.061899.xyz/tl/dq.php?id=jxws
+湖北卫视,http://t.061899.xyz/tl/dq.php?id=hubws
+吉林卫视,http://t.061899.xyz/tl/dq.php?id=jlws
+青海卫视,http://t.061899.xyz/tl/dq.php?id=qhws
+河南卫视,http://t.061899.xyz/tl/dq.php?id=hnws
+东南卫视,http://t.061899.xyz/tl/dq.php?id=dnws
+大湾区卫视,http://t.061899.xyz/tl/dq.php?id=dwqws
+海南卫视,http://t.061899.xyz/tl/dq.php?id=hinws
+重庆卫视,http://t.061899.xyz/tl/dq.php?id=cqws
+黑龙江卫视,http://t.061899.xyz/tl/dq.php?id=hljws
+内蒙古卫视,http://t.061899.xyz/tl/dq.php?id=nmgws
+甘肃卫视,http://t.061899.xyz/tl/dq.php?id=gsws
+河北卫视,http://t.061899.xyz/tl/dq.php?id=hbws
+山西卫视,http://t.061899.xyz/tl/dq.php?id=sxiws
+山东卫视,http://t.061899.xyz/tl/dq.php?id=sdws
+深圳卫视,http://t.061899.xyz/tl/dq.php?id=szws
+云南卫视,http://t.061899.xyz/tl/dq.php?id=ynws
+贵州卫视,http://t.061899.xyz/tl/dq.php?id=gzws
+四川卫视,http://t.061899.xyz/tl/dq.php?id=scws
+新疆卫视,http://t.061899.xyz/tl/dq.php?id=xjws
+西藏卫视,http://t.061899.xyz/tl/dq.php?id=xzws
+海峡卫视,http://t.061899.xyz/tl/dq.php?id=hxws
 
 
 深圳卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002481
