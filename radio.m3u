@@ -79,30 +79,11 @@ http://live.ximalaya.com/radio-first-page-app/live/56/24.m3u8
 http://live.ximalaya.com/radio-first-page-app/live/53/24.m3u8
 #EXTINF:-1 tvg-name="清晨音乐台" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/清晨音乐台.jpg" radio="true" group-title="电台",清晨音乐台
 http://live.ximalaya.com/radio-first-page-app/live/1011/24.m3u8
-#EXTINF:-1 tvg-name="心灵音乐馆" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/心灵音乐馆.png" radio="true" group-title="电台",心灵音乐馆
-http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
 #EXTINF:-1 tvg-name="80后音乐" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/80后音乐台.png" radio="true" group-title="电台",80后音乐
 http://live.ximalaya.com/radio-first-page-app/live/2684/24.m3u8
 #EXTINF:-1 tvg-name="经典FM" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/经典FM.png" radio="true" group-title="电台",经典FM
 http://live.ximalaya.com/radio-first-page-app/live/2689/24.m3u8
-#EXTINF:-1 tvg-name="格莱美音乐" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/格莱美音乐台.png" radio="true" group-title="电台",格莱美音乐
-http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
-#EXTINF:-1 tvg-name="卷卷猫电台" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/卷卷猫电台.png" radio="true" group-title="电台",卷卷猫电台
-http://stream3.hndt.com/now/PHucVOu2/playlist.m3u8
-#EXTINF:-1 tvg-name="有声文摘" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/有声文摘.png" radio="true" group-title="电台",有声文摘
-http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
-#EXTINF:-1 tvg-name="安全百科" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/安全百科网络台.png" radio="true" group-title="电台",安全百科
-http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
-#EXTINF:-1 tvg-name="民谣音乐" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/民谣音乐台.png" radio="true" group-title="电台",民谣音乐
-http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
-#EXTINF:-1 tvg-name="天籁古典" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/天籁古典.png" radio="true" group-title="电台",天籁古典
-http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
-#EXTINF:-1 tvg-name="动感音乐" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/动感音乐.png" radio="true" group-title="电台",动感音乐
-http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
-#EXTINF:-1 tvg-name="摇滚天空" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/摇滚天空.png" radio="true" group-title="电台",摇滚天空
-http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
-#EXTINF:-1 tvg-name="国乐悠扬" tvg-logo="https://raw.kkgithub.com/MrLiFIREWOOD/LPF/main/Logo/国乐悠扬台.png" radio="true" group-title="电台",国乐悠扬
-http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asiahot.png" group-title="电台",AsiaFM 亚洲热歌台
 http://hot.asiafm.net:8000/asiafm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asiamusic.png" group-title="电台",AsiaFM 亚洲音乐台
@@ -115,9 +96,4 @@ http://funradio.cn:8000/funradio
 http://asiafm.hk:8000/asiahd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asiayy.png" group-title="电台",AsiaFM 亚洲粤语台
 http://yyt.asiafm.net:8000/asiafm
-#EXTINF:-1,CNN
-https://tunein.cdnstream1.com/2868_96.mp3
-#EXTINF:-1,NBC NEWS 
-http://cloud.revma.ihrhls.com/zc6043?rj-org=n25a-e2&rj-ttl=5&rj-tok=AAABld_iPlEAJZ2Z6bsu2TUL4Q
-#EXTINF:-1,Skynews Radio 
-https://video.news.sky.com/snr/news/snrnews.mp3
+
