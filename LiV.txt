@@ -199,9 +199,6 @@ CHC家庭影院,http://125.69.99.160:7788/udp/239.94.1.173:5140
 爱体育,http://125.69.99.160:7788/rtp/239.94.1.143:5140
 爱赛车,http://125.69.99.160:7788/rtp/239.94.1.144:5140
 
-国际,#genre#
-凤凰中文,http://125.69.99.160:7788/rtp/239.93.0.162:2192
-凤凰资讯,http://125.69.99.160:7788/rtp/239.93.0.118:2191
 
 
 
@@ -374,10 +371,6 @@ CHC家庭影院,http://175.152.138.162:6066/udp/239.94.1.173:5140
 爱体育,http://175.152.138.162:6066/rtp/239.94.1.143:5140
 爱赛车,http://175.152.138.162:6066/rtp/239.94.1.144:5140
 
-国际,#genre#
-凤凰中文,http://175.152.138.162:6066/rtp/239.93.0.162:2192
-凤凰资讯,http://175.152.138.162:6066/rtp/239.93.0.118:2191
-
 
 
 央视,#genre#
@@ -400,37 +393,8 @@ CCTV15,http://t.061899.xyz/tl/dq.php?id=cctv15
 CCTV16,http://t.061899.xyz/tl/dq.php?id=cctv16
 CCTV17,http://t.061899.xyz/tl/dq.php?id=cctv17
 
-CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
-CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
-CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 
-CCTV1,http://ygbh.site/php/bfgd.php?id=488
-CCTV2,http://ygbh.site/php/bfgd.php?id=061
-CCTV3,http://ygbh.site/php/bfgd.php?id=062
-CCTV4,http://ygbh.site/php/bfgd.php?id=063
-CCTV5,http://ygbh.site/php/bfgd.php?id=064
-CCTV5+,http://ygbh.site/php/bfgd.php?id=246
-CCTV6,http://ygbh.site/php/bfgd.php?id=065
-CCTV7,http://ygbh.site/php/bfgd.php?id=127
-CCTV8,http://ygbh.site/php/bfgd.php?id=066
-CCTV9,http://ygbh.site/php/bfgd.php?id=128
-CCTV10,http://ygbh.site/php/bfgd.php?id=129
-CCTV11,http://ygbh.site/php/bfgd.php?id=130
-CCTV12,http://ygbh.site/php/bfgd.php?id=131
-CCTV13,http://ygbh.site/php/bfgd.php?id=067
-CCTV14,http://ygbh.site/php/bfgd.php?id=132
-CCTV15,http://ygbh.site/php/bfgd.php?id=133
+
 卫视,#genre#
 湖南卫视,http://t.061899.xyz/tl/dq.php?id=hunws
 北京卫视,http://t.061899.xyz/tl/dq.php?id=bjws
@@ -461,89 +425,15 @@ CCTV15,http://ygbh.site/php/bfgd.php?id=133
 新疆卫视,http://t.061899.xyz/tl/dq.php?id=xjws
 西藏卫视,http://t.061899.xyz/tl/dq.php?id=xzws
 
-北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
-湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
-浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
-江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
-东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
-广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
-深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
-天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
-河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
-安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
-东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
-黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
-湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
-江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
-辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
-山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
-四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
-重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 
-北京卫视,http://ygbh.site/php/bfgd.php?id=083
-天津卫视,http://ygbh.site/php/bfgd.php?id=084
-江苏卫视,http://ygbh.site/php/bfgd.php?id=085
-湖南卫视,http://ygbh.site/php/bfgd.php?id=086
-东方卫视,http://ygbh.site/php/bfgd.php?id=093
-浙江卫视,http://ygbh.site/php/bfgd.php?id=094
-广东卫视,http://ygbh.site/php/bfgd.php?id=092
-深圳卫视,http://ygbh.site/php/bfgd.php?id=100
-安徽卫视,http://ygbh.site/php/bfgd.php?id=096
-吉林卫视,http://ygbh.site/php/bfgd.php?id=097
-江西卫视,http://ygbh.site/php/bfgd.php?id=098
-山东卫视,http://ygbh.site/php/bfgd.php?id=099
-辽宁卫视,http://ygbh.site/php/bfgd.php?id=058
-湖北卫视,http://ygbh.site/php/bfgd.php?id=102
-东南卫视,http://ygbh.site/php/bfgd.php?id=483
-海南卫视,http://ygbh.site/php/bfgd.php?id=473
-河南卫视,http://ygbh.site/php/bfgd.php?id=104
-河北卫视,http://ygbh.site/php/bfgd.php?id=108
-四川卫视,http://ygbh.site/php/bfgd.php?id=103
-重庆卫视,http://ygbh.site/php/bfgd.php?id=107
-广西卫视,http://ygbh.site/php/bfgd.php?id=116
-云南卫视,http://ygbh.site/php/bfgd.php?id=115
-贵州卫视,http://ygbh.site/php/bfgd.php?id=101
-陕西卫视,http://ygbh.site/php/bfgd.php?id=114
-山西卫视,http://ygbh.site/php/bfgd.php?id=109
-青海卫视,http://ygbh.site/php/bfgd.php?id=111
-延边卫视,http://ygbh.site/php/bfgd.php?id=117
-宁夏卫视,http://ygbh.site/php/bfgd.php?id=118
-甘肃卫视,http://ygbh.site/php/bfgd.php?id=119
-农林卫视,http://ygbh.site/php/bfgd.php?id=122
-兵团卫视,http://ygbh.site/php/bfgd.php?id=124
-新疆卫视,http://ygbh.site/php/bfgd.php?id=150
-西藏卫视,http://ygbh.site/php/bfgd.php?id=121
-黑龙江卫视,http://ygbh.site/php/bfgd.php?id=095
-内蒙古卫视,http://ygbh.site/php/bfgd.php?id=110
 
 深圳卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002481
 兵团卫视,webview://https://www.yangshipin.cn/tv/home?pid=600193252
 
 
-
-
-四川,#genre#
-
-四川经济,http://zqh2333.top:2222/udp/239.93.25.101:5140
-四川文化旅游,http://zqh2333.top:2222/udp/239.93.25.102:5140
-四川新闻,http://zqh2333.top:2222/udp/239.93.24.47:5140
-四川影视文艺,http://zqh2333.top:2222/udp/239.93.24.166:5140
-四川科教,http://zqh2333.top:2222/udp/239.93.55.44:5140
-四川乡村,http://zqh2333.top:2222/udp/239.93.24.52:5140
-四川妇女儿童,http://zqh2333.top:2222/udp/239.93.24.219:5140
-
 数字频道,#genre#
 第一财经,http://t.061899.xyz/tl/dq.php?id=dycj
 上海新闻综合,http://t.061899.xyz/tl/dq.php?id=shxwzh
-
-
-求索科学,http://ygbh.site/php/bfgd.php?id=286
-世界地理,http://ygbh.site/php/bfgd.php?id=177
-求索动物,http://ygbh.site/php/bfgd.php?id=287
-求索生活,http://ygbh.site/php/bfgd.php?id=288
-家庭影院,http://ygbh.site/php/bfgd.php?id=289
-卡酷少儿,http://ygbh.site/php/bfgd.php?id=106
-金鹰卡通,http://ygbh.site/php/bfgd.php?id=105
 
 第一财经,webview://https://live.kankanews.com/huikan?id=5
 五星体育,webview://https://live.kankanews.com/huikan?id=10
@@ -553,25 +443,6 @@ CCTV15,http://ygbh.site/php/bfgd.php?id=133
 
 
 国际,#genre#
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
-爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-翡翠台1K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台2K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-翡翠台2K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
-华丽翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 CBC News,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
 ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
