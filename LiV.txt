@@ -123,17 +123,14 @@ CHC影迷电影,http://182.140.110.199:5050/udp/239.94.1.174:5140
 CHC动作电影,http://182.140.110.199:5050/udp/239.94.1.175:5140
 CHC家庭影院,http://182.140.110.199:5050/udp/239.94.1.173:5140
 求索纪录,http://182.140.110.199:5050/rtp/239.94.1.142:5140
-求索科学,http://ygbh.site/php/bfgd.php?id=286
-求索动物,http://ygbh.site/php/bfgd.php?id=287
-求索生活,http://ygbh.site/php/bfgd.php?id=288
 乐游,http://182.140.110.199:5050/rtp/239.94.1.164:5140
 五星体育,http://116.235.57.22:4022/udp/239.45.3.210:5140
-第一财经,http://116.235.57.22:4022/udp/239.45.3.211:5140
+第一财经,http://t.061899.xyz/tl/dq.php?id=dycj
 东方财经,http://182.140.110.199:5050/rtp/239.94.1.59:5140
 财富天下,http://182.140.110.199:5050/rtp/239.94.1.67:5140
 家庭理财,http://182.140.110.199:5050/rtp/239.94.1.50:5140
 生活时尚,http://116.235.57.22:4022/udp/239.45.3.132:5140
-上海新闻综合,http://116.235.57.22:4022/udp/239.45.3.209:5140
+上海新闻综合,http://t.061899.xyz/tl/dq.php?id=shxwzh
 上海教育,http://116.235.57.22:4022/udp/239.45.0.13:5140
 上海都市,http://116.235.57.22:4022/rtp/239.45.3.236:5140
 法治天地,http://182.140.110.199:5050/rtp/239.94.1.166:5140
@@ -432,8 +429,7 @@ CCTV17,http://t.061899.xyz/tl/dq.php?id=cctv17
 
 
 数字频道,#genre#
-第一财经,http://t.061899.xyz/tl/dq.php?id=dycj
-上海新闻综合,http://t.061899.xyz/tl/dq.php?id=shxwzh
+
 
 第一财经,webview://https://live.kankanews.com/huikan?id=5
 五星体育,webview://https://live.kankanews.com/huikan?id=10
@@ -442,24 +438,10 @@ CCTV17,http://t.061899.xyz/tl/dq.php?id=cctv17
 哈哈炫动,webview://https://live.kankanews.com/huikan?id=9
 
 
-国际,#genre#
-CBC News,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
-ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
-WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-AL Jazeera阿拉伯半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-CNA新加坡亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-FOX美国福克斯商业,http://41.205.93.154/FOXBUSINESS/index.m3u8
-TV5Monde_Pacifique法语电视网络,https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-NHK World Premium日本放送日语国际,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-REDBULL TV红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-REDBULL TV红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-Travelxp,https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
-GOLFPASS,https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_golfpass_001.m3u8?ads.caid=NBCUGolfpass&ads.csid=samsungtvplus_us_nbcugolfpass_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2794&ads.xumo_contentName=nbcugolfpass&ads.xumo_providerId=2794&ads.xumo_providerName=nbcugolfpass&ads.xumo_channelId=9999550&ads.xumo_channelName=Golfpass&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-TED_Talks,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
-Kidoodle.TV,https://06fda8bb401f4c0abb854097c0a3b3d6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_KidoodleTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=414&ads.wurl_name=KidoodleTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
-Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+国际地区,#genre#
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+
 
 
 电视剧轮播,#genre#
