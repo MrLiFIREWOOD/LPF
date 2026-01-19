@@ -669,7 +669,8 @@ CCTV17,http://t.061899.xyz/tl/dq.php?id=cctv17
 
 
 数字频道,#genre#
-
+第一财经,http://t.061899.xyz/tl/dq.php?id=dycj
+上海新闻综合,http://t.061899.xyz/tl/dq.php?id=shxwzh
 
 第一财经,webview://https://live.kankanews.com/huikan?id=5
 五星体育,webview://https://live.kankanews.com/huikan?id=10
