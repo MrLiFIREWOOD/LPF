@@ -547,7 +547,16 @@ CCTV17,http://t.061899.xyz/tl/dq.php?id=cctv17
 凤凰中文,http://171.213.131.130:2222/rtp/239.94.2.51:5140
 凤凰中文,http://116.233.50.245:8222/rtp/239.94.2.51:5140
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-
+ESPN,http://cord-cutter.net:8080/30550113/30550113/14197
+Fox Sports 1,https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
+Sky Sports Premier League,https://starshare.cx/live/P4B9TB9xR8/humongous2tonight/186604.ts
+Sky Sports Football,https://starshare.cx/live/P4B9TB9xR8/humongous2tonight/186612.ts
+Now Sports Premier League 1,http://109.61.81.35:443/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
+Al Jazeera English,https://live-hls-apps-aje-v3-fa.getaj.net/AJE/01.m3u8
+BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+CNN US,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+CNN International,https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+MS NOW,http://cord-cutter.net:8080/81945791/05013455/21376
 
 
 电视剧轮播,#genre#
